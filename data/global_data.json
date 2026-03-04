@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68137.0,
-  "priceChange24h": 0.29,
+  "btcPrice": 68510.0,
+  "priceChange24h": 0.72,
   "fomoIndex": 10,
-  "aiCommentCN": "恐慌指数蹦到10了，大家都在等待暴跌吧？",
-  "aiCommentEN": "The fear and greed index is at an all-time low, indicating a state of panic, yet the 24-hour price change is a mere 0.29%. It seems the market is stuck in a sta",
-  "lastUpdated": 1772604318.885118,
+  "aiCommentCN": "恐慌指数高涨，市场却无动于衷。",
+  "aiCommentEN": "Fear index spikes, market shrugs.",
+  "lastUpdated": 1772608033.060241,
   "forexRates": {
     "CNY": 6.9076,
     "EUR": 0.86162,
@@ -13,7 +13,7 @@
   "historyYesterday": 14,
   "historyLastWeek": 11,
   "historyLastMonth": 14,
-  "aiSummaryCN": "今日比特币价格约 $67,505，24 小时跌幅 -1.4%。恐慌贪婪指数 10 表示市场情绪偏恐惧。当前市场主要受美联储预期和地缘政治影响，KOL 分析师看多长期趋势，但短期风险仍存。",
-  "aiSummaryEN": "Bitcoin's price is around $67,505, with a 24-hour decline of -1.4%. The Fear & Greed Index at 10 indicates a fearful market sentiment. The market is driven by Fed expectations and geopolitical factors, with analysts bullish on long-term trends but cautious about short-term risks.",
-  "aiSummaryUpdated": 1772595416.676398
+  "aiSummaryCN": "比特币当前价格约 $68,510，24 小时涨跌幅 +0.7%。恐慌贪婪指数 10 表示市场仍然谨慎。地缘政治和美联储预期影响市场情绪。分析师看多长期趋势，但短期风险仍存。",
+  "aiSummaryEN": "Bitcoin's price is around $68,510, with a 24h change of +0.7%. The fear and greed index at 10 indicates caution. Geopolitics and Fed expectations influence market sentiment. Analysts are bullish on the long-term trend, but short-term risks persist.",
+  "aiSummaryUpdated": 1772608033.704217
 }
