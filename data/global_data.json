@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67664.0,
-  "priceChange24h": -1.08,
+  "btcPrice": 67830.0,
+  "priceChange24h": -0.83,
   "fomoIndex": 10,
-  "aiCommentCN": "恐慌指数飙升，无聊情绪蔓延。",
-  "aiCommentEN": "The fear and greed index has hit rock bottom, indicating a pervasive sense of boredom and stagnation in the market. It seems investors are stuck in a holding pa",
-  "lastUpdated": 1772597144.789681,
+  "aiCommentCN": "恐慌指数狂飙，市场却无感。",
+  "aiCommentEN": "The fear and greed index is at an extreme low, indicating a state of panic, yet the market seems rather unresponsive with a mere 0.83% drop in the last 24 hours",
+  "lastUpdated": 1772602088.59681,
   "forexRates": {
     "CNY": 6.9076,
     "EUR": 0.86162,
