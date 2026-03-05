@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71481.0,
+  "btcPrice": 71480.0,
   "priceChange24h": -1.73,
   "fomoIndex": 22,
-  "aiCommentCN": "恐慌指数高涨，市场却无所谓。",
-  "aiCommentEN": "Fear spikes, market shrugs.",
-  "lastUpdated": 1772725613.05303,
+  "aiCommentCN": "贪婪指数狂跌，市场无感。",
+  "aiCommentEN": "Greed plummets, market shrugs.",
+  "lastUpdated": 1772725656.236131,
   "forexRates": {
     "CNY": 6.9011,
     "EUR": 0.86073,
@@ -13,7 +13,7 @@
   "historyYesterday": 10,
   "historyLastWeek": 11,
   "historyLastMonth": 17,
-  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪较为谨慎。\n【情绪信号】\n社交媒体讨论热度降低、散户活跃度下降、衍生品多空比偏空。\n【短期展望】\n未来几天可能继续震荡调整。\n【一句提醒】\n普通投资者应保持清晰的头脑，避免情绪化决策。",
-  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market sentiment is cautious.\n[Key Drivers]\nSocial media discussion heat decreased, retail investor activity declined, and derivatives long-short ratio is biased towards short.\n[Outlook]\nIt is likely to continue fluctuating and adjusting in the next few days.\n[Reminder]\nOrdinary investors should keep a clear head and avoid emotional decision-making.",
-  "aiSummaryUpdated": 1772725613.801034
+  "aiSummaryCN": "【今日观点】\n当前比特币市场情绪较为谨慎。\n【驱动因素】\n美联储政策、ETF资金、美元指数是影响市场的关键因素。\n【市场展望】\n未来24-72小时内，BTC价格可能会继续波动。\n【一句提醒】\n投资者应密切关注市场变化，做好风险管理。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is cautious.\n[Key Drivers]\nThe Federal Reserve policy, ETF funds, and the US dollar index are key factors affecting the market.\n[Outlook]\nIn the next 24-72 hours, the BTC price may continue to fluctuate.\n[Reminder]\nInvestors should closely monitor market changes and manage risks.",
+  "aiSummaryUpdated": 1772725657.005385
 }
