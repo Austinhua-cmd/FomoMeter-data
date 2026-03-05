@@ -1,10 +1,10 @@
 {
-  "btcPrice": 72787.0,
-  "priceChange24h": 1.9,
+  "btcPrice": 73368.0,
+  "priceChange24h": 2.6,
   "fomoIndex": 22,
-  "aiCommentCN": "恐慌指数高，市场呼呼大睡。",
-  "aiCommentEN": "Fear index high, market hits snooze.",
-  "lastUpdated": 1772703523.18365,
+  "aiCommentCN": "恐慌指数高，市场却无感。",
+  "aiCommentEN": "Fear index high, market shrugs.",
+  "lastUpdated": 1772706915.990622,
   "forexRates": {
     "CNY": 6.8973,
     "EUR": 0.85844,
