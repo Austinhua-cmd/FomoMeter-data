@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71002.0,
-  "priceChange24h": -2.54,
+  "btcPrice": 71055.0,
+  "priceChange24h": -2.26,
   "fomoIndex": 22,
-  "aiCommentCN": "跌的时候想抄底，稳的时候想逃顶",
-  "aiCommentEN": "Fear selling, greed buying",
-  "lastUpdated": 1772727831.46955,
+  "aiCommentCN": "跌的时候想抄底，稳的时候忘了止损",
+  "aiCommentEN": "Fear sells, greed buys",
+  "lastUpdated": 1772727997.852861,
   "forexRates": {
     "CNY": 6.9011,
     "EUR": 0.86073,
@@ -13,7 +13,7 @@
   "historyYesterday": 10,
   "historyLastWeek": 11,
   "historyLastMonth": 17,
-  "aiSummaryCN": "【AI综合判断】\n比特币当前处于震荡调整阶段。\n【三大驱动因素】\n1. 宏观经济数据变化\n2. 资金流动性转变\n3. 市场情绪波动\n【未来展望】\n短期内，价格可能继续波动。\n【一句提醒】\n投资者应谨慎操作，关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nBitcoin is currently in a fluctuation adjustment phase.\n[Key Drivers]\n1. Changes in macroeconomic data\n2. Shifts in liquidity\n3. Market sentiment fluctuations\n[Outlook]\nIn the short term, prices may continue to fluctuate.\n[Reminder]\nInvestors should be cautious and monitor market signals.",
-  "aiSummaryUpdated": 1772727832.323319
+  "aiSummaryCN": "【AI综合判断】\n比特币短期内可能继续震荡。\n【三大驱动因素】\n1. 宏观经济形势\n2. 资金流动性\n3. 市场情绪波动\n【未来展望】\n短期内，BTC价格可能会继续下探。\n【一句提醒】\n投资者应谨慎操作，严格控制风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may continue to fluctuate in the short term.\n[Key Drivers]\n1. Macroeconomic conditions\n2. Liquidity of funds\n3. Market sentiment fluctuations\n[Outlook]\nIn the short term, the BTC price may continue to decline.\n[Reminder]\nInvestors should operate cautiously and strictly control risks.",
+  "aiSummaryUpdated": 1772727998.517818
 }
