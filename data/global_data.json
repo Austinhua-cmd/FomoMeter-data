@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71160.0,
-  "priceChange24h": -2.06,
+  "btcPrice": 71075.0,
+  "priceChange24h": -1.96,
   "fomoIndex": 18,
-  "aiCommentCN": "价格掉了，心态没掉",
-  "aiCommentEN": "Price drops, sanity stays",
-  "lastUpdated": 1772761808.252475,
+  "aiCommentCN": "行情没动，心跳挺快，市场永远正确，散户经常疑惑。",
+  "aiCommentEN": "Market stays calm, but hearts still racing, always guessing.",
+  "lastUpdated": 1772770015.637315,
   "forexRates": {
     "CNY": 6.9011,
     "EUR": 0.86073,
@@ -13,7 +13,7 @@
   "historyYesterday": 22,
   "historyLastWeek": 13,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【今日观点】\n比特币市场情绪较为谨慎。\n【驱动因素】\n美联储政策、ETF资金、美元指数对市场影响较大。\n【市场展望】\n未来24-72小时内，价格可能继续波动。\n【一句提醒】\n交易时应谨慎，关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nThe bitcoin market sentiment is cautious.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the US dollar index have a significant impact on the market.\n[Outlook]\nIn the next 24-72 hours, the price may continue to fluctuate.\n[Reminder]\nBe cautious when trading and pay attention to market signals.",
-  "aiSummaryUpdated": 1772750023.629204
+  "aiSummaryCN": "【多空格局】\n当前比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为BTC价格已接近历史底部，投资者可以抄底。\n【空头理由】\n空头认为市场恐慌情绪较高，价格可能继续下跌。\n【市场展望】\n短期内，BTC价格可能继续波动，投资者需谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market is experiencing a fierce tug-of-war between bulls and bears.\n[Key Drivers]\nBulls believe the BTC price has reached a historical bottom, making it a good time to buy.\n[Outlook]\nBears think the market sentiment is overly pessimistic, which may lead to further price drops.\n[Reminder]\nIn the short term, the BTC price may continue to fluctuate, and investors should be cautious.",
+  "aiSummaryUpdated": 1772770016.502904
 }
