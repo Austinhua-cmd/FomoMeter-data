@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68975.0,
-  "priceChange24h": -3.27,
+  "btcPrice": 68471.0,
+  "priceChange24h": -4.12,
   "fomoIndex": 18,
-  "aiCommentCN": "大家都说稳，价格却不安分。",
-  "aiCommentEN": "Prices are restless, but we claim to be calm.",
-  "lastUpdated": 1772811210.644932,
+  "aiCommentCN": "跌的时候想抄底，抄完还在跌",
+  "aiCommentEN": "Market dips, we panic buy, still it dips",
+  "lastUpdated": 1772814967.979789,
   "forexRates": {
     "CNY": 6.9047,
     "EUR": 0.86498,
@@ -13,7 +13,7 @@
   "historyYesterday": 22,
   "historyLastWeek": 13,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【市场解读】\n当前比特币市场走势出现调整，一句解读是市场正在经历恐慌情绪。\n【关键事件】\n近期关键事件包括全球经济数据发布、监管政策调整和市场情绪波动。\n【市场影响】\n这些事件导致投资者信心下降，市场出现抛售，BTC价格下跌。\n【一句提醒】\n投资者应保持警惕，关注市场信号，避免情绪化操作。",
-  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market trend is adjusting, and in one sentence, the market is experiencing panic sentiment.\n[Key Drivers]\nRecent key events include the release of global economic data, regulatory policy adjustments, and market mood fluctuations.\n[Outlook]\nThese events led to a decline in investor confidence, a market sell-off, and a drop in BTC price.\n[Reminder]\nInvestors should remain vigilant, monitor market signals, and avoid emotional operations.",
-  "aiSummaryUpdated": 1772793050.0106
+  "aiSummaryCN": "【交易观点】\n比特币短期内可能会继续下跌。\n【关键位置】\n68,000 美元以下为关键支撑位。\n【短线策略】\n可以尝试低位买入，目标价位为 70,000 美元。\n【风险提醒】\n请注意市场波动风险，设置好止损位。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may continue to decline in the short term.\n[Key Drivers]\n$68,000 is the key support level.\n[Outlook]\nTry to buy at low positions, with a target price of $70,000.\n[Reminder]\nPlease note the market fluctuation risk and set a stop-loss position.",
+  "aiSummaryUpdated": 1772814968.809863
 }
