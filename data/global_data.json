@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68302.0,
-  "priceChange24h": -3.93,
+  "btcPrice": 68347.0,
+  "priceChange24h": -4.08,
   "fomoIndex": 18,
-  "aiCommentCN": "价格掉了，梦想没掉.",
-  "aiCommentEN": "Price drops, dreams don't.",
-  "lastUpdated": 1772833970.821041,
+  "aiCommentCN": "行情跌了，梦想没熄灭",
+  "aiCommentEN": "Market falls, hope remains high",
+  "lastUpdated": 1772835831.723065,
   "forexRates": {
     "CNY": 6.9047,
     "EUR": 0.86498,
@@ -13,7 +13,7 @@
   "historyYesterday": 22,
   "historyLastWeek": 13,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【交易观点】\n比特币短期内可能会继续下跌。\n【关键位置】\n68,000 美元以下为关键支撑位。\n【短线策略】\n可以尝试低位买入，目标价位为 70,000 美元。\n【风险提醒】\n请注意市场波动风险，设置好止损位。",
-  "aiSummaryEN": "[Today's View]\nBitcoin may continue to decline in the short term.\n[Key Drivers]\n$68,000 is the key support level.\n[Outlook]\nTry to buy at low positions, with a target price of $70,000.\n[Reminder]\nPlease note the market fluctuation risk and set a stop-loss position.",
-  "aiSummaryUpdated": 1772814968.809863
+  "aiSummaryCN": "【交易观点】\n比特币短期内可能会继续下跌。\n【关键位置】\n68,000 美元是关键支撑位。\n【短线策略】\n可以考虑在 68,000 美元附近做多。\n【风险提醒】\n注意防范下破 65,000 美元的风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may continue to decline in the short term.\n[Key Drivers]\n$68,000 is the key support level.\n[Outlook]\nConsider buying near $68,000.\n[Reminder]\nBe aware of the risk of breaking below $65,000.",
+  "aiSummaryUpdated": 1772835832.426418
 }
