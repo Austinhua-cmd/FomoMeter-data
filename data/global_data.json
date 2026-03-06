@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70914.0,
-  "priceChange24h": -1.64,
+  "btcPrice": 70408.0,
+  "priceChange24h": -3.15,
   "fomoIndex": 18,
-  "aiCommentCN": "跌的时候想抄底，稳的时候想加仓",
-  "aiCommentEN": "Fear of missing out when it's low, fear of being late when it's high",
-  "lastUpdated": 1772785984.576041,
+  "aiCommentCN": "跌的时候想抄底，抄完继续跌，真是缘分。",
+  "aiCommentEN": "Falling prices make me want to buy, but it just keeps dropping.",
+  "lastUpdated": 1772789675.435059,
   "forexRates": {
     "CNY": 6.9011,
     "EUR": 0.86073,
