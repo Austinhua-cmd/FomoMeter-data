@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67811.0,
-  "priceChange24h": -1.37,
+  "btcPrice": 67804.0,
+  "priceChange24h": -0.77,
   "fomoIndex": 12,
-  "aiCommentCN": "行情没波动，心跳很急",
-  "aiCommentEN": "Market is calm, but hearts are racing",
-  "lastUpdated": 1772898298.486462,
+  "aiCommentCN": "市场的波动，是心跳的韵律",
+  "aiCommentEN": "Market waves are the rhythm of heartbeats",
+  "lastUpdated": 1772900563.301121,
   "forexRates": {
     "CNY": 6.9047,
     "EUR": 0.86498,
@@ -13,7 +13,7 @@
   "historyYesterday": 18,
   "historyLastWeek": 11,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势仍然偏弱。\n【关键位置】\n当前支撑位：65,000 美元，阻力位：70,000 美元。\n【走势推演】\n短期内可能继续震荡调整。\n【一句提醒】\n操作时应谨慎控风险。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend remains weak.\n[Key Drivers]\nCurrent support: $65,000, resistance: $70,000.\n[Outlook]\nExpected to continue fluctuating in the short term.\n[Reminder]\nBe cautious and control risk when operating.",
-  "aiSummaryUpdated": 1772878781.043309
+  "aiSummaryCN": "【今日观点】\n比特币市场情绪谨慎，价格波动不大。\n【驱动因素】\n美联储政策、ETF资金、美股走势\n【市场展望】\n未来24-72小时内，价格可能继续震荡。\n【一句提醒】\n交易时要注意风险控制。",
+  "aiSummaryEN": "[Today's View]\nThe bitcoin market sentiment is cautious, with little price fluctuation.\n[Key Drivers]\nFed policy, ETF funds, US stock market trends\n[Outlook]\nIn the next 24-72 hours, the price may continue to fluctuate.\n[Reminder]\nBe aware of risk control when trading.",
+  "aiSummaryUpdated": 1772900564.029975
 }
