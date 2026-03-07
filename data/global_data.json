@@ -1,18 +1,18 @@
 {
-  "btcPrice": 68222.0,
-  "priceChange24h": -3.73,
-  "fomoIndex": 18,
-  "aiCommentCN": "行情不动，心跳如鼓。",
-  "aiCommentEN": "Market stays calm, heart beats fast.",
-  "lastUpdated": 1772840965.719151,
+  "btcPrice": 68233.0,
+  "priceChange24h": -4.07,
+  "fomoIndex": 12,
+  "aiCommentCN": "跌的时候怕没底，涨的时候怕假阳.",
+  "aiCommentEN": "Fear of no bottom when falling, fear of fake rallies.",
+  "lastUpdated": 1772847856.503944,
   "forexRates": {
     "CNY": 6.9047,
     "EUR": 0.86498,
     "GBP": 0.74987
   },
-  "historyYesterday": 22,
-  "historyLastWeek": 13,
-  "historyLastMonth": 14,
+  "historyYesterday": 18,
+  "historyLastWeek": 11,
+  "historyLastMonth": 12,
   "aiSummaryCN": "【交易观点】\n比特币短期内可能会继续下跌。\n【关键位置】\n68,000 美元是关键支撑位。\n【短线策略】\n可以考虑在 68,000 美元附近做多。\n【风险提醒】\n注意防范下破 65,000 美元的风险。",
   "aiSummaryEN": "[Today's View]\nBitcoin may continue to decline in the short term.\n[Key Drivers]\n$68,000 is the key support level.\n[Outlook]\nConsider buying near $68,000.\n[Reminder]\nBe aware of the risk of breaking below $65,000.",
   "aiSummaryUpdated": 1772835832.426418
