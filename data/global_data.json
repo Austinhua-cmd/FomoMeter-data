@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67306.0,
-  "priceChange24h": -1.39,
+  "btcPrice": 67003.0,
+  "priceChange24h": -1.35,
   "fomoIndex": 12,
-  "aiCommentCN": "静静等待趋势，心却已千回百转",
-  "aiCommentEN": "Wait calmly, but heart beats a thousand times",
-  "lastUpdated": 1772934562.124512,
+  "aiCommentCN": "越跌越想买，但钱包在抗议。",
+  "aiCommentEN": "Falling prices spark buying urges, but wallets protest.",
+  "lastUpdated": 1772942912.255109,
   "forexRates": {
     "CNY": 6.9047,
     "EUR": 0.86498,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 14,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【机构视角】\n比特币当前价格为67,363美元，机构投资者对其市场走势保持关注。\n【关键观察】\n机构投资者观察到比特币24h涨跌为-1.4%，恐慌贪婪指数为12，表明市场情绪偏谨慎。\n比特币的价格波动对机构投资决策有重要影响。\n【未来展望】\n从机构视角来看，比特币的未来走势将取决于全球经济形势和监管环境。\n【一句提醒】\n机构投资者应注意风险，合理配置投资组合。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $67,363, and institutional investors are closely watching its market trend.\n[Key Drivers]\nInstitutional investors have observed a 24h change of -1.4% and a Fear & Greed Index of 12, indicating a cautious market sentiment.\nBitcoin's price volatility has a significant impact on institutional investment decisions.\n[Outlook]\nFrom an institutional perspective, Bitcoin's future trend will depend on the global economic situation and regulatory environment.\n[Reminder]\nInstitutional investors should be aware of the risks and reasonably allocate their portfolios.",
-  "aiSummaryUpdated": 1772921958.934369
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段，根据历史数据和市场趋势，BTC可能处于上涨周期的中期阶段。\n【当前阶段】\n当前阶段，BTC价格仍然呈现波动走势，24h涨跌-1.4%和恐慌贪婪指数12表明市场仍然存在一定的不确定性，投资者应该保持谨慎。\n【未来可能走势】\n周期视角下的展望，BTC有可能继续上涨，但也存在调整的可能，投资者应该密切关注市场动向。\n【一句提醒】\n风险或操作提醒，投资者应该保持清醒的头脑，不要追高杀低，合理配置资产。",
+  "aiSummaryEN": "[Today's View]\nWe are currently in the middle stage of an upward cycle, based on historical data and market trends.\n[Key Drivers]\nIn the current stage, BTC's price is still fluctuating, with a 24h change of -1.4% and a Fear and Greed Index of 12, indicating some uncertainty in the market, and investors should remain cautious.\n[Outlook]\nFrom a cyclical perspective, BTC may continue to rise, but there is also a possibility of adjustment, and investors should closely monitor market developments.\n[Reminder]\nRisk reminder, investors should keep a clear head, not chase high or kill low, and reasonably allocate assets.",
+  "aiSummaryUpdated": 1772942913.542239
 }
