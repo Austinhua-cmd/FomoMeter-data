@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67283.0,
-  "priceChange24h": -0.74,
+  "btcPrice": 67253.0,
+  "priceChange24h": -1.07,
   "fomoIndex": 12,
-  "aiCommentCN": "大家都说不动，但心里还在抖.",
-  "aiCommentEN": "Market stays calm, but hearts are racing.",
-  "lastUpdated": 1772956188.983992,
+  "aiCommentCN": "跌的时候怕买不到，涨的时候怕买晚了",
+  "aiCommentEN": "Fear missing out when low, fear buying high",
+  "lastUpdated": 1772958407.063329,
   "forexRates": {
     "CNY": 6.9047,
     "EUR": 0.86498,
