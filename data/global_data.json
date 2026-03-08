@@ -1,18 +1,18 @@
 {
-  "btcPrice": 67338.0,
-  "priceChange24h": -1.31,
+  "btcPrice": 67306.0,
+  "priceChange24h": -1.39,
   "fomoIndex": 12,
-  "aiCommentCN": "行情没动，心里却很忙。",
-  "aiCommentEN": "Market is calm, but my heart is racing.",
-  "lastUpdated": 1772927035.867042,
+  "aiCommentCN": "静静等待趋势，心却已千回百转",
+  "aiCommentEN": "Wait calmly, but heart beats a thousand times",
+  "lastUpdated": 1772934562.124512,
   "forexRates": {
     "CNY": 6.9047,
     "EUR": 0.86498,
     "GBP": 0.74987
   },
-  "historyYesterday": 18,
-  "historyLastWeek": 11,
-  "historyLastMonth": 12,
+  "historyYesterday": 12,
+  "historyLastWeek": 14,
+  "historyLastMonth": 9,
   "aiSummaryCN": "【机构视角】\n比特币当前价格为67,363美元，机构投资者对其市场走势保持关注。\n【关键观察】\n机构投资者观察到比特币24h涨跌为-1.4%，恐慌贪婪指数为12，表明市场情绪偏谨慎。\n比特币的价格波动对机构投资决策有重要影响。\n【未来展望】\n从机构视角来看，比特币的未来走势将取决于全球经济形势和监管环境。\n【一句提醒】\n机构投资者应注意风险，合理配置投资组合。",
   "aiSummaryEN": "[Today's View]\nBitcoin's current price is $67,363, and institutional investors are closely watching its market trend.\n[Key Drivers]\nInstitutional investors have observed a 24h change of -1.4% and a Fear & Greed Index of 12, indicating a cautious market sentiment.\nBitcoin's price volatility has a significant impact on institutional investment decisions.\n[Outlook]\nFrom an institutional perspective, Bitcoin's future trend will depend on the global economic situation and regulatory environment.\n[Reminder]\nInstitutional investors should be aware of the risks and reasonably allocate their portfolios.",
   "aiSummaryUpdated": 1772921958.934369
