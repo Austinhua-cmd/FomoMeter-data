@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66498.0,
-  "priceChange24h": -1.22,
+  "btcPrice": 67212.0,
+  "priceChange24h": 0.37,
   "fomoIndex": 8,
-  "aiCommentCN": "行情没动，心跳挺快，散户都在等待！",
-  "aiCommentEN": "Market stays calm, hearts still racing, waiting for the next move!",
-  "lastUpdated": 1773021056.56532,
+  "aiCommentCN": "价格静悄悄，心跳得快.",
+  "aiCommentEN": "Market is calm, but my heart is racing.",
+  "lastUpdated": 1773029626.063364,
   "forexRates": {
     "CNY": 6.9047,
     "EUR": 0.86498,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 10,
   "historyLastMonth": 6,
-  "aiSummaryCN": "【资金观察】\n比特币市场资金情绪较为谨慎。\n【资金动向】\n1.ETF资金流入减少\n2.稳定币发行量增高\n3.巨鲸钱包活跃度降低\n【市场展望】\n短期内可能继续震荡调整。\n【一句提醒】\n投资需谨慎，风险自担。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market sentiment is cautious.\n[Key Drivers]\n1. Decreased ETF fund inflows\n2. Increased stablecoin issuance\n3. Lowered whale wallet activity\n[Outlook]\nShort-term fluctuations and adjustments are possible.\n[Reminder]\nInvest with caution, at your own risk.",
-  "aiSummaryUpdated": 1773008384.276489
+  "aiSummaryCN": "【多空格局】\n比特币市场多空格局激烈。\n【多头理由】\n多头认为BTC价格有望上涨，投资者信心增强。\n【空头理由】\n空头认为市场存在风险，价格可能回调。\n【市场展望】\n短期内，价格或将继续震荡，投资者需谨慎。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market is experiencing a fierce tug-of-war between bulls and bears.\n[Key Drivers]\nBulls believe BTC price will rise, driven by increasing investor confidence.\n[Outlook]\nBears think the market is at risk, and prices may drop.\n[Reminder]\nIn the short term, prices may continue to fluctuate, and investors should be cautious.",
+  "aiSummaryUpdated": 1773029626.817959
 }
