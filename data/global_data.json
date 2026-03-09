@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68965.0,
-  "priceChange24h": 3.01,
+  "btcPrice": 68794.0,
+  "priceChange24h": 4.57,
   "fomoIndex": 8,
-  "aiCommentCN": "行情慢慢爬，心态慢慢磨。",
-  "aiCommentEN": "Market climbs slow, patience wears thin.",
-  "lastUpdated": 1773093239.538775,
+  "aiCommentCN": "行情升温，心跳加速",
+  "aiCommentEN": "Market heats up, heartbeat speeds up",
+  "lastUpdated": 1773095079.011277,
   "forexRates": {
     "CNY": 6.9173,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 10,
   "historyLastMonth": 6,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势将呈现震荡趋势。\n【关键位置】\n支撑位：65,000 美元，阻力位：72,000 美元。\n【走势推演】\n若跌破支撑位，可能会下探至 60,000 美元。\n【一句提醒】\n注意风险，保持止损位。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend will be fluctuating.\n[Key Drivers]\nSupport level: $65,000, Resistance level: $72,000.\n[Outlook]\nIf it breaks through the support level, it may drop to $60,000.\n[Reminder]\nBe aware of the risk and set a stop-loss position.",
-  "aiSummaryUpdated": 1773074008.172328
+  "aiSummaryCN": "【AI综合判断】\n比特币价格将继续保持强势上涨趋势。\n【三大驱动因素】\n1. 宏观经济环境改善\n2. 资金流向加密市场增加\n3. 市场情绪转为乐观\n【未来展望】\n短期内，比特币价格可能会继续上涨，突破70,000美元关口。\n【一句提醒】\n投资者应注意风险，保持仓位适度。",
+  "aiSummaryEN": "[Today's View]\nBitcoin price is expected to continue its strong upward trend.\n[Key Drivers]\n1. Improvement in macroeconomic environment\n2. Increase in capital flow to the crypto market\n3. Shift in market sentiment to optimism\n[Outlook]\nIn the short term, Bitcoin price may continue to rise and break through the $70,000 threshold.\n[Reminder]\nInvestors should be aware of the risks and maintain a moderate position.",
+  "aiSummaryUpdated": 1773095079.82152
 }
