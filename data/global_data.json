@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68922.0,
-  "priceChange24h": 2.58,
+  "btcPrice": 68935.0,
+  "priceChange24h": 2.95,
   "fomoIndex": 8,
-  "aiCommentCN": "涨的时候怕晚，跌的时候怕早",
-  "aiCommentEN": "Fear missing out when up, fear buying low when down",
-  "lastUpdated": 1773070594.170483,
+  "aiCommentCN": "大家都说稳定，但眼神一直在刷价格。",
+  "aiCommentEN": "Everyone says calm, but eyes keep checking prices.",
+  "lastUpdated": 1773074007.273761,
   "forexRates": {
     "CNY": 6.9173,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 10,
   "historyLastMonth": 6,
-  "aiSummaryCN": "【今日观点】\n比特币市场情绪较为谨慎。\n【驱动因素】\n美联储政策、ETF资金、美元指数是影响市场的关键因素。\n【市场展望】\n未来24-72小时内，BTC价格可能会继续波动。\n【一句提醒】\n投资者需要密切关注市场动态，谨慎交易。",
-  "aiSummaryEN": "[Today's View]\nThe Bitcoin market sentiment is cautious.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the US dollar index are key drivers of the market.\n[Outlook]\nIn the next 24-72 hours, the BTC price may continue to fluctuate.\n[Reminder]\nInvestors need to closely monitor market dynamics and trade with caution.",
-  "aiSummaryUpdated": 1773052875.317492
+  "aiSummaryCN": "【技术观点】\n比特币短期走势将呈现震荡趋势。\n【关键位置】\n支撑位：65,000 美元，阻力位：72,000 美元。\n【走势推演】\n若跌破支撑位，可能会下探至 60,000 美元。\n【一句提醒】\n注意风险，保持止损位。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend will be fluctuating.\n[Key Drivers]\nSupport level: $65,000, Resistance level: $72,000.\n[Outlook]\nIf it breaks through the support level, it may drop to $60,000.\n[Reminder]\nBe aware of the risk and set a stop-loss position.",
+  "aiSummaryUpdated": 1773074008.172328
 }
