@@ -1,18 +1,18 @@
 {
-  "btcPrice": 68553.0,
-  "priceChange24h": 3.6,
-  "fomoIndex": 8,
-  "aiCommentCN": "行情热闹，散户忙得团团转",
-  "aiCommentEN": "Market's hot, investors are spinning around",
-  "lastUpdated": 1773100201.949947,
+  "btcPrice": 68907.0,
+  "priceChange24h": 3.51,
+  "fomoIndex": 13,
+  "aiCommentCN": "行情起飞，梦想照进现实",
+  "aiCommentEN": "Market takes off, dreams become reality",
+  "lastUpdated": 1773107036.482076,
   "forexRates": {
     "CNY": 6.9173,
     "EUR": 0.86543,
     "GBP": 0.74885
   },
-  "historyYesterday": 12,
-  "historyLastWeek": 10,
-  "historyLastMonth": 6,
+  "historyYesterday": 8,
+  "historyLastWeek": 14,
+  "historyLastMonth": 7,
   "aiSummaryCN": "【AI综合判断】\n比特币价格将继续保持强势上涨趋势。\n【三大驱动因素】\n1. 宏观经济环境改善\n2. 资金流向加密市场增加\n3. 市场情绪转为乐观\n【未来展望】\n短期内，比特币价格可能会继续上涨，突破70,000美元关口。\n【一句提醒】\n投资者应注意风险，保持仓位适度。",
   "aiSummaryEN": "[Today's View]\nBitcoin price is expected to continue its strong upward trend.\n[Key Drivers]\n1. Improvement in macroeconomic environment\n2. Increase in capital flow to the crypto market\n3. Shift in market sentiment to optimism\n[Outlook]\nIn the short term, Bitcoin price may continue to rise and break through the $70,000 threshold.\n[Reminder]\nInvestors should be aware of the risks and maintain a moderate position.",
   "aiSummaryUpdated": 1773095079.82152
