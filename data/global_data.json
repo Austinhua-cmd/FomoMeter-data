@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71264.0,
-  "priceChange24h": 3.18,
+  "btcPrice": 71361.0,
+  "priceChange24h": 3.48,
   "fomoIndex": 13,
-  "aiCommentCN": "行情小涨，心情大涨。",
-  "aiCommentEN": "Market ups, mood boosts.",
-  "lastUpdated": 1773156561.045489,
+  "aiCommentCN": "价格在波动，心更在颤抖",
+  "aiCommentEN": "Market swings, so does my heart",
+  "lastUpdated": 1773160396.240361,
   "forexRates": {
     "CNY": 6.8772,
     "EUR": 0.85903,
@@ -13,7 +13,7 @@
   "historyYesterday": 8,
   "historyLastWeek": 14,
   "historyLastMonth": 7,
-  "aiSummaryCN": "【市场情绪】\n比特币当前市场情绪较为乐观，投资者信心逐渐恢复。\n【情绪信号】\n社交媒体讨论热度上升、散户活跃度增加、衍生品多空比偏多头。\n【短期展望】\n未来几天比特币价格可能继续走高，突破72,000美元关口。\n【一句提醒】\n普通投资者应保持谨慎，不要过度追高，合理布局投资组合。",
-  "aiSummaryEN": "[Today's View]\nThe current market sentiment of Bitcoin is relatively optimistic, with investor confidence gradually recovering.\n[Key Drivers]\nIncreased social media discussion, rising retail activity, and a bullish derivatives ratio.\n[Outlook]\nIn the next few days, the price of Bitcoin may continue to rise, breaking through the $72,000 threshold.\n[Reminder]\nOrdinary investors should remain cautious, not over-pursue, and reasonably allocate their investment portfolio.",
-  "aiSummaryUpdated": 1773138922.420742
+  "aiSummaryCN": "【多空格局】\n比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为当前的上涨是市场对未来增长的预期，价格将继续上涨。\n【空头理由】\n空头则表示当前价格已经过高，恐慌贪婪指数低位意味着市场可能会出现回调。\n【市场展望】\n短期内，比特币价格可能会继续波动，73,000 美元是关键的阻力位。",
+  "aiSummaryEN": "[Today's View]\nThe bitcoin market is experiencing a fierce tug-of-war between bulls and bears.\n[Key Drivers]\nBulls believe the current rally is driven by expectations of future growth, and prices will continue to rise.\n[Outlook]\nBears, however, argue that the current price is too high, and the low Greed and Fear index suggests a potential market correction.\n[Reminder]\nIn the short term, the bitcoin price may continue to fluctuate, with $73,000 being a key resistance level.",
+  "aiSummaryUpdated": 1773160397.251033
 }
