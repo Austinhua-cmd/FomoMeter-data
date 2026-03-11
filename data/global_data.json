@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70740.0,
-  "priceChange24h": 1.4,
+  "btcPrice": 70606.0,
+  "priceChange24h": 1.29,
   "fomoIndex": 15,
-  "aiCommentCN": "行情起来了，大家都成了专家。",
-  "aiCommentEN": "Market's up, everyone's an expert now.",
-  "lastUpdated": 1773266204.681052,
+  "aiCommentCN": "趋势在远处，焦虑近在眼前",
+  "aiCommentEN": "Trend is far, anxiety is near",
+  "lastUpdated": 1773268023.276816,
   "forexRates": {
     "CNY": 6.8662,
     "EUR": 0.86348,
@@ -13,7 +13,7 @@
   "historyYesterday": 13,
   "historyLastWeek": 10,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【AI综合判断】\n比特币当前价格70,380美元，短期内可能会继续震荡。\n【三大驱动因素】\n1. 宏观经济数据的变化\n2. 资金流动性变化\n3. 市场情绪波动\n【未来展望】\n短期内，比特币价格可能会继续在70,000美元至75,000美元之间波动。\n【一句提醒】\n投资者应谨慎操作，控制好仓位，避免过度追高或杀跌。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $70,380, and it may continue to fluctuate in the short term.\n[Key Drivers]\n1. Changes in macroeconomic data\n2. Shifts in liquidity\n3. Market sentiment swings\n[Outlook]\nIn the short term, Bitcoin's price may continue to oscillate between $70,000 and $75,000.\n[Reminder]\nInvestors should be cautious, control their positions, and avoid overbuying or overselling.",
-  "aiSummaryUpdated": 1773245369.532449
+  "aiSummaryCN": "【今日观点】\n市场情绪极度恐慌，但价格小幅反弹显示多空博弈加剧。\n\n【驱动因素】\n1. 美联储降息预期推迟，高利率环境持续压制风险资产。\n2. 现货ETF资金流入放缓，市场缺乏新增买盘支撑。\n3. 美股科技股波动加剧，影响加密货币市场风险偏好。\n\n【市场展望】\n未来24-72小时可能在69,000-72,000美元区间震荡，若跌破69,000美元支撑位或进一步下探。\n\n【一句提醒】\n极端恐慌情绪下易出现技术性反弹，但趋势未反转前不宜盲目追多。",
+  "aiSummaryEN": "[Today's View]\nMarket sentiment is extremely fearful, but the slight price rebound indicates intensified tug-of-war between bulls and bears.\n\n[Key Drivers]\n1. Delayed Fed rate cut expectations, with the high-interest-rate environment continuing to pressure risk assets.\n2. Slowing inflows into spot ETFs, leaving the market lacking fresh buying support.\n3. Increased volatility in U.S. tech stocks, affecting risk appetite in the cryptocurrency market.\n\n[Outlook]\nBTC may oscillate between $69,000 and $72,000 over the next 24-72 hours; a break below the $69,000 support could lead to further declines.\n\n[Reminder]\nTechnical rebounds are common amid extreme fear, but avoid chasing rallies until a clear trend reversal is confirmed.",
+  "aiSummaryUpdated": 1773268031.695782
 }
