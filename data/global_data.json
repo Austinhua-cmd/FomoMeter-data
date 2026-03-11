@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69899.0,
-  "priceChange24h": 1.41,
+  "btcPrice": 69546.0,
+  "priceChange24h": -0.09,
   "fomoIndex": 15,
-  "aiCommentCN": "价格在涨，心却没底.",
-  "aiCommentEN": "Market goes up, but hearts still sink.",
-  "lastUpdated": 1773193427.270824,
+  "aiCommentCN": "市场静默时，心跳声最响。",
+  "aiCommentEN": "Calm markets hide the loudest heartbeats.",
+  "lastUpdated": 1773202014.093781,
   "forexRates": {
     "CNY": 6.8772,
     "EUR": 0.85903,
@@ -13,7 +13,7 @@
   "historyYesterday": 13,
   "historyLastWeek": 10,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：比特币仍在牛市周期中，但近期波动加剧。\n【当前阶段】\n2-3个阶段特征：市场情绪波动，投资者信心增强，价格小幅上涨。\n【未来可能走势】\n周期视角下的展望：预计中期内价格将持续上涨，但短期内可能会出现调整。\n【一句提醒】\n风险或操作提醒：投资者应谨慎操作，严格控制风险，避免追高杀低。",
-  "aiSummaryEN": "[Today's View]\nCurrently, we are in a bull market cycle, but recent fluctuations have increased.\n[Key Drivers]\n2-3 key characteristics: Market sentiment is fluctuating, investor confidence is increasing, and prices are rising slightly.\n[Outlook]\nOur outlook from a cyclical perspective: We expect prices to continue to rise in the medium term, but short-term adjustments are possible.\n[Reminder]\nRisk or operational reminder: Investors should operate cautiously, strictly control risks, and avoid chasing high prices or killing low prices.",
-  "aiSummaryUpdated": 1773181481.613903
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为加密货币市场的调整期。\n【当前阶段】\n当前阶段特征包括市场波动性增强、投资者情绪低落以及交易量下降。\n【未来可能走势】\n周期视角下的展望是，市场将在未来几周内继续震荡。\n【一句提醒】\n投资者应谨慎操作，关注市场信号。",
+  "aiSummaryEN": "[Today's View]\nWe are currently in the adjustment phase of the cryptocurrency market.\n[Key Drivers]\nKey drivers of this stage include increased market volatility, low investor sentiment, and decreased trading volume.\n[Outlook]\nFrom a cyclical perspective, the market is expected to continue fluctuating in the coming weeks.\n[Reminder]\nInvestors should be cautious and monitor market signals.",
+  "aiSummaryUpdated": 1773202014.98483
 }
