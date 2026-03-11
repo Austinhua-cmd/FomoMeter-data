@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70311.0,
-  "priceChange24h": -1.32,
+  "btcPrice": 70380.0,
+  "priceChange24h": -1.17,
   "fomoIndex": 15,
-  "aiCommentCN": "市场波动，心情起伏",
-  "aiCommentEN": "Market swings, emotions follow",
-  "lastUpdated": 1773241878.31541,
+  "aiCommentCN": "市场慢如老牛，心跳如野马",
+  "aiCommentEN": "Market moves slow, heart beats fast",
+  "lastUpdated": 1773245368.490757,
   "forexRates": {
     "CNY": 6.8662,
     "EUR": 0.86348,
@@ -13,7 +13,7 @@
   "historyYesterday": 13,
   "historyLastWeek": 10,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【市场解读】\n比特币价格近期呈现下行走势。\n【关键事件】\n近期关键事件包括全球经济不确定性、监管政策调整、市场情绪波动。\n【市场影响】\n这些事件导致投资者情绪低落，市场需求减少。\n【一句提醒】\n投资者应谨慎投资，关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nBitcoin price has been trending downward recently.\n[Key Drivers]\nRecent key events include global economic uncertainty, regulatory policy adjustments, and market sentiment fluctuations.\n[Outlook]\nThese events have led to a decline in investor sentiment and reduced market demand.\n[Reminder]\nInvestors should be cautious and monitor market signals.",
-  "aiSummaryUpdated": 1773228605.490425
+  "aiSummaryCN": "【AI综合判断】\n比特币当前价格70,380美元，短期内可能会继续震荡。\n【三大驱动因素】\n1. 宏观经济数据的变化\n2. 资金流动性变化\n3. 市场情绪波动\n【未来展望】\n短期内，比特币价格可能会继续在70,000美元至75,000美元之间波动。\n【一句提醒】\n投资者应谨慎操作，控制好仓位，避免过度追高或杀跌。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $70,380, and it may continue to fluctuate in the short term.\n[Key Drivers]\n1. Changes in macroeconomic data\n2. Shifts in liquidity\n3. Market sentiment swings\n[Outlook]\nIn the short term, Bitcoin's price may continue to oscillate between $70,000 and $75,000.\n[Reminder]\nInvestors should be cautious, control their positions, and avoid overbuying or overselling.",
+  "aiSummaryUpdated": 1773245369.532449
 }
