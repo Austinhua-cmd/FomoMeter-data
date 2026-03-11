@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69542.0,
-  "priceChange24h": -2.28,
+  "btcPrice": 69479.0,
+  "priceChange24h": -1.78,
   "fomoIndex": 15,
-  "aiCommentCN": "跌的时候想抄底，到底了还没钱",
-  "aiCommentEN": "Prices drop, but no cash to buy.",
-  "lastUpdated": 1773221912.049014,
+  "aiCommentCN": "跌的时候想抄底，抄了又想逃跑。",
+  "aiCommentEN": "Fear of missing out, fear of losing more.",
+  "lastUpdated": 1773228604.615497,
   "forexRates": {
     "CNY": 6.8772,
     "EUR": 0.85903,
@@ -13,7 +13,7 @@
   "historyYesterday": 13,
   "historyLastWeek": 10,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为加密货币市场的调整期。\n【当前阶段】\n当前阶段特征包括市场波动性增强、投资者情绪低落以及交易量下降。\n【未来可能走势】\n周期视角下的展望是，市场将在未来几周内继续震荡。\n【一句提醒】\n投资者应谨慎操作，关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in the adjustment phase of the cryptocurrency market.\n[Key Drivers]\nKey drivers of this stage include increased market volatility, low investor sentiment, and decreased trading volume.\n[Outlook]\nFrom a cyclical perspective, the market is expected to continue fluctuating in the coming weeks.\n[Reminder]\nInvestors should be cautious and monitor market signals.",
-  "aiSummaryUpdated": 1773202014.98483
+  "aiSummaryCN": "【市场解读】\n比特币价格近期呈现下行走势。\n【关键事件】\n近期关键事件包括全球经济不确定性、监管政策调整、市场情绪波动。\n【市场影响】\n这些事件导致投资者情绪低落，市场需求减少。\n【一句提醒】\n投资者应谨慎投资，关注市场信号。",
+  "aiSummaryEN": "[Today's View]\nBitcoin price has been trending downward recently.\n[Key Drivers]\nRecent key events include global economic uncertainty, regulatory policy adjustments, and market sentiment fluctuations.\n[Outlook]\nThese events have led to a decline in investor sentiment and reduced market demand.\n[Reminder]\nInvestors should be cautious and monitor market signals.",
+  "aiSummaryUpdated": 1773228605.490425
 }
