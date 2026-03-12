@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70285.0,
-  "priceChange24h": -0.64,
+  "btcPrice": 70151.0,
+  "priceChange24h": -0.67,
   "fomoIndex": 18,
-  "aiCommentCN": "价格静悄悄，心跳声却很吵.",
-  "aiCommentEN": "Market stays calm, but hearts are racing.",
-  "lastUpdated": 1773352474.193421,
+  "aiCommentCN": "行情静悄悄，散户心跳急.",
+  "aiCommentEN": "Market stays quiet, hearts beat fast.",
+  "lastUpdated": 1773354098.168402,
   "forexRates": {
     "CNY": 6.869,
     "EUR": 0.86603,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 22,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【资金观察】\n当前比特币市场资金情绪相对谨慎。\n【资金动向】\n1. ETF资金持续流入\n2. 稳定币发行量增加\n3. 巨鲸钱包活跃度提升\n【市场展望】\n短期内比特币价格可能会继续震荡。\n【一句提醒】\n投资者需谨慎风险，做好仓位管理。",
-  "aiSummaryEN": "[Today's View]\nCurrent bitcoin market sentiment is relatively cautious.\n[Key Drivers]\n1. ETF funds continue to flow in\n2. Stablecoin issuance increases\n3. Whale wallet activity increases\n[Outlook]\nIn the short term, the bitcoin price may continue to fluctuate.\n[Reminder]\nInvestors need to be cautious of risks and manage their positions well.",
-  "aiSummaryUpdated": 1773333221.683169
+  "aiSummaryCN": "【技术观点】\n比特币短期走势存在一定的下跌风险。\n【关键位置】\n当前支撑位为68,000美元，阻力位为72,000美元。\n【走势推演】\n如果跌破68,000美元，可能会继续下跌。\n【一句提醒】\n投资者应谨慎操作，控制风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend has a certain downside risk.\n[Key Drivers]\nCurrent support is $68,000, and resistance is $72,000.\n[Outlook]\nIf it falls below $68,000, it may continue to decline.\n[Reminder]\nInvestors should operate cautiously and control risk.",
+  "aiSummaryUpdated": 1773354098.969415
 }
