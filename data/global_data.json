@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69966.0,
-  "priceChange24h": 0.01,
+  "btcPrice": 69623.0,
+  "priceChange24h": 0.11,
   "fomoIndex": 18,
-  "aiCommentCN": "价格静止不动，心跳如鼓。",
-  "aiCommentEN": "Prices stand still, hearts keep racing.",
-  "lastUpdated": 1773279917.821296,
+  "aiCommentCN": "市场静默，心跳如雷.",
+  "aiCommentEN": "Market calm, heart racing fast.",
+  "lastUpdated": 1773288639.007479,
   "forexRates": {
     "CNY": 6.8662,
     "EUR": 0.86348,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 22,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【今日观点】\n市场情绪极度恐慌，但价格小幅反弹显示多空博弈加剧。\n\n【驱动因素】\n1. 美联储降息预期推迟，高利率环境持续压制风险资产。\n2. 现货ETF资金流入放缓，市场缺乏新增买盘支撑。\n3. 美股科技股波动加剧，影响加密货币市场风险偏好。\n\n【市场展望】\n未来24-72小时可能在69,000-72,000美元区间震荡，若跌破69,000美元支撑位或进一步下探。\n\n【一句提醒】\n极端恐慌情绪下易出现技术性反弹，但趋势未反转前不宜盲目追多。",
-  "aiSummaryEN": "[Today's View]\nMarket sentiment is extremely fearful, but the slight price rebound indicates intensified tug-of-war between bulls and bears.\n\n[Key Drivers]\n1. Delayed Fed rate cut expectations, with the high-interest-rate environment continuing to pressure risk assets.\n2. Slowing inflows into spot ETFs, leaving the market lacking fresh buying support.\n3. Increased volatility in U.S. tech stocks, affecting risk appetite in the cryptocurrency market.\n\n[Outlook]\nBTC may oscillate between $69,000 and $72,000 over the next 24-72 hours; a break below the $69,000 support could lead to further declines.\n\n[Reminder]\nTechnical rebounds are common amid extreme fear, but avoid chasing rallies until a clear trend reversal is confirmed.",
-  "aiSummaryUpdated": 1773268031.695782
+  "aiSummaryCN": "【资金观察】\n比特币市场资金流动性增强，投资者情绪谨慎。\n【资金动向】\n1. ETF资金净流入\n2. 稳定币发行量增加\n3. 巨鲸钱包活跃度提升\n【市场展望】\n短期内比特币价格可能维持震荡走势。\n【一句提醒】\n投资者需谨慎应对市场波动，做好风险控制。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market liquidity has improved, with investors remaining cautious.\n[Key Drivers]\n1. ETF funds have seen net inflows\n2. Stablecoin issuance has increased\n3. Whale wallet activity has surged\n[Outlook]\nIn the short term, Bitcoin prices may maintain a volatile trend.\n[Reminder]\nInvestors should be cautious and prepared for market fluctuations, ensuring proper risk management.",
+  "aiSummaryUpdated": 1773288640.015607
 }
