@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69644.0,
-  "priceChange24h": -0.74,
+  "btcPrice": 70115.0,
+  "priceChange24h": -0.79,
   "fomoIndex": 18,
-  "aiCommentCN": "跌的时候想抄底， 涨的时候怕迟到",
-  "aiCommentEN": "Fear missing out when rising, fear buying low",
-  "lastUpdated": 1773328466.920924,
+  "aiCommentCN": "行情慢如龟，心跳如雷。",
+  "aiCommentEN": "Market moves slow, heart beats fast.",
+  "lastUpdated": 1773333220.952232,
   "forexRates": {
     "CNY": 6.869,
     "EUR": 0.86603,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 22,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段，BTC价格：70,180 美元，24h涨跌：+1.0%，恐慌贪婪指数：18，表明当前市场处于恐慌状态。\n【当前阶段】\n当前阶段的特征是市场波动加剧，投资者情绪低落，价格下跌压力增大。\n【未来可能走势】\n从周期视角来看，当前的下跌可能是长期上涨周期中的调整，未来可能会出现反弹。\n【一句提醒】\n投资者应保持谨慎，控制风险，避免追高杀低。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in a market cycle phase where BTC price is $70,180, with a 24h change of +1.0% and a fear and greed index of 18, indicating a state of panic.\n[Key Drivers]\nThe current stage is characterized by increased market volatility, low investor sentiment, and growing downward pressure on prices.\n[Outlook]\nFrom a cyclical perspective, the current downturn may be a correction within a long-term uptrend, and a rebound is possible in the future.\n[Reminder]\nInvestors should remain cautious, control risk, and avoid chasing highs and selling lows.",
-  "aiSummaryUpdated": 1773311691.77056
+  "aiSummaryCN": "【资金观察】\n当前比特币市场资金情绪相对谨慎。\n【资金动向】\n1. ETF资金持续流入\n2. 稳定币发行量增加\n3. 巨鲸钱包活跃度提升\n【市场展望】\n短期内比特币价格可能会继续震荡。\n【一句提醒】\n投资者需谨慎风险，做好仓位管理。",
+  "aiSummaryEN": "[Today's View]\nCurrent bitcoin market sentiment is relatively cautious.\n[Key Drivers]\n1. ETF funds continue to flow in\n2. Stablecoin issuance increases\n3. Whale wallet activity increases\n[Outlook]\nIn the short term, the bitcoin price may continue to fluctuate.\n[Reminder]\nInvestors need to be cautious of risks and manage their positions well.",
+  "aiSummaryUpdated": 1773333221.683169
 }
