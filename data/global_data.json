@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71173.0,
-  "priceChange24h": 1.27,
+  "btcPrice": 70667.0,
+  "priceChange24h": 0.7,
   "fomoIndex": 15,
-  "aiCommentCN": "涨的时候怕晚，跌的时候怕早",
-  "aiCommentEN": "Fear being late on rises, early on falls",
-  "lastUpdated": 1773439048.1567,
+  "aiCommentCN": "价格在爬，心情在跳",
+  "aiCommentEN": "Prices rise, emotions spike",
+  "lastUpdated": 1773441023.559842,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
@@ -13,7 +13,7 @@
   "historyYesterday": 18,
   "historyLastWeek": 18,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【市场解读】\n比特币价格呈现上涨趋势，当前价格为71,635美元，24h涨幅达+1.9%。\n【关键事件】\n近期全球经济复苏、机构投资者增持、监管政策调整等因素促进了比特币的价格上涨。\n【市场影响】\n这些事件使得投资者信心增强，市场气氛转变为乐观，推动了比特币价格的上涨。\n【一句提醒】\n投资者应注意风险，保持警惕，适时调整投资策略。恐慌贪婪指数为15，表明当前市场仍然处于恐慌状态，投资者应谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's price is trending upward, currently at $71,635 with a 24h increase of +1.9%.\n[Key Drivers]\nRecent global economic recovery, increased institutional investment, and regulatory policy adjustments have contributed to the price surge.\n[Outlook]\nThese events have boosted investor confidence, shifting market sentiment to optimism and driving up the price.\n[Reminder]\nInvestors should be aware of the risks and adjust their strategies accordingly. The Fear & Greed Index is at 15, indicating the market remains in a state of fear, and investors should exercise caution.",
-  "aiSummaryUpdated": 1773419761.684774
+  "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持震荡走势。\n【关键位置】\n当前关键价位为68,000美元和72,000美元。\n【短线策略】\n可尝试低位买入，高位卖出。\n【风险提醒】\n需关注市场情绪和全球经济新闻，做好风险控制。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may maintain a fluctuating trend in the short term.\n[Key Drivers]\nCurrent key price levels are $68,000 and $72,000.\n[Outlook]\nTry to buy at low positions and sell at high positions.\n[Reminder]\nNeed to pay attention to market sentiment and global economic news, and do a good job of risk control.",
+  "aiSummaryUpdated": 1773441024.373325
 }
