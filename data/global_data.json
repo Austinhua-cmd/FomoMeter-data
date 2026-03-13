@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71890.0,
-  "priceChange24h": 3.02,
+  "btcPrice": 72377.0,
+  "priceChange24h": 3.2,
   "fomoIndex": 15,
-  "aiCommentCN": "涨的时候盈利不确定，跌的时候损失很确定。",
-  "aiCommentEN": "Gains are uncertain, but losses are always certain.",
-  "lastUpdated": 1773394553.822204,
+  "aiCommentCN": "行情慢慢爬，心跳快速跑。",
+  "aiCommentEN": "Market crawls, heart races.",
+  "lastUpdated": 1773397963.67708,
   "forexRates": {
     "CNY": 6.869,
     "EUR": 0.86603,
@@ -13,7 +13,7 @@
   "historyYesterday": 18,
   "historyLastWeek": 18,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【资金观察】\n比特币市场资金情绪谨慎，投资者观望。\n【资金动向】\n1. ETF资金净流入\n2. 稳定币发行量增加\n3. 巨鲸钱包活跃度增强\n【市场展望】\n短期内比特币价格可能维持震荡走势。\n【一句提醒】\n投资者应谨慎判断市场风险，做好仓位管理。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market sentiment is cautious, with investors watching.\n[Key Drivers]\n1. ETF funds have net inflows\n2. The issuance of stablecoins has increased\n3. The activity of whale wallets has strengthened\n[Outlook]\nIn the short term, the price of Bitcoin may maintain a fluctuating trend.\n[Reminder]\nInvestors should be cautious in judging market risks and manage their positions properly.",
-  "aiSummaryUpdated": 1773374966.052924
+  "aiSummaryCN": "【交易观点】\n比特币短期可能会维持震荡上升态势。\n【关键位置】\n72,000 美元是当前的关键支撑位。\n【短线策略】\n可以在 72,000 美元附近买入，目标价位为 75,000 美元。\n【风险提醒】\n注意市场波动风险，设置好止损位。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may maintain an upward momentum in the short term.\n[Key Drivers]\n$72,000 is the key support level.\n[Outlook]\nBuy near $72,000, target $75,000.\n[Reminder]\nBe aware of market volatility, set a stop-loss.",
+  "aiSummaryUpdated": 1773397964.657819
 }
