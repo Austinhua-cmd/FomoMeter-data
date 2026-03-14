@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70808.0,
-  "priceChange24h": -0.76,
+  "btcPrice": 71116.0,
+  "priceChange24h": -0.41,
   "fomoIndex": 16,
-  "aiCommentCN": "静候风云，心却早已起航",
-  "aiCommentEN": "Calmness outside, turmoil within, that's market life",
-  "lastUpdated": 1773452713.961203,
+  "aiCommentCN": "跌的时候想抄底，抄完继续跌，还是稳住手吧",
+  "aiCommentEN": "Fear of missing out is real, but so is the drop",
+  "lastUpdated": 1773461259.27345,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 12,
   "historyLastMonth": 5,
-  "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持震荡走势。\n【关键位置】\n当前关键价位为68,000美元和72,000美元。\n【短线策略】\n可尝试低位买入，高位卖出。\n【风险提醒】\n需关注市场情绪和全球经济新闻，做好风险控制。",
-  "aiSummaryEN": "[Today's View]\nBitcoin may maintain a fluctuating trend in the short term.\n[Key Drivers]\nCurrent key price levels are $68,000 and $72,000.\n[Outlook]\nTry to buy at low positions and sell at high positions.\n[Reminder]\nNeed to pay attention to market sentiment and global economic news, and do a good job of risk control.",
-  "aiSummaryUpdated": 1773441024.373325
+  "aiSummaryCN": "【资金观察】\n比特币市场资金观察显示当前市场情绪偏谨慎。\n【资金动向】\n1. ETF资金流入减少，\n2. 稳定币发行量增加，\n3. 巨鲸钱包活跃度降低。\n【市场展望】\n短期内，BTC价格可能继续震荡调整。\n【一句提醒】\n投资者需谨慎对待当前市场波动风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market sentiment is cautious.\n[Key Drivers]\n1. Reduced ETF fund inflows,\n2. Increased stablecoin issuance,\n3. Decreased whale wallet activity.\n[Outlook]\nBTC price may continue to fluctuate and adjust in the short term.\n[Reminder]\nInvestors should be cautious of current market volatility risks.",
+  "aiSummaryUpdated": 1773461260.199367
 }
