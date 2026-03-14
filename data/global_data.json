@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70784.0,
-  "priceChange24h": -4.05,
+  "btcPrice": 70660.0,
+  "priceChange24h": -2.65,
   "fomoIndex": 16,
-  "aiCommentCN": "市场低迷时，耐心很贵。",
-  "aiCommentEN": "Patience is a luxury in a bear market.",
-  "lastUpdated": 1773498281.947886,
+  "aiCommentCN": "跌的时候想抄底，底还没找到，已经反弹了。",
+  "aiCommentEN": "Market goes down, we want to buy, but it bounces back.",
+  "lastUpdated": 1773500010.472227,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
