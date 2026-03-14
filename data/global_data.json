@@ -1,18 +1,18 @@
 {
-  "btcPrice": 70984.0,
-  "priceChange24h": 0.51,
-  "fomoIndex": 15,
-  "aiCommentCN": "静待行情，心跳如鼓.",
-  "aiCommentEN": "Market stays calm, heart beats fast.",
-  "lastUpdated": 1773445835.034808,
+  "btcPrice": 70808.0,
+  "priceChange24h": -0.76,
+  "fomoIndex": 16,
+  "aiCommentCN": "静候风云，心却早已起航",
+  "aiCommentEN": "Calmness outside, turmoil within, that's market life",
+  "lastUpdated": 1773452713.961203,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
     "GBP": 0.75377
   },
-  "historyYesterday": 18,
-  "historyLastWeek": 18,
-  "historyLastMonth": 11,
+  "historyYesterday": 15,
+  "historyLastWeek": 12,
+  "historyLastMonth": 5,
   "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持震荡走势。\n【关键位置】\n当前关键价位为68,000美元和72,000美元。\n【短线策略】\n可尝试低位买入，高位卖出。\n【风险提醒】\n需关注市场情绪和全球经济新闻，做好风险控制。",
   "aiSummaryEN": "[Today's View]\nBitcoin may maintain a fluctuating trend in the short term.\n[Key Drivers]\nCurrent key price levels are $68,000 and $72,000.\n[Outlook]\nTry to buy at low positions and sell at high positions.\n[Reminder]\nNeed to pay attention to market sentiment and global economic news, and do a good job of risk control.",
   "aiSummaryUpdated": 1773441024.373325
