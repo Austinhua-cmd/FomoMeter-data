@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70728.0,
-  "priceChange24h": -0.67,
+  "btcPrice": 70750.0,
+  "priceChange24h": 0.07,
   "fomoIndex": 16,
-  "aiCommentCN": "趋势没来，散户睡不着。",
-  "aiCommentEN": "Trend hasn't arrived, can't sleep tonight.",
-  "lastUpdated": 1773524902.678999,
+  "aiCommentCN": "静静等待趋势，心静如市场",
+  "aiCommentEN": "Wait calmly for trends, heart like market",
+  "lastUpdated": 1773526882.105932,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 12,
   "historyLastMonth": 5,
-  "aiSummaryCN": "【机构视角】\n机构投资者认为比特币当前价格具有较强的吸引力。\n【关键观察】\nBTC价格：70,628 美元，24h涨跌：-1.1%，恐慌贪婪指数：16，表明市场仍然谨慎。\n机构资金流入加密市场，投资者信心增强。\n【未来展望】\n随着机构投资的增加，比特币价格有望继续上涨。\n【一句提醒】\n加密市场波动性高，投资需谨慎。",
-  "aiSummaryEN": "[Today's View]\nInstitutional investors view the current Bitcoin price as attractive.\n[Key Drivers]\nBTC price: $70,628, 24h change: -1.1%, Fear and Greed Index: 16, indicating a cautious market.\nInstitutional funds are flowing into the crypto market, boosting investor confidence.\n[Outlook]\nAs institutional investment increases, Bitcoin's price is likely to continue rising.\n[Reminder]\nThe crypto market is highly volatile, invest with caution.",
-  "aiSummaryUpdated": 1773505596.615374
+  "aiSummaryCN": "【AI综合判断】\n比特币价格小幅上涨，市场情绪谨慎。\n【三大驱动因素】\n1. 宏观经济数据发布\n2. 资金流入加密市场\n3. 市场情绪转变\n【未来展望】\n短期内可能会有波动。\n【一句提醒】\n注意风险，谨慎操作",
+  "aiSummaryEN": "[Today's View]\nBitcoin price slightly increases, market sentiment is cautious.\n[Key Drivers]\n1. Macro economic data release\n2. Capital inflow into crypto market\n3. Market sentiment shift\n[Outlook]\nShort-term fluctuations are possible.\n[Reminder]\nBe aware of risks, operate with caution",
+  "aiSummaryUpdated": 1773526882.730478
 }
