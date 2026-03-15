@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71511.0,
-  "priceChange24h": 1.29,
+  "btcPrice": 71377.0,
+  "priceChange24h": 1.02,
   "fomoIndex": 15,
-  "aiCommentCN": "市场风吹来，心情随波逐流。",
-  "aiCommentEN": "Market winds blow, emotions flow too.",
-  "lastUpdated": 1773589965.262691,
+  "aiCommentCN": "市场小涨，心态大跌",
+  "aiCommentEN": "Small gains, big mood swings",
+  "lastUpdated": 1773592062.564024,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
@@ -13,7 +13,7 @@
   "historyYesterday": 16,
   "historyLastWeek": 12,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段是牛市初期。\n【当前阶段】\n当前价格71,860美元，24h涨跌+1.9%，恐慌贪婪指数为15，表明市场仍然处于恐慌状态，但开始有所缓解，投资者开始逐渐恢复信心。\n【未来可能走势】\n从周期视角来看，未来可能会继续走高，价格可能会突破80,000美元。\n【一句提醒】\n投资比特币仍然存在较高风险，投资者需谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in the early stages of a bull market.\n[Key Drivers]\nWith a price of $71,860 and a 24h change of +1.9%, the fear and greed index is at 15, indicating the market is still in a state of panic but starting to recover, investors are regaining confidence.\n[Outlook]\nFrom a cyclical perspective, the price may continue to rise and break through $80,000.\n[Reminder]\nInvesting in Bitcoin still carries high risks, investors should be cautious.",
-  "aiSummaryUpdated": 1773570318.431795
+  "aiSummaryCN": "【AI综合判断】\n比特币当前呈现震荡趋势。\n【三大驱动因素】\n1. 宏观经济数据，\n2. 资金流动性，\n3. 市场情绪波动。\n【未来展望】\n短期内价格将维持在当前水平。\n【一句提醒】\n注意风险，做好止损。",
+  "aiSummaryEN": "[Today's View]\nBitcoin is currently in a fluctuation trend.\n[Key Drivers]\n1. Macro economic data,\n2. Capital liquidity,\n3. Market sentiment volatility.\n[Outlook]\nPrice will remain at the current level in the short term.\n[Reminder]\nBe aware of risks and set stop-loss.",
+  "aiSummaryUpdated": 1773592063.398893
 }
