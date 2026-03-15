@@ -1,10 +1,10 @@
 {
-  "btcPrice": 72072.0,
-  "priceChange24h": 1.79,
+  "btcPrice": 71872.0,
+  "priceChange24h": 1.62,
   "fomoIndex": 15,
-  "aiCommentCN": "行情小涨，心情大涨",
-  "aiCommentEN": "Market up, mood boosted",
-  "lastUpdated": 1773611458.36432,
+  "aiCommentCN": "行情慢如蜗牛，心跳如野兔。",
+  "aiCommentEN": "Market moves slow, heart beats fast.",
+  "lastUpdated": 1773613385.492105,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
@@ -13,7 +13,7 @@
   "historyYesterday": 16,
   "historyLastWeek": 12,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【AI综合判断】\n比特币当前呈现震荡趋势。\n【三大驱动因素】\n1. 宏观经济数据，\n2. 资金流动性，\n3. 市场情绪波动。\n【未来展望】\n短期内价格将维持在当前水平。\n【一句提醒】\n注意风险，做好止损。",
-  "aiSummaryEN": "[Today's View]\nBitcoin is currently in a fluctuation trend.\n[Key Drivers]\n1. Macro economic data,\n2. Capital liquidity,\n3. Market sentiment volatility.\n[Outlook]\nPrice will remain at the current level in the short term.\n[Reminder]\nBe aware of risks and set stop-loss.",
-  "aiSummaryUpdated": 1773592063.398893
+  "aiSummaryCN": "【资金观察】\n比特币当前资金情绪偏向谨慎。\n【资金动向】\n1. ETF资金持续流入，2. 稳定币发行量增加，3. 巨鲸钱包活跃度增高。\n【市场展望】\n未来短期内，比特币价格可能会继续上涨。\n【一句提醒】\n投资需谨慎，关注市场风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's current funding sentiment is cautious.\n[Key Drivers]\n1. ETF funds continue to flow in, 2. Stablecoin issuance increases, 3. Whale wallet activity surges.\n[Outlook]\nIn the short term, Bitcoin's price may continue to rise.\n[Reminder]\nInvest with caution and monitor market risks.",
+  "aiSummaryUpdated": 1773613386.231525
 }
