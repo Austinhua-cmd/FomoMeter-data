@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71031.0,
-  "priceChange24h": 0.24,
+  "btcPrice": 71501.0,
+  "priceChange24h": 0.31,
   "fomoIndex": 15,
-  "aiCommentCN": "大家都说稳健，但夜晚刷屏依旧",
-  "aiCommentEN": "Staying calm, but still scrolling at night",
-  "lastUpdated": 1773540047.535661,
+  "aiCommentCN": "趋势未至，静候其来.",
+  "aiCommentEN": "Wait calmly for the trend to arrive.",
+  "lastUpdated": 1773549775.325021,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
@@ -13,7 +13,7 @@
   "historyYesterday": 16,
   "historyLastWeek": 12,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【AI综合判断】\n比特币价格小幅上涨，市场情绪谨慎。\n【三大驱动因素】\n1. 宏观经济数据发布\n2. 资金流入加密市场\n3. 市场情绪转变\n【未来展望】\n短期内可能会有波动。\n【一句提醒】\n注意风险，谨慎操作",
-  "aiSummaryEN": "[Today's View]\nBitcoin price slightly increases, market sentiment is cautious.\n[Key Drivers]\n1. Macro economic data release\n2. Capital inflow into crypto market\n3. Market sentiment shift\n[Outlook]\nShort-term fluctuations are possible.\n[Reminder]\nBe aware of risks, operate with caution",
-  "aiSummaryUpdated": 1773526882.730478
+  "aiSummaryCN": "【技术观点】\n比特币短期走势将维持震荡。\n【关键位置】\n当前支撑位：68,000 美元，阻力位：73,000 美元。\n【走势推演】\n若突破73,000美元，预计将会上涨至75,000美元。\n【一句提醒】\n注意风险，谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend will maintain fluctuation.\n[Key Drivers]\nCurrent support: $68,000, resistance: $73,000.\n[Outlook]\nIf it breaks through $73,000, it is expected to rise to $75,000.\n[Reminder]\nBe cautious of risks and operate carefully.",
+  "aiSummaryUpdated": 1773549775.971196
 }
