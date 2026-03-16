@@ -1,10 +1,10 @@
 {
-  "btcPrice": 72748.0,
-  "priceChange24h": 2.23,
+  "btcPrice": 73841.0,
+  "priceChange24h": 3.22,
   "fomoIndex": 23,
-  "aiCommentCN": "行情没起飞，想象力很丰富",
-  "aiCommentEN": "Market's calm, imagination runs wild",
-  "lastUpdated": 1773626575.801597,
+  "aiCommentCN": "行情慢了，心情快了",
+  "aiCommentEN": "Market slows, emotions speed up",
+  "lastUpdated": 1773637396.265988,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 8,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【资金观察】\n比特币当前资金情绪偏向谨慎。\n【资金动向】\n1. ETF资金持续流入，2. 稳定币发行量增加，3. 巨鲸钱包活跃度增高。\n【市场展望】\n未来短期内，比特币价格可能会继续上涨。\n【一句提醒】\n投资需谨慎，关注市场风险。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's current funding sentiment is cautious.\n[Key Drivers]\n1. ETF funds continue to flow in, 2. Stablecoin issuance increases, 3. Whale wallet activity surges.\n[Outlook]\nIn the short term, Bitcoin's price may continue to rise.\n[Reminder]\nInvest with caution and monitor market risks.",
-  "aiSummaryUpdated": 1773613386.231525
+  "aiSummaryCN": "【今日观点】\n比特币市场正在经历一波温和的反弹。\n【驱动因素】\n美联储政策、ETF资金、美股走势\n【市场展望】\n未来24-72小时内，BTC价格可能会继续上涨。\n【一句提醒】\n注意风险，谨慎交易。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market is experiencing a mild rebound.\n[Key Drivers]\nFederal Reserve policy, ETF funds, US stock market trend\n[Outlook]\nIn the next 24-72 hours, BTC price may continue to rise.\n[Reminder]\nBe cautious and aware of the risks.",
+  "aiSummaryUpdated": 1773637396.928449
 }
