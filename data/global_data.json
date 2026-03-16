@@ -1,10 +1,10 @@
 {
-  "btcPrice": 73255.0,
-  "priceChange24h": 1.99,
+  "btcPrice": 73334.0,
+  "priceChange24h": 2.12,
   "fomoIndex": 23,
-  "aiCommentCN": "市场安静时，散户最容易胡思乱想。",
-  "aiCommentEN": "Market calm, investors get anxious easily.",
-  "lastUpdated": 1773653913.396024,
+  "aiCommentCN": "行情小涨，心情大涨。",
+  "aiCommentEN": "Market rises, so do our hopes.",
+  "lastUpdated": 1773658232.704874,
   "forexRates": {
     "CNY": 6.8966,
     "EUR": 0.87138,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 8,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【今日观点】\n比特币市场正在经历一波温和的反弹。\n【驱动因素】\n美联储政策、ETF资金、美股走势\n【市场展望】\n未来24-72小时内，BTC价格可能会继续上涨。\n【一句提醒】\n注意风险，谨慎交易。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market is experiencing a mild rebound.\n[Key Drivers]\nFederal Reserve policy, ETF funds, US stock market trend\n[Outlook]\nIn the next 24-72 hours, BTC price may continue to rise.\n[Reminder]\nBe cautious and aware of the risks.",
-  "aiSummaryUpdated": 1773637396.928449
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为牛市周期。\n【当前阶段】\n当前价格73,334美元，24h涨跌+2.1%，恐慌贪婪指数为23，表明市场仍有上涨动力。\n【未来可能走势】\n从周期视角来看，未来可能会继续上涨，但也需要注意可能的回调。\n【一句提醒】\n投资者应保持谨慎，密切关注市场动向。",
+  "aiSummaryEN": "[Today's View]\nWe are currently in a bull market cycle.\n[Key Drivers]\nThe current price is $73,334, with a 24h increase of +2.1%, and the fear and greed index is 23, indicating that the market still has upward momentum.\n[Outlook]\nFrom a cyclical perspective, the future may continue to rise, but we also need to be aware of possible callbacks.\n[Reminder]\nInvestors should remain cautious and closely monitor market trends.",
+  "aiSummaryUpdated": 1773658233.748196
 }
