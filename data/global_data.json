@@ -1,10 +1,10 @@
 {
-  "btcPrice": 74335.0,
-  "priceChange24h": 3.33,
+  "btcPrice": 74614.0,
+  "priceChange24h": 3.74,
   "fomoIndex": 23,
-  "aiCommentCN": "市场温和，散户耐心。",
-  "aiCommentEN": "Market calm, patience is key.",
-  "lastUpdated": 1773696932.167391,
+  "aiCommentCN": "行情小涨，心跳大涨.",
+  "aiCommentEN": "Market goes up, heartbeat goes faster.",
+  "lastUpdated": 1773700136.82387,
   "forexRates": {
     "CNY": 6.8961,
     "EUR": 0.87123,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 8,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【交易观点】\n比特币短线有望继续上涨。\n【关键位置】\n73,000 美元支撑位、75,000 美元阻力位。\n【短线策略】\n低位买入，高位卖出。\n【风险提醒】\n市场波动风险，需谨慎交易。",
-  "aiSummaryEN": "[Today's View]\nBitcoin is likely to continue its upward trend.\n[Key Drivers]\n$73,000 support and $75,000 resistance.\n[Outlook]\nBuy low, sell high.\n[Reminder]\nMarket volatility risk, trade with caution.",
-  "aiSummaryUpdated": 1773676967.162899
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：比特币正处于牛市周期。\n【当前阶段】\n当前阶段特征：市场呈现强劲上涨趋势，投资者情绪高涨。\n价格上涨动力强劲，市场活跃度提高。\n【未来可能走势】\n周期视角下的展望：可能继续上涨，但需注意风险。\n【一句提醒】\n风险或操作提醒：密切关注市场变化，做好风险管理。",
+  "aiSummaryEN": "[Today's View]\nCurrent market stage: Bitcoin is in a bullish cycle.\n[Key Drivers]\nCurrent stage characteristics: The market is showing a strong upward trend, investor sentiment is high.\nPrice rise momentum is strong, market activity increases.\n[Outlook]\nCycle perspective outlook: May continue to rise, but pay attention to risks.\n[Reminder]\nRisk or operation reminder: Closely monitor market changes, manage risks.",
+  "aiSummaryUpdated": 1773700137.835344
 }
