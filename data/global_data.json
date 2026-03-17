@@ -1,10 +1,10 @@
 {
-  "btcPrice": 74536.0,
-  "priceChange24h": 0.24,
+  "btcPrice": 74429.0,
+  "priceChange24h": -0.33,
   "fomoIndex": 28,
-  "aiCommentCN": "价格不动，心跳加速。",
-  "aiCommentEN": "Prices stay still, hearts beat faster.",
-  "lastUpdated": 1773783265.390861,
+  "aiCommentCN": "跌的时候怕没底，平的时候怕没戏。",
+  "aiCommentEN": "Fear of no bottom when falling, fear of no fun when flat.",
+  "lastUpdated": 1773786556.326415,
   "forexRates": {
     "CNY": 6.8868,
     "EUR": 0.86723,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 13,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【资金观察】\n比特币当前资金情绪趋于谨慎，投资者观望态度明显。\n【资金动向】\n1. ETF资金净流入，2. 稳定币发行量增加，3. 巨鲸钱包活跃度增强\n【市场展望】\n短期内比特币价格可能会维持在当前水平，需关注市场信号变化。\n【一句提醒】\n加密市场波动性较高，投资需谨慎",
-  "aiSummaryEN": "[Today's View]\nBitcoin's current funding sentiment is cautious, with investors taking a wait-and-see attitude.\n[Key Drivers]\n1. ETF funding net inflow, 2. Increased stablecoin issuance, 3. Enhanced whale wallet activity\n[Outlook]\nIn the short term, the bitcoin price may remain at the current level, and market signals need to be monitored.\n[Reminder]\nCryptocurrency markets are highly volatile, and investment requires caution",
-  "aiSummaryUpdated": 1773763309.950192
+  "aiSummaryCN": "【多空格局】\n当前比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为BTC价格已接近底部，投资者可以抄底。\n【空头理由】\n空头认为市场恐慌情绪仍然高涨，价格可能继续下跌。\n【市场展望】\n短期内，BTC价格可能会继续震荡，投资者需谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market is experiencing a fierce struggle between bulls and bears.\n[Key Drivers]\nBulls believe the BTC price has reached the bottom and is a good time to buy.\n[Outlook]\nBears think the market panic sentiment is still high, and the price may continue to fall.\n[Reminder]\nIn the short term, the BTC price may continue to fluctuate, and investors need to be cautious.",
+  "aiSummaryUpdated": 1773786557.248672
 }
