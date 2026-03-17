@@ -1,10 +1,10 @@
 {
-  "btcPrice": 75718.0,
-  "priceChange24h": 4.25,
+  "btcPrice": 74621.0,
+  "priceChange24h": 1.31,
   "fomoIndex": 28,
-  "aiCommentCN": "行情起舞，散户观望.",
-  "aiCommentEN": "Market dances, retail watches.",
-  "lastUpdated": 1773712191.138663,
+  "aiCommentCN": "涨的时候高兴，跌的时候更高兴.",
+  "aiCommentEN": "Fear less, invest more, that's the dream.",
+  "lastUpdated": 1773720902.736913,
   "forexRates": {
     "CNY": 6.8961,
     "EUR": 0.87123,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 13,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：比特币正处于牛市周期。\n【当前阶段】\n当前阶段特征：市场呈现强劲上涨趋势，投资者情绪高涨。\n价格上涨动力强劲，市场活跃度提高。\n【未来可能走势】\n周期视角下的展望：可能继续上涨，但需注意风险。\n【一句提醒】\n风险或操作提醒：密切关注市场变化，做好风险管理。",
-  "aiSummaryEN": "[Today's View]\nCurrent market stage: Bitcoin is in a bullish cycle.\n[Key Drivers]\nCurrent stage characteristics: The market is showing a strong upward trend, investor sentiment is high.\nPrice rise momentum is strong, market activity increases.\n[Outlook]\nCycle perspective outlook: May continue to rise, but pay attention to risks.\n[Reminder]\nRisk or operation reminder: Closely monitor market changes, manage risks.",
-  "aiSummaryUpdated": 1773700137.835344
+  "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持震荡态势。\n【关键位置】\n73,000 美元是当前的关键支撑位，76,000 美元是短期的阻力位。\n【短线策略】\n可以考虑在 73,500 美元附近买入，目标价位为 75,500 美元。\n【风险提醒】\n注意市场波动风险，严格控制仓位。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may maintain its fluctuation within the next 24 hours.\n[Key Drivers]\n$73,000 is the key support level, and $76,000 is the short-term resistance.\n[Outlook]\nConsider buying around $73,500, with a target price of $75,500.\n[Reminder]\nBe aware of market volatility and strictly control positions.",
+  "aiSummaryUpdated": 1773720903.833234
 }
