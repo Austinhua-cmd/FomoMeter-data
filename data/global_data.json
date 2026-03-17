@@ -1,10 +1,10 @@
 {
-  "btcPrice": 73909.0,
-  "priceChange24h": 0.89,
+  "btcPrice": 73695.0,
+  "priceChange24h": 0.16,
   "fomoIndex": 28,
-  "aiCommentCN": "行情如人生，起伏不断，心态才是关键。",
-  "aiCommentEN": "Market volatility is life, calmness is key.",
-  "lastUpdated": 1773741473.299135,
+  "aiCommentCN": "风暴过后，依然有机会。",
+  "aiCommentEN": "Storms pass, opportunities remain.",
+  "lastUpdated": 1773744872.706095,
   "forexRates": {
     "CNY": 6.8961,
     "EUR": 0.87123,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 13,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持震荡态势。\n【关键位置】\n73,000 美元是当前的关键支撑位，76,000 美元是短期的阻力位。\n【短线策略】\n可以考虑在 73,500 美元附近买入，目标价位为 75,500 美元。\n【风险提醒】\n注意市场波动风险，严格控制仓位。",
-  "aiSummaryEN": "[Today's View]\nBitcoin may maintain its fluctuation within the next 24 hours.\n[Key Drivers]\n$73,000 is the key support level, and $76,000 is the short-term resistance.\n[Outlook]\nConsider buying around $73,500, with a target price of $75,500.\n[Reminder]\nBe aware of market volatility and strictly control positions.",
-  "aiSummaryUpdated": 1773720903.833234
+  "aiSummaryCN": "【AI综合判断】\n比特币价格维持在73,695美元附近，短期内将继续震荡。\n【三大驱动因素】\n1. 宏观经济环境\n2. 资金流动性\n3. 市场情绪指数\n【未来展望】\n短期内，价格将在73,000美元至75,000美元之间波动。\n【一句提醒】\n投资者需关注恐慌贪婪指数，避免追高杀低。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's price remains around $73,695, expected to fluctuate in the short term.\n[Key Drivers]\n1. Macro-economic environment\n2. Fund flow liquidity\n3. Market sentiment index\n[Outlook]\nIn the short term, the price will oscillate between $73,000 and $75,000.\n[Reminder]\nInvestors should monitor the Fear and Greed Index to avoid chasing highs and killing lows.",
+  "aiSummaryUpdated": 1773744873.732249
 }
