@@ -1,19 +1,19 @@
 {
-  "btcPrice": 71520.0,
-  "priceChange24h": -3.84,
+  "btcPrice": 71389.0,
+  "priceChange24h": -3.62,
   "fomoIndex": 26,
-  "aiCommentCN": "大家都说稳，价格却不稳。",
-  "aiCommentEN": "Market says calm, but prices don't.",
-  "lastUpdated": 1773845142.948468,
+  "aiCommentCN": "行情跌了，梦想还在.",
+  "aiCommentEN": "Market drops, dreams remain.",
+  "lastUpdated": 1773849959.839543,
   "forexRates": {
-    "CNY": 6.8868,
-    "EUR": 0.86723,
-    "GBP": 0.74954
+    "CNY": 6.8882,
+    "EUR": 0.86957,
+    "GBP": 0.75124
   },
   "historyYesterday": 28,
   "historyLastWeek": 15,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【多空格局】\n比特币当前市场呈现出胶着状态，多头与空头均在等待关键信号。\n【多头理由】\n多头认为BTC价格已具备上涨基础，随着市场信心增强，价格有望冲破当前阻力位。\n【空头理由】\n空头则认为市场恐慌情绪仍然存在，价格可能会继续下探。\n【市场展望】\n短期内，价格可能会维持在当前水平，观察市场情绪变化，73,890美元是关键支撑位。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's current market is in a stalemate, with both bulls and bears waiting for a key signal.\n[Key Drivers]\nBulls believe that the BTC price has a solid foundation for an uptrend, and as market confidence grows, the price is expected to break through the current resistance level.\n[Outlook]\nBears, on the other hand, think that market panic sentiment still exists, and the price may continue to fall.\n[Reminder]\nIn the short term, the price may remain at the current level, observing changes in market sentiment, with $73,890 being a key support level.",
-  "aiSummaryUpdated": 1773830926.91368
+  "aiSummaryCN": "【今日观点】\n当前比特币市场情绪较为谨慎。\n【驱动因素】\n美联储政策、ETF资金、美元指数是影响市场的关键因素。\n【市场展望】\n未来24-72小时内，价格可能会继续波动。\n【一句提醒】\n交易时要密切关注市场动向，谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nCurrent bitcoin market sentiment is cautious.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the US dollar index are key factors affecting the market.\n[Outlook]\nIn the next 24-72 hours, the price may continue to fluctuate.\n[Reminder]\nBe cautious and monitor market trends closely when trading.",
+  "aiSummaryUpdated": 1773849960.742103
 }
