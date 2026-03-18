@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71274.0,
-  "priceChange24h": -4.46,
+  "btcPrice": 71048.0,
+  "priceChange24h": -4.52,
   "fomoIndex": 26,
-  "aiCommentCN": "跌的时候想抄底，抄完才发现还要跌。",
-  "aiCommentEN": "Fear of missing out turns to fear of catching a fall.",
-  "lastUpdated": 1773869428.830576,
+  "aiCommentCN": "跌的时候想抄底，抄到底部还在掉",
+  "aiCommentEN": "Falling prices make us want to buy more",
+  "lastUpdated": 1773872925.044301,
   "forexRates": {
     "CNY": 6.8882,
     "EUR": 0.86957,
@@ -13,7 +13,7 @@
   "historyYesterday": 28,
   "historyLastWeek": 15,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【今日观点】\n当前比特币市场情绪较为谨慎。\n【驱动因素】\n美联储政策、ETF资金、美元指数是影响市场的关键因素。\n【市场展望】\n未来24-72小时内，价格可能会继续波动。\n【一句提醒】\n交易时要密切关注市场动向，谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nCurrent bitcoin market sentiment is cautious.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the US dollar index are key factors affecting the market.\n[Outlook]\nIn the next 24-72 hours, the price may continue to fluctuate.\n[Reminder]\nBe cautious and monitor market trends closely when trading.",
-  "aiSummaryUpdated": 1773849960.742103
+  "aiSummaryCN": "【交易观点】\n比特币短期走势或将震荡调整。\n【关键位置】\n70,000 美元关口支撑较强。\n【短线策略】\n可尝试低吸高平。\n【风险提醒】\n注意市场波动风险，控制仓位。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend may fluctuate and adjust.\n[Key Drivers]\nThe $70,000 level has strong support.\n[Outlook]\nTry to buy low and sell high.\n[Reminder]\nBe aware of market volatility risks and control positions.",
+  "aiSummaryUpdated": 1773872925.98614
 }
