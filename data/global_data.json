@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69707.0,
-  "priceChange24h": -1.95,
+  "btcPrice": 69241.0,
+  "priceChange24h": -2.84,
   "fomoIndex": 23,
-  "aiCommentCN": "趋势未至，静候其来",
-  "aiCommentEN": "Trend is coming, wait patiently",
-  "lastUpdated": 1773933096.925574,
+  "aiCommentCN": "行情跌了，梦想没跌吧",
+  "aiCommentEN": "Market drops, dreams don't, right",
+  "lastUpdated": 1773936879.396596,
   "forexRates": {
     "CNY": 6.9004,
     "EUR": 0.8704,
@@ -13,7 +13,7 @@
   "historyYesterday": 26,
   "historyLastWeek": 18,
   "historyLastMonth": 10,
-  "aiSummaryCN": "【技术观点】\n短期内比特币价格可能会继续下跌。\n【关键位置】\n当前支撑位：65,000 美元，阻力位：75,000 美元。\n【走势推演】\n如果跌破支撑位，可能会继续下探;\n如果突破阻力位，可能会反弹。\n【一句提醒】\n当前恐慌贪婪指数较低，需谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nBitcoin price may continue to decline in the short term.\n[Key Drivers]\nCurrent support: $65,000, resistance: $75,000.\n[Outlook]\nIf it breaks through the support, it may continue to fall;\nif it breaks through the resistance, it may rebound.\n[Reminder]\nCurrent fear and greed index is low, be cautious.",
-  "aiSummaryUpdated": 1773916573.70029
+  "aiSummaryCN": "【机构视角】\n机构投资者认为比特币当前价格具有较强的吸引力。\n【关键观察】\nBTC价格：69,241 美元，24h涨跌：-2.8%，恐慌贪婪指数：23，表明市场仍然处于恐慌状态。\n机构投资者正在密切关注市场的反弹情况。\n【未来展望】\n机构投资者预计比特币价格将在短期内继续波动。\n【一句提醒】\n投资者应该保持谨慎，密切关注市场的变化。",
+  "aiSummaryEN": "[Today's View]\nInstitutional investors believe the current Bitcoin price is attractive.\n[Key Drivers]\nBTC price: $69,241, 24h change: -2.8%, Fear and Greed Index: 23, indicating the market is still in a state of panic.\nInstitutional investors are closely watching the market's rebound.\n[Outlook]\nInstitutional investors predict Bitcoin's price will continue to fluctuate in the short term.\n[Reminder]\nInvestors should remain cautious and closely monitor market changes.",
+  "aiSummaryUpdated": 1773936880.4849
 }
