@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70281.0,
-  "priceChange24h": -5.34,
+  "btcPrice": 70330.0,
+  "priceChange24h": -4.97,
   "fomoIndex": 23,
-  "aiCommentCN": "跌的时候想抄底，底没了还在想。",
-  "aiCommentEN": "Falling prices make us want to buy, but the bottom's gone.",
-  "lastUpdated": 1773913149.989892,
+  "aiCommentCN": "价格掉了，心还在涨.",
+  "aiCommentEN": "Market drops, anxiety rises.",
+  "lastUpdated": 1773916572.925582,
   "forexRates": {
     "CNY": 6.8882,
     "EUR": 0.86957,
@@ -13,7 +13,7 @@
   "historyYesterday": 26,
   "historyLastWeek": 18,
   "historyLastMonth": 10,
-  "aiSummaryCN": "【今日观点】\n比特币价格呈现下跌趋势，投资者情绪谨慎。\n【驱动因素】\n美联储政策、ETF资金、美元指数是当前的关键宏观因素。\n【市场展望】\n未来24-72小时，价格可能继续波动。\n【一句提醒】\n关注市场信号，谨慎交易。",
-  "aiSummaryEN": "[Today's View]\nBitcoin price is trending downward, with cautious investor sentiment.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the US dollar index are key macro factors.\n[Outlook]\nIn the next 24-72 hours, prices may continue to fluctuate.\n[Reminder]\nMonitor market signals and trade with caution.",
-  "aiSummaryUpdated": 1773894094.303713
+  "aiSummaryCN": "【技术观点】\n短期内比特币价格可能会继续下跌。\n【关键位置】\n当前支撑位：65,000 美元，阻力位：75,000 美元。\n【走势推演】\n如果跌破支撑位，可能会继续下探;\n如果突破阻力位，可能会反弹。\n【一句提醒】\n当前恐慌贪婪指数较低，需谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nBitcoin price may continue to decline in the short term.\n[Key Drivers]\nCurrent support: $65,000, resistance: $75,000.\n[Outlook]\nIf it breaks through the support, it may continue to fall;\nif it breaks through the resistance, it may rebound.\n[Reminder]\nCurrent fear and greed index is low, be cautious.",
+  "aiSummaryUpdated": 1773916573.70029
 }
