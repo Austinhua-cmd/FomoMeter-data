@@ -1,19 +1,19 @@
 {
-  "btcPrice": 71263.0,
-  "priceChange24h": -3.85,
-  "fomoIndex": 26,
-  "aiCommentCN": "行情如初恋，难捉摸且令人心跳加速",
-  "aiCommentEN": "Market like a crush, unpredictable and thrilling",
-  "lastUpdated": 1773876841.656153,
+  "btcPrice": 70874.0,
+  "priceChange24h": -4.7,
+  "fomoIndex": 23,
+  "aiCommentCN": "静等黎明，心已千回",
+  "aiCommentEN": "Calmness is a virtue, but trends are ruthless",
+  "lastUpdated": 1773894093.597293,
   "forexRates": {
     "CNY": 6.8882,
     "EUR": 0.86957,
     "GBP": 0.75124
   },
-  "historyYesterday": 28,
-  "historyLastWeek": 15,
-  "historyLastMonth": 12,
-  "aiSummaryCN": "【交易观点】\n比特币短期走势或将震荡调整。\n【关键位置】\n70,000 美元关口支撑较强。\n【短线策略】\n可尝试低吸高平。\n【风险提醒】\n注意市场波动风险，控制仓位。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend may fluctuate and adjust.\n[Key Drivers]\nThe $70,000 level has strong support.\n[Outlook]\nTry to buy low and sell high.\n[Reminder]\nBe aware of market volatility risks and control positions.",
-  "aiSummaryUpdated": 1773872925.98614
+  "historyYesterday": 26,
+  "historyLastWeek": 18,
+  "historyLastMonth": 10,
+  "aiSummaryCN": "【今日观点】\n比特币价格呈现下跌趋势，投资者情绪谨慎。\n【驱动因素】\n美联储政策、ETF资金、美元指数是当前的关键宏观因素。\n【市场展望】\n未来24-72小时，价格可能继续波动。\n【一句提醒】\n关注市场信号，谨慎交易。",
+  "aiSummaryEN": "[Today's View]\nBitcoin price is trending downward, with cautious investor sentiment.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the US dollar index are key macro factors.\n[Outlook]\nIn the next 24-72 hours, prices may continue to fluctuate.\n[Reminder]\nMonitor market signals and trade with caution.",
+  "aiSummaryUpdated": 1773894094.303713
 }
