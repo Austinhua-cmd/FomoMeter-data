@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70637.0,
-  "priceChange24h": 0.44,
+  "btcPrice": 70336.0,
+  "priceChange24h": 0.01,
   "fomoIndex": 11,
-  "aiCommentCN": "大家都在等待趋势，趋势却在等待勇气。",
-  "aiCommentEN": "Trends wait for courage, not patience always.",
-  "lastUpdated": 1773999410.127325,
+  "aiCommentCN": "市场静默时，心跳最响.",
+  "aiCommentEN": "Calm markets make anxious hearts.",
+  "lastUpdated": 1774002853.443901,
   "forexRates": {
     "CNY": 6.9004,
     "EUR": 0.8704,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 15,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【技术观点】\n比特币短期内可能会维持震荡走势。\n【关键位置】\n当前支撑位：68,000 美元，阻力位：72,000 美元。\n【走势推演】\n如果跌破支撑位，可能会继续下跌；如果突破阻力位，可能会迎来上涨。\n【一句提醒】\n投资者应谨慎操作，关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nBitcoin may experience a fluctuating trend in the short term.\n[Key Drivers]\nCurrent support level: $68,000, resistance level: $72,000.\n[Outlook]\nIf it falls below the support level, it may continue to decline; if it breaks through the resistance level, it may rise.\n[Reminder]\nInvestors should operate cautiously and monitor market signals.",
-  "aiSummaryUpdated": 1773979877.877096
+  "aiSummaryCN": "【机构视角】\n从机构投资角度来看，比特币当前价格在70,336美元，24小时涨跌为+0.0%，恐慌贪婪指数为11，表明市场仍处于恐慌状态。\n【关键观察】\n机构资金仍然是比特币市场的重要驱动力，近期机构投资者的情绪波动对市场产生了显著影响。\n比特币的价格波动与全球经济形势、监管政策等因素密切相关。\n机构投资者对比特币的看法转变可能会引发市场的剧烈波动。\n【未来展望】\n从机构视角来看，比特币的未来走势将受到全球经济趋势、监管政策以及机构投资者情绪的综合影响。\n【一句提醒】\n投资比特币存在较高的风险，机构投资者应谨慎评估市场行情，并根据自身风险承受能力做出投资决策。",
+  "aiSummaryEN": "[Today's View]\nFrom an institutional investment perspective, Bitcoin's current price is $70,336, with a 24-hour change of +0.0% and a Fear & Greed Index of 11, indicating the market remains in a state of fear.\n[Key Drivers]\nInstitutional funds continue to be a key driver of the Bitcoin market, with recent fluctuations in institutional investor sentiment having a significant impact on the market.\nBitcoin's price fluctuations are closely related to global economic trends, regulatory policies, and other factors.\nA shift in institutional investors' views on Bitcoin could trigger dramatic market fluctuations.\n[Outlook]\nFrom an institutional perspective, Bitcoin's future trend will be influenced by a combination of global economic trends, regulatory policies, and institutional investor sentiment.\n[Reminder]\nInvesting in Bitcoin carries high risks, and institutional investors should carefully assess market conditions and make investment decisions based on their own risk tolerance.",
+  "aiSummaryUpdated": 1774002854.964155
 }
