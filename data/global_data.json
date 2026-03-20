@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69845.0,
-  "priceChange24h": 0.76,
+  "btcPrice": 69767.0,
+  "priceChange24h": 0.54,
   "fomoIndex": 11,
-  "aiCommentCN": "涨的时候怕错过，跌的时候怕买到",
-  "aiCommentEN": "Fear missing out when up, fear buying the dip",
-  "lastUpdated": 1774021134.485368,
+  "aiCommentCN": "价格小涨，心情不小落.",
+  "aiCommentEN": "Small price rise, big mood swing.",
+  "lastUpdated": 1774024724.917574,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 15,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【机构视角】\n从机构投资角度来看，比特币当前价格在70,336美元，24小时涨跌为+0.0%，恐慌贪婪指数为11，表明市场仍处于恐慌状态。\n【关键观察】\n机构资金仍然是比特币市场的重要驱动力，近期机构投资者的情绪波动对市场产生了显著影响。\n比特币的价格波动与全球经济形势、监管政策等因素密切相关。\n机构投资者对比特币的看法转变可能会引发市场的剧烈波动。\n【未来展望】\n从机构视角来看，比特币的未来走势将受到全球经济趋势、监管政策以及机构投资者情绪的综合影响。\n【一句提醒】\n投资比特币存在较高的风险，机构投资者应谨慎评估市场行情，并根据自身风险承受能力做出投资决策。",
-  "aiSummaryEN": "[Today's View]\nFrom an institutional investment perspective, Bitcoin's current price is $70,336, with a 24-hour change of +0.0% and a Fear & Greed Index of 11, indicating the market remains in a state of fear.\n[Key Drivers]\nInstitutional funds continue to be a key driver of the Bitcoin market, with recent fluctuations in institutional investor sentiment having a significant impact on the market.\nBitcoin's price fluctuations are closely related to global economic trends, regulatory policies, and other factors.\nA shift in institutional investors' views on Bitcoin could trigger dramatic market fluctuations.\n[Outlook]\nFrom an institutional perspective, Bitcoin's future trend will be influenced by a combination of global economic trends, regulatory policies, and institutional investor sentiment.\n[Reminder]\nInvesting in Bitcoin carries high risks, and institutional investors should carefully assess market conditions and make investment decisions based on their own risk tolerance.",
-  "aiSummaryUpdated": 1774002854.964155
+  "aiSummaryCN": "【多空格局】\n当前比特币市场呈现出微弱的多头态势。\n【多头理由】\n比特币价格小幅上涨，恐慌贪婪指数较低，表明投资者仍有信心。\n【空头理由】\n市场波动性较高，价格容易受到突然的冲击。\n【市场展望】\n短期内可能会继续震荡上行，69,767美元关口将是关键。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market shows a weak bull trend.\n[Key Drivers]\nBitcoin price rises slightly, and the fear and greed index is low, indicating investors still have confidence.\n[Outlook]\nShort-term may continue to fluctuate upwards, with $69,767 being the key point.\n[Reminder]\nMarket volatility is high, and prices can be easily impacted by sudden shocks.",
+  "aiSummaryUpdated": 1774024725.992454
 }
