@@ -1,18 +1,18 @@
 {
-  "btcPrice": 69847.0,
-  "priceChange24h": -1.98,
-  "fomoIndex": 23,
-  "aiCommentCN": "跌的时候别怕，怕的时候别买。",
-  "aiCommentEN": "Don't fear when it drops, don't buy when you're scared.",
-  "lastUpdated": 1773964382.90635,
+  "btcPrice": 70531.0,
+  "priceChange24h": -0.87,
+  "fomoIndex": 11,
+  "aiCommentCN": "静静等待机会，机会悄悄来临。",
+  "aiCommentEN": "Wait for chance, chance comes quietly always.",
+  "lastUpdated": 1773971377.148726,
   "forexRates": {
     "CNY": 6.9004,
     "EUR": 0.8704,
     "GBP": 0.75192
   },
-  "historyYesterday": 26,
-  "historyLastWeek": 18,
-  "historyLastMonth": 10,
+  "historyYesterday": 23,
+  "historyLastWeek": 15,
+  "historyLastMonth": 8,
   "aiSummaryCN": "【机构视角】\n机构投资者认为比特币目前价格较为稳定。\n【关键观察】\n比特币价格：70,395 美元，24h涨跌：-1.0%，恐慌贪婪指数：23，表明市场仍处于恐慌状态。\n【未来展望】\n机构投资者预计比特币将继续震荡行情。\n【一句提醒】\n投资比特币存在较高风险，投资者需谨慎",
   "aiSummaryEN": "[Today's View]\nInstitutional investors view Bitcoin's current price as relatively stable.\n[Key Drivers]\nBitcoin price: $70,395, 24h change: -1.0%, Fear and Greed Index: 23, indicating a fearful market.\n[Outlook]\nInstitutional investors expect Bitcoin to continue its volatile trend.\n[Reminder]\nInvesting in Bitcoin carries high risk, investors should be cautious",
   "aiSummaryUpdated": 1773959044.091327
