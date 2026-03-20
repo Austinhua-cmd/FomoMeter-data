@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70336.0,
-  "priceChange24h": 0.01,
+  "btcPrice": 70694.0,
+  "priceChange24h": 0.7,
   "fomoIndex": 11,
-  "aiCommentCN": "市场静默时，心跳最响.",
-  "aiCommentEN": "Calm markets make anxious hearts.",
-  "lastUpdated": 1774002853.443901,
+  "aiCommentCN": "行情静默时，心跳得更快",
+  "aiCommentEN": "Market silence makes hearts beat faster",
+  "lastUpdated": 1774006109.899427,
   "forexRates": {
     "CNY": 6.9004,
     "EUR": 0.8704,
