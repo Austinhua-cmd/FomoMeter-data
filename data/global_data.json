@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70569.0,
-  "priceChange24h": -0.01,
+  "btcPrice": 70670.0,
+  "priceChange24h": -0.14,
   "fomoIndex": 12,
-  "aiCommentCN": "静默的市场，是散户心跳的加速器。",
-  "aiCommentEN": "Silent markets speed up retail investors' heartbeats.",
-  "lastUpdated": 1774057421.963418,
+  "aiCommentCN": "价格没动，心里却很忙。",
+  "aiCommentEN": "Price stands still, but hearts are racing.",
+  "lastUpdated": 1774065747.221275,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 11,
   "historyLastWeek": 16,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【周期判断】\n当前比特币市场处于震荡反弹阶段。\n【当前阶段】\n当前阶段特征包括：行情波动加剧，投资者情绪转变，市场热度逐渐回升。\n【未来可能走势】\n从周期视角来看，未来比特币可能会继续震荡，寻找新的支撑和压力位。\n【一句提醒】\n投资者需要保持警惕，避免过度乐观或悲观，根据实际情况调整投资策略。",
-  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market is in a rebound phase.\n[Key Drivers]\nThe current stage is characterized by: increased market volatility, changing investor sentiment, and a gradual increase in market heat.\n[Outlook]\nFrom a cyclical perspective, Bitcoin may continue to fluctuate in the future, seeking new support and pressure levels.\n[Reminder]\nInvestors need to remain vigilant, avoid excessive optimism or pessimism, and adjust their investment strategies according to the actual situation.",
-  "aiSummaryUpdated": 1774045467.406909
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为牛市周期。\n【当前阶段】\n当前阶段特征为市场调整，投资者情绪低落，BTC价格小幅波动。\n【未来可能走势】\n周期视角下的展望是，BTC价格将继续上涨，但短期内可能会有波动。\n【一句提醒】\n风险或操作提醒：投资者应保持谨慎，做好风险管理。",
+  "aiSummaryEN": "[Today's View]\nWe are currently in a bull market cycle.\n[Key Drivers]\nThe current stage is characterized by market adjustment, low investor sentiment, and minor BTC price fluctuations.\n[Outlook]\nFrom a cyclical perspective, the outlook is that the BTC price will continue to rise, but may fluctuate in the short term.\n[Reminder]\nReminder: Investors should remain cautious and manage risks properly.",
+  "aiSummaryUpdated": 1774065748.152587
 }
