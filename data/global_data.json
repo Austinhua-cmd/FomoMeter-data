@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70607.0,
-  "priceChange24h": -0.12,
+  "btcPrice": 70578.0,
+  "priceChange24h": 0.41,
   "fomoIndex": 12,
-  "aiCommentCN": "价格静悄悄，心跳很快.",
-  "aiCommentEN": "Market stays calm, hearts beat fast.",
-  "lastUpdated": 1774085807.116264,
+  "aiCommentCN": "静静等待趋势，心跳不静候",
+  "aiCommentEN": "Waiting calmly for trends, heart beats fast",
+  "lastUpdated": 1774088542.92777,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 11,
   "historyLastWeek": 16,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为牛市周期。\n【当前阶段】\n当前阶段特征为市场调整，投资者情绪低落，BTC价格小幅波动。\n【未来可能走势】\n周期视角下的展望是，BTC价格将继续上涨，但短期内可能会有波动。\n【一句提醒】\n风险或操作提醒：投资者应保持谨慎，做好风险管理。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in a bull market cycle.\n[Key Drivers]\nThe current stage is characterized by market adjustment, low investor sentiment, and minor BTC price fluctuations.\n[Outlook]\nFrom a cyclical perspective, the outlook is that the BTC price will continue to rise, but may fluctuate in the short term.\n[Reminder]\nReminder: Investors should remain cautious and manage risks properly.",
-  "aiSummaryUpdated": 1774065748.152587
+  "aiSummaryCN": "【多空格局】\n当前比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为BTC价格已底部确认，投资者信心增强。\n【空头理由】\n空头认为市场仍存在较大不确定性，可能会再次下跌。\n【市场展望】\n短期内，BTC价格可能会继续震荡，需密切关注市场信号。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market is experiencing intense volatility.\n[Key Drivers]\nBullish investors believe the BTC price has hit bottom and investor confidence is increasing.\n[Outlook]\nBearish investors think the market still has significant uncertainty and may fall again.\n[Reminder]\nIn the short term, the BTC price may continue to fluctuate, and market signals need to be closely monitored.",
+  "aiSummaryUpdated": 1774088543.811154
 }
