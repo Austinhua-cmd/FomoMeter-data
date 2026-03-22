@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68728.0,
-  "priceChange24h": -2.71,
+  "btcPrice": 68898.0,
+  "priceChange24h": -2.37,
   "fomoIndex": 10,
-  "aiCommentCN": "静静等待趋势，忽然发现自己在抄底",
-  "aiCommentEN": "Waiting for trend, but ended up buying the dip",
-  "lastUpdated": 1774191169.892344,
+  "aiCommentCN": "行情跌的时候，散户很忙，不敢买也不敢卖。",
+  "aiCommentEN": "Market drops, retail investors panic, too afraid to buy or sell.",
+  "lastUpdated": 1774192926.461223,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
