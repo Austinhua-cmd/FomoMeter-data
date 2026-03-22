@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67844.0,
-  "priceChange24h": -3.55,
+  "btcPrice": 67983.0,
+  "priceChange24h": -3.26,
   "fomoIndex": 10,
-  "aiCommentCN": "市场在沉默，心却很忙.",
-  "aiCommentEN": "Market is quiet, but hearts are racing.",
-  "lastUpdated": 1774216113.619244,
+  "aiCommentCN": "跌的时候想抄底，抄完又想逃跑。",
+  "aiCommentEN": "Fear of missing out turns to fear of holding on.",
+  "lastUpdated": 1774218090.722711,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 15,
   "historyLastMonth": 7,
-  "aiSummaryCN": "【市场解读】\n比特币市场近期呈现下跌走势，当前价格为68,745美元，24小时跌幅达2.5%。\n【关键事件】\n近期全球经济不确定性增加、监管政策收紧等因素影响了投资者信心。\n【市场影响】\n恐慌贪婪指数降至10，表明投资者情绪较为悲观。\n【一句提醒】\n投资者应谨慎操作，关注市场信号，做好风险管理。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's market has been declining recently, with a current price of $68,745 and a 24-hour drop of 2.5%.\n[Key Drivers]\nRecent global economic uncertainty and tightened regulatory policies have affected investor confidence.\n[Outlook]\nThe fear and greed index has dropped to 10, indicating that investors are relatively pessimistic.\n[Reminder]\nInvestors should be cautious, monitor market signals, and manage risks properly.",
-  "aiSummaryUpdated": 1774196740.645105
+  "aiSummaryCN": "【机构视角】\n比特币市场当前处于调整期，机构投资者正在观察市场走势。\n【关键观察】\nBTC价格：67,983 美元，24h涨跌：-3.3%，恐慌贪婪指数：10，表明市场仍处于恐慌状态。\n机构资金流入加密市场，寻找价值投资机会。\n【未来展望】\n机构投资者预计比特币市场将在中期内趋于稳定，寻找战略性投资机会。\n【一句提醒】\n投资加密市场存在高风险，机构投资者应谨慎评估市场风险和投资策略。",
+  "aiSummaryEN": "[Today's View]\nThe Bitcoin market is currently in an adjustment period, with institutional investors observing market trends.\n[Key Drivers]\nBTC price: $67,983, 24h change: -3.3%, Fear and Greed Index: 10, indicating the market is still in a state of panic.\nInstitutional funds are flowing into the crypto market, seeking value investment opportunities.\n[Outlook]\nInstitutional investors expect the Bitcoin market to stabilize in the medium term, seeking strategic investment opportunities.\n[Reminder]\nInvesting in the crypto market carries high risks, and institutional investors should carefully assess market risks and investment strategies.",
+  "aiSummaryUpdated": 1774218091.732179
 }
