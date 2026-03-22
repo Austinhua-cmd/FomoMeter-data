@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68796.0,
-  "priceChange24h": -2.61,
+  "btcPrice": 68745.0,
+  "priceChange24h": -2.51,
   "fomoIndex": 10,
-  "aiCommentCN": "价格下跌，心情也跟着跌",
-  "aiCommentEN": "Market drops, so does my mood",
-  "lastUpdated": 1774194465.856415,
+  "aiCommentCN": "行情没动，心跳挺快，市场静默时，情绪最躁动。",
+  "aiCommentEN": "Market stays calm, hearts beat fast, emotions run wild.",
+  "lastUpdated": 1774196739.604841,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 15,
   "historyLastMonth": 7,
-  "aiSummaryCN": "【AI综合判断】\n比特币当前价格68,707美元，短期内可能继续震荡。\n【三大驱动因素】\n1. 宏观经济数据\n2. 资金流入流出\n3. 市场情绪波动\n【未来展望】\n短期内，价格可能维持在当前水平。\n【一句提醒】\n投资者应谨慎观察市场变化，避免冲动操作。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $68,707, with potential for short-term fluctuations.\n[Key Drivers]\n1. Macroeconomic data\n2. Capital inflows and outflows\n3. Market sentiment shifts\n[Outlook]\nIn the short term, prices may remain at current levels.\n[Reminder]\nInvestors should cautiously monitor market changes and avoid impulsive actions.",
-  "aiSummaryUpdated": 1774174983.383085
+  "aiSummaryCN": "【市场解读】\n比特币市场近期呈现下跌走势，当前价格为68,745美元，24小时跌幅达2.5%。\n【关键事件】\n近期全球经济不确定性增加、监管政策收紧等因素影响了投资者信心。\n【市场影响】\n恐慌贪婪指数降至10，表明投资者情绪较为悲观。\n【一句提醒】\n投资者应谨慎操作，关注市场信号，做好风险管理。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's market has been declining recently, with a current price of $68,745 and a 24-hour drop of 2.5%.\n[Key Drivers]\nRecent global economic uncertainty and tightened regulatory policies have affected investor confidence.\n[Outlook]\nThe fear and greed index has dropped to 10, indicating that investors are relatively pessimistic.\n[Reminder]\nInvestors should be cautious, monitor market signals, and manage risks properly.",
+  "aiSummaryUpdated": 1774196740.645105
 }
