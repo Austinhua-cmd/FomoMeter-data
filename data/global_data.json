@@ -1,18 +1,18 @@
 {
-  "btcPrice": 70127.0,
-  "priceChange24h": -0.53,
-  "fomoIndex": 12,
-  "aiCommentCN": "行情静默，散户心跳加速。",
-  "aiCommentEN": "Market silence makes hearts beat faster.",
-  "lastUpdated": 1774136809.544371,
+  "btcPrice": 68935.0,
+  "priceChange24h": -2.2,
+  "fomoIndex": 10,
+  "aiCommentCN": "价格掉了，希望没掉.",
+  "aiCommentEN": "Prices drop, hopes don't.",
+  "lastUpdated": 1774144498.945495,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
     "GBP": 0.74806
   },
-  "historyYesterday": 11,
-  "historyLastWeek": 16,
-  "historyLastMonth": 9,
+  "historyYesterday": 12,
+  "historyLastWeek": 15,
+  "historyLastMonth": 7,
   "aiSummaryCN": "【机构视角】\n机构投资者认为比特币当前价格较为稳定。\n【关键观察】\nBTC价格：70,311美元，24h涨跌：-0.7%，恐慌贪婪指数：12，表明市场仍处于恐慌状态。\n机构资金流入加密市场，投资者关注市场信号。\n【未来展望】\n比特币价格可能会在短期内继续波动，机构投资者将密切关注市场趋势。\n【一句提醒】\n投资者应谨慎对待市场风险，做好风险管理。",
   "aiSummaryEN": "[Today's View]\nInstitutional investors view Bitcoin's current price as relatively stable.\n[Key Drivers]\nBTC price: $70,311, 24h change: -0.7%, Fear & Greed Index: 12, indicating a fearful market.\nInstitutional funds are flowing into the crypto market, with investors watching for market signals.\n[Outlook]\nBitcoin's price may continue to fluctuate in the short term, with institutional investors closely monitoring market trends.\n[Reminder]\nInvestors should be cautious of market risks and manage them properly.",
   "aiSummaryUpdated": 1774131604.675328
