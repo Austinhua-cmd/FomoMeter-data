@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68041.0,
-  "priceChange24h": -1.03,
+  "btcPrice": 68376.0,
+  "priceChange24h": -0.37,
   "fomoIndex": 8,
-  "aiCommentCN": "行情在波动，心情在颤抖",
-  "aiCommentEN": "Market waves make hearts flutter",
-  "lastUpdated": 1774258558.260801,
+  "aiCommentCN": "跌的时候想抄底，涨的时候怕晚了",
+  "aiCommentEN": "Fear of missing out when it rises",
+  "lastUpdated": 1774263021.545119,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 10,
   "historyLastWeek": 23,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【市场解读】\n比特币价格近期波动，当前价格为68,148美元，24小时内跌幅1.6%。\n【关键事件】\n近期全球经济政策调整、加密货币监管政策变化、重大黑客事件等。\n【市场影响】\n这些事件导致投资者信心波动，进而影响比特币价格。\n【一句提醒】\n投资者应谨慎分析市场，避免恐慌买卖。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's price has been fluctuating, currently at $68,148 with a 1.6% drop in 24 hours.\n[Key Drivers]\nRecent global economic policy adjustments, changes in cryptocurrency regulatory policies, and major hacking incidents.\n[Outlook]\nThese events have led to fluctuations in investor confidence, affecting Bitcoin's price.\n[Reminder]\nInvestors should carefully analyze the market and avoid panic buying or selling.",
-  "aiSummaryUpdated": 1774240063.894631
+  "aiSummaryCN": "【市场解读】\n比特币价格近期略有波动。\n【关键事件】\n近期全球热点事件对比特币市场产生一定影响，包括经济数据的发布和监管政策的调整。\n【市场影响】\n这些事件导致投资者情绪波动，影响比特币价格。\n【一句提醒】\n投资者应谨慎分析市场走势，避免过度追涨杀跌。",
+  "aiSummaryEN": "[Today's View]\nBitcoin price has fluctuated slightly recently.\n[Key Drivers]\nRecent global hotspots have had a certain impact on the bitcoin market, including the release of economic data and adjustments to regulatory policies.\n[Outlook]\nThese events have caused investor sentiment to fluctuate, affecting the bitcoin price.\n[Reminder]\nInvestors should carefully analyze market trends and avoid excessive chasing and killing.",
+  "aiSummaryUpdated": 1774263022.53969
 }
