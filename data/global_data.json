@@ -1,18 +1,18 @@
 {
-  "btcPrice": 67998.0,
-  "priceChange24h": -1.83,
-  "fomoIndex": 10,
-  "aiCommentCN": "跌的时候想抄底，稳的时候想加仓",
-  "aiCommentEN": "Down we want to buy, up we want more",
-  "lastUpdated": 1774223431.808569,
+  "btcPrice": 68005.0,
+  "priceChange24h": -1.36,
+  "fomoIndex": 8,
+  "aiCommentCN": "行情慢如老牛，心跳如野马。",
+  "aiCommentEN": "Market moves slow, heart beats fast.",
+  "lastUpdated": 1774230958.852239,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
     "GBP": 0.74806
   },
-  "historyYesterday": 12,
-  "historyLastWeek": 15,
-  "historyLastMonth": 7,
+  "historyYesterday": 10,
+  "historyLastWeek": 23,
+  "historyLastMonth": 8,
   "aiSummaryCN": "【机构视角】\n比特币市场当前处于调整期，机构投资者正在观察市场走势。\n【关键观察】\nBTC价格：67,983 美元，24h涨跌：-3.3%，恐慌贪婪指数：10，表明市场仍处于恐慌状态。\n机构资金流入加密市场，寻找价值投资机会。\n【未来展望】\n机构投资者预计比特币市场将在中期内趋于稳定，寻找战略性投资机会。\n【一句提醒】\n投资加密市场存在高风险，机构投资者应谨慎评估市场风险和投资策略。",
   "aiSummaryEN": "[Today's View]\nThe Bitcoin market is currently in an adjustment period, with institutional investors observing market trends.\n[Key Drivers]\nBTC price: $67,983, 24h change: -3.3%, Fear and Greed Index: 10, indicating the market is still in a state of panic.\nInstitutional funds are flowing into the crypto market, seeking value investment opportunities.\n[Outlook]\nInstitutional investors expect the Bitcoin market to stabilize in the medium term, seeking strategic investment opportunities.\n[Reminder]\nInvesting in the crypto market carries high risks, and institutional investors should carefully assess market risks and investment strategies.",
   "aiSummaryUpdated": 1774218091.732179
