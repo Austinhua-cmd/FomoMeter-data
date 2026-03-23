@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70887.0,
-  "priceChange24h": 2.93,
+  "btcPrice": 70558.0,
+  "priceChange24h": 2.53,
   "fomoIndex": 8,
-  "aiCommentCN": "行情缓慢，心跳如鼓。",
-  "aiCommentEN": "Market slow, heart racing fast.",
-  "lastUpdated": 1774280069.478183,
+  "aiCommentCN": "行情轻微，散户狂刷.",
+  "aiCommentEN": "Market calm, investors anxious.",
+  "lastUpdated": 1774284837.399963,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
@@ -13,7 +13,7 @@
   "historyYesterday": 10,
   "historyLastWeek": 23,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【市场解读】\n比特币价格近期略有波动。\n【关键事件】\n近期全球热点事件对比特币市场产生一定影响，包括经济数据的发布和监管政策的调整。\n【市场影响】\n这些事件导致投资者情绪波动，影响比特币价格。\n【一句提醒】\n投资者应谨慎分析市场走势，避免过度追涨杀跌。",
-  "aiSummaryEN": "[Today's View]\nBitcoin price has fluctuated slightly recently.\n[Key Drivers]\nRecent global hotspots have had a certain impact on the bitcoin market, including the release of economic data and adjustments to regulatory policies.\n[Outlook]\nThese events have caused investor sentiment to fluctuate, affecting the bitcoin price.\n[Reminder]\nInvestors should carefully analyze market trends and avoid excessive chasing and killing.",
-  "aiSummaryUpdated": 1774263022.53969
+  "aiSummaryCN": "【市场情绪】\n当前比特币市场呈现出谨慎乐观的情绪。\n【情绪信号】\n社交媒体讨论热度上升、散户活跃度增加以及衍生品多空比偏多头。\n【短期展望】\n未来几天可能会继续走高，但需注意可能出现的回调。\n【一句提醒】\n投资者应保持谨慎，关注市场信号，做好风险管理。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market is showing cautious optimism.\n[Key Drivers]\nIncreased social media discussion, rising retail activity, and a bullish derivatives ratio.\n[Outlook]\nIt may continue to rise in the next few days, but be aware of potential pullbacks.\n[Reminder]\nInvestors should remain cautious, monitor market signals, and manage risk effectively.",
+  "aiSummaryUpdated": 1774284838.217492
 }
