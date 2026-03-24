@@ -1,18 +1,18 @@
 {
-  "btcPrice": 70790.0,
-  "priceChange24h": 4.34,
-  "fomoIndex": 8,
-  "aiCommentCN": "行情不动，心跳如鼓。",
-  "aiCommentEN": "Market stays calm, hearts still racing.",
-  "lastUpdated": 1774310073.272802,
+  "btcPrice": 70401.0,
+  "priceChange24h": 3.56,
+  "fomoIndex": 11,
+  "aiCommentCN": "市场在沉寂，心却很忙碌。",
+  "aiCommentEN": "Market is calm, but hearts are racing.",
+  "lastUpdated": 1774316875.667297,
   "forexRates": {
     "CNY": 6.8943,
     "EUR": 0.86543,
     "GBP": 0.74806
   },
-  "historyYesterday": 10,
-  "historyLastWeek": 23,
-  "historyLastMonth": 8,
+  "historyYesterday": 8,
+  "historyLastWeek": 28,
+  "historyLastMonth": 9,
   "aiSummaryCN": "【AI综合判断】\n比特币价格呈现强势上涨趋势。\n【三大驱动因素】\n1. 宏观经济复苏\n2. 机构投资者入场\n3. 技术面支撑\n【未来展望】\n短期内 BTC 有望继续上涨。\n【一句提醒】\n注意控制风险，合理调整仓位。",
   "aiSummaryEN": "[Today's View]\nBitcoin price shows a strong upward trend.\n[Key Drivers]\n1. Macro economic recovery\n2. Institutional investors entering\n3. Technical support\n[Outlook]\nBTC is expected to continue rising in the short term.\n[Reminder]\nBe aware of risk control and adjust positions reasonably.",
   "aiSummaryUpdated": 1774304870.464409
