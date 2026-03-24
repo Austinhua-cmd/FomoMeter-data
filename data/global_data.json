@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70042.0,
-  "priceChange24h": -1.25,
+  "btcPrice": 70395.0,
+  "priceChange24h": -0.35,
   "fomoIndex": 11,
-  "aiCommentCN": "市场在沉默，心却很躁。",
-  "aiCommentEN": "Market is calm, but hearts are racing.",
-  "lastUpdated": 1774388045.905383,
+  "aiCommentCN": "静静等待，就是最好的行动。",
+  "aiCommentEN": "Waiting is the best action sometimes.",
+  "lastUpdated": 1774391166.653281,
   "forexRates": {
     "CNY": 6.8934,
     "EUR": 0.86415,
@@ -13,7 +13,7 @@
   "historyYesterday": 8,
   "historyLastWeek": 28,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势或将震荡调整。\n【关键位置】\n支撑位：68,000 美元，阻力位：71,000 美元。\n【走势推演】\n若跌破支撑位，可能下探 66,000 美元。\n【一句提醒】\n注意风险，保持仓位灵活。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend may fluctuate and adjust.\n[Key Drivers]\nSupport level: $68,000, Resistance level: $71,000.\n[Outlook]\nIf it breaks through the support level, it may drop to $66,000.\n[Reminder]\nBe aware of the risk and keep your position flexible.",
-  "aiSummaryUpdated": 1774368207.247096
+  "aiSummaryCN": "【今日观点】\n比特币市场当前处于观望状态。\n【驱动因素】\n美联储政策、ETF资金、美元指数是当前市场的关键驱动因素。\n【市场展望】\n未来24-72小时，市场可能会出现小幅波动。\n【一句提醒】\n交易时要注意风险控制。",
+  "aiSummaryEN": "[Today's View]\nThe bitcoin market is currently in a wait-and-see state.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the US dollar index are the key drivers of the current market.\n[Outlook]\nIn the next 24-72 hours, the market may experience small fluctuations.\n[Reminder]\nBe aware of risk control when trading.",
+  "aiSummaryUpdated": 1774391167.483192
 }
