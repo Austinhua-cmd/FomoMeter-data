@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69751.0,
-  "priceChange24h": -2.08,
+  "btcPrice": 69809.0,
+  "priceChange24h": -0.61,
   "fomoIndex": 11,
-  "aiCommentCN": "跌的时候想抄底，抄了继续跌",
-  "aiCommentEN": "Fear of missing out turns to fear of losing more",
-  "lastUpdated": 1774364051.490086,
+  "aiCommentCN": "静待行情，心跳最快.",
+  "aiCommentEN": "Market calm, heart racing.",
+  "lastUpdated": 1774368206.484863,
   "forexRates": {
     "CNY": 6.8917,
     "EUR": 0.86237,
@@ -13,7 +13,7 @@
   "historyYesterday": 8,
   "historyLastWeek": 28,
   "historyLastMonth": 9,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为牛市初期。\n【当前阶段】\n当前阶段特征：市场情绪逐渐转好，投资者信心增强，价格波动加剧。同时，市场也出现了一些过度追涨的迹象。另外，技术指标也显示出了一些超买的迹象。\n【未来可能走势】\n从周期视角来看，未来走势可能会继续上涨，但也需要注意可能出现的调整。\n【一句提醒】\n在当前的市场环境下，投资者需要保持警惕，避免过度追涨，合理控制风险。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in the early stages of a bull market.\n[Key Drivers]\nCharacteristics of the current stage: Market sentiment is improving, investor confidence is increasing, and price volatility is increasing. At the same time, there are also signs of over-chasing in the market. Additionally, technical indicators also show some overbought signals.\n[Outlook]\nFrom a cyclical perspective, the future trend may continue to rise, but we also need to be aware of possible adjustments.\n[Reminder]\nIn the current market environment, investors need to be vigilant, avoid over-chasing, and reasonably control risks.",
-  "aiSummaryUpdated": 1774346447.269311
+  "aiSummaryCN": "【技术观点】\n比特币短期走势或将震荡调整。\n【关键位置】\n支撑位：68,000 美元，阻力位：71,000 美元。\n【走势推演】\n若跌破支撑位，可能下探 66,000 美元。\n【一句提醒】\n注意风险，保持仓位灵活。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend may fluctuate and adjust.\n[Key Drivers]\nSupport level: $68,000, Resistance level: $71,000.\n[Outlook]\nIf it breaks through the support level, it may drop to $66,000.\n[Reminder]\nBe aware of the risk and keep your position flexible.",
+  "aiSummaryUpdated": 1774368207.247096
 }
