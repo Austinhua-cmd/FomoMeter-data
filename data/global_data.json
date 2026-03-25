@@ -1,19 +1,19 @@
 {
-  "btcPrice": 71371.0,
-  "priceChange24h": 2.07,
+  "btcPrice": 70828.0,
+  "priceChange24h": 1.41,
   "fomoIndex": 14,
-  "aiCommentCN": "行情小涨，心跳大涨",
-  "aiCommentEN": "Market rises, heartbeat rises faster",
-  "lastUpdated": 1774449569.67816,
+  "aiCommentCN": "行情没动，心跳挺快，散户的钱包在发脉。",
+  "aiCommentEN": "Market stays calm, but hearts are racing fast.",
+  "lastUpdated": 1774454807.947064,
   "forexRates": {
-    "CNY": 6.8934,
-    "EUR": 0.86415,
-    "GBP": 0.74785
+    "CNY": 6.8995,
+    "EUR": 0.86266,
+    "GBP": 0.7467
   },
   "historyYesterday": 11,
   "historyLastWeek": 26,
   "historyLastMonth": 5,
-  "aiSummaryCN": "【资金观察】\n当前比特币市场资金情绪相对平稳。\n【资金动向】\n1. ETF资金持续流入\n2. 稳定币发行量增加\n3. 巨鲸钱包活跃度提升\n【市场展望】\n短期内比特币价格可能会继续震荡。\n【一句提醒】\n投资者应谨慎对待市场波动，做好风险控制。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market sentiment is relatively stable.\n[Key Drivers]\n1. ETF funds continue to flow in\n2. Stablecoin issuance increases\n3. Whale wallet activity rises\n[Outlook]\nBitcoin price may continue to fluctuate in the short term.\n[Reminder]\nInvestors should be cautious of market fluctuations and control risks.",
-  "aiSummaryUpdated": 1774435451.942182
+  "aiSummaryCN": "【AI综合判断】\n比特币价格呈现震荡上升趋势。\n【三大驱动因素】\n1. 宏观经济复苏\n2. 机构投资增多\n3. 技术面支撑\n【未来展望】\n短期内价格可能继续上涨。\n【一句提醒】\n注意风险，保持仓位灵活性。",
+  "aiSummaryEN": "[Today's View]\nBitcoin price shows an upward trend.\n[Key Drivers]\n1. Economic recovery\n2. Increased institutional investment\n3. Technical support\n[Outlook]\nPrice may continue to rise in the short term.\n[Reminder]\nBe aware of risks and maintain position flexibility.",
+  "aiSummaryUpdated": 1774454808.80883
 }
