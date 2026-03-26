@@ -1,18 +1,18 @@
 {
-  "btcPrice": 71357.0,
-  "priceChange24h": 0.9,
-  "fomoIndex": 14,
-  "aiCommentCN": "行情静了，心不静。",
-  "aiCommentEN": "Market calm, hearts still racing.",
-  "lastUpdated": 1774481438.465317,
+  "btcPrice": 71256.0,
+  "priceChange24h": 0.77,
+  "fomoIndex": 10,
+  "aiCommentCN": "市场波动，心更波动。",
+  "aiCommentEN": "Market swings, heart swings more.",
+  "lastUpdated": 1774490391.715554,
   "forexRates": {
     "CNY": 6.8995,
     "EUR": 0.86266,
     "GBP": 0.7467
   },
-  "historyYesterday": 11,
-  "historyLastWeek": 26,
-  "historyLastMonth": 5,
+  "historyYesterday": 14,
+  "historyLastWeek": 23,
+  "historyLastMonth": 8,
   "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡上行趋势。\n【关键位置】\n支撑位：68,000 美元，阻力位：72,000 美元。\n【走势推演】\n如果突破阻力位，预计将挑战 75,000 美元关口。\n【一句提醒】\n注意风险，严格控制仓位。",
   "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is showing an upward momentum.\n[Key Drivers]\nSupport level: $68,000, Resistance level: $72,000.\n[Outlook]\nIf it breaks through the resistance, it is expected to challenge the $75,000 mark.\n[Reminder]\nBe cautious of risks and control positions strictly.",
   "aiSummaryUpdated": 1774477909.12618
