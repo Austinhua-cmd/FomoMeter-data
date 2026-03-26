@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71256.0,
-  "priceChange24h": 0.77,
+  "btcPrice": 70812.0,
+  "priceChange24h": 0.12,
   "fomoIndex": 10,
-  "aiCommentCN": "市场波动，心更波动。",
-  "aiCommentEN": "Market swings, heart swings more.",
-  "lastUpdated": 1774490391.715554,
+  "aiCommentCN": "行情在打瞌睡，心却跳得很快。",
+  "aiCommentEN": "Market is sleeping, but heart is racing.",
+  "lastUpdated": 1774499937.387583,
   "forexRates": {
     "CNY": 6.8995,
     "EUR": 0.86266,
@@ -13,7 +13,7 @@
   "historyYesterday": 14,
   "historyLastWeek": 23,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡上行趋势。\n【关键位置】\n支撑位：68,000 美元，阻力位：72,000 美元。\n【走势推演】\n如果突破阻力位，预计将挑战 75,000 美元关口。\n【一句提醒】\n注意风险，严格控制仓位。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is showing an upward momentum.\n[Key Drivers]\nSupport level: $68,000, Resistance level: $72,000.\n[Outlook]\nIf it breaks through the resistance, it is expected to challenge the $75,000 mark.\n[Reminder]\nBe cautious of risks and control positions strictly.",
-  "aiSummaryUpdated": 1774477909.12618
+  "aiSummaryCN": "【今日观点】\n比特币市场呈现出相对稳定的走势。\n【驱动因素】\n当前的美联储政策、ETF资金流入以及美股走势对比特币价格有着重要影响。\n【市场展望】\n未来24-72小时内，比特币价格可能会继续维持在当前水平，受多种因素影响。\n【一句提醒】\n投资者应密切关注市场动态，并做好风险管理。",
+  "aiSummaryEN": "[Today's View]\nThe Bitcoin market is showing a relatively stable trend.\n[Key Drivers]\nThe current Federal Reserve policy, ETF fund inflows, and the performance of the US stock market are having a significant impact on Bitcoin prices.\n[Outlook]\nOver the next 24-72 hours, the Bitcoin price may continue to maintain its current level, influenced by various factors.\n[Reminder]\nInvestors should closely monitor market dynamics and be prepared for risk management.",
+  "aiSummaryUpdated": 1774499938.273057
 }
