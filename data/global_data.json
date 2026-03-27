@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68988.0,
-  "priceChange24h": -3.17,
+  "btcPrice": 68559.0,
+  "priceChange24h": -3.2,
   "fomoIndex": 13,
-  "aiCommentCN": "市场最冷的时候，心其实最热.",
-  "aiCommentEN": "Market is calm, but hearts are racing.",
-  "lastUpdated": 1774576834.390359,
+  "aiCommentCN": "静等突破，心已起飞.",
+  "aiCommentEN": "Fear of missing out is real.",
+  "lastUpdated": 1774586636.905964,
   "forexRates": {
     "CNY": 6.9102,
     "EUR": 0.86663,
@@ -13,7 +13,7 @@
   "historyYesterday": 10,
   "historyLastWeek": 11,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【机构视角】\n比特币当前价格为68,892美元，机构投资者对其长期价值保持关注。\n【关键观察】\n机构投资者正在密切观察市场恐慌贪婪指数，当前指数为10，表明市场处于恐慌状态。\n比特币24小时涨跌为-3.0%，短期波动较大。\n【未来展望】\n从机构投资视角来看，比特币的长期趋势仍然看好，但短期内可能会继续波动。\n【一句提醒】\n投资比特币存在较高风险，机构投资者需谨慎评估市场风险和投资收益。",
-  "aiSummaryEN": "[Today's View]\nInstitutional investors are keeping a close eye on Bitcoin's long-term value, with its current price at $68,892.\n[Key Drivers]\nThe Fear and Greed Index, currently at 10, indicates a state of fear in the market, which institutions are watching closely.\nBitcoin's 24-hour change is -3.0%, showing significant short-term volatility.\n[Outlook]\nFrom an institutional perspective, Bitcoin's long-term trend remains positive, but short-term fluctuations are likely to continue.\n[Reminder]\nInvesting in Bitcoin carries high risks, and institutional investors must carefully assess market risks and potential returns.",
-  "aiSummaryUpdated": 1774563914.183043
+  "aiSummaryCN": "【机构视角】\n比特币当前价格为68,559美元，机构投资者正密切关注其走势。\n【关键观察】\n机构资金流入加密市场，BTC价格波动加剧；恐慌贪婪指数处于极度恐慌区间；机构投资者积极布局。\n【未来展望】\n机构视角下，未来一周内比特币价格可能会继续波动。\n【一句提醒】\n投资加密货币存在较高风险，机构投资者应谨慎决策。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $68,559, and institutional investors are closely watching its trend.\n[Key Drivers]\nInstitutional funds are flowing into the crypto market, causing increased price volatility; the Fear & Greed Index is in the extreme fear zone; institutional investors are actively positioning themselves.\n[Outlook]\nFrom an institutional perspective, Bitcoin's price may continue to fluctuate over the next week.\n[Reminder]\nInvesting in cryptocurrencies carries high risks, and institutional investors should make cautious decisions.",
+  "aiSummaryUpdated": 1774586637.976129
 }
