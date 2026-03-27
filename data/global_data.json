@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66019.0,
-  "priceChange24h": -4.16,
+  "btcPrice": 65902.0,
+  "priceChange24h": -4.14,
   "fomoIndex": 13,
-  "aiCommentCN": "跌的时候想抄底，抄完还是在底部.",
-  "aiCommentEN": "Market drops, and we rush to buy the dip.",
-  "lastUpdated": 1774648733.671278,
+  "aiCommentCN": "跌的时候想抄底，现在只想保命",
+  "aiCommentEN": "Market drops, survival mode activates",
+  "lastUpdated": 1774651167.223484,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
@@ -13,7 +13,7 @@
   "historyYesterday": 10,
   "historyLastWeek": 11,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势将呈现震荡整理。\n【关键位置】\n支撑位：62,000 美元，阻力位：68,000 美元\n【走势推演】\n如果跌破支撑位，可能会继续下跌；如果突破阻力位，可能会反弹。\n【一句提醒】\n注意风险，谨慎操作",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend will be consolidating.\n[Key Drivers]\nSupport level: $62,000, Resistance level: $68,000\n[Outlook]\nIf it breaks through the support level, it may continue to decline; if it breaks through the resistance level, it may rebound.\n[Reminder]\nBe aware of the risk and operate cautiously",
-  "aiSummaryUpdated": 1774627937.169924
+  "aiSummaryCN": "【多空格局】\n比特币市场多空博弈激烈。\n【多头理由】\n多头认为BTC价格将反弹。\n【空头理由】\n空头认为市场恐慌情绪蔓延。\n【市场展望】\n短期内价格可能继续波动。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market is experiencing intense bullish and bearish struggles.\n[Key Drivers]\nBullish investors believe BTC price will rebound.\n[Outlook]\nBearish investors think market panic is spreading.\n[Reminder]\nShort-term price may continue to fluctuate.",
+  "aiSummaryUpdated": 1774651167.88399
 }
