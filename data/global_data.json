@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66190.0,
-  "priceChange24h": -4.2,
+  "btcPrice": 65818.0,
+  "priceChange24h": -4.54,
   "fomoIndex": 13,
-  "aiCommentCN": "行情跌了，梦想没跌。",
-  "aiCommentEN": "Prices drop, dreams don't.",
-  "lastUpdated": 1774624468.428914,
+  "aiCommentCN": "跌的时候要抄底，现在底越来越低。",
+  "aiCommentEN": "Market drops, and so does my courage.",
+  "lastUpdated": 1774627936.327054,
   "forexRates": {
     "CNY": 6.9102,
     "EUR": 0.86663,
@@ -13,7 +13,7 @@
   "historyYesterday": 10,
   "historyLastWeek": 11,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【交易观点】\n比特币短期内可能会有技术性反弹。\n【关键位置】\n65,000 美元以下为关键支撑位。\n【短线策略】\n考虑在 65,000 美元附近做多，目标位 68,000 美元。\n【风险提醒】\n恐慌贪婪指数过低，市场可能会出现快速反弹，但风险依然较高，交易需谨慎。",
-  "aiSummaryEN": "[Today's View]\nBitcoin may have a technical rebound in the short term.\n[Key Drivers]\n$65,000 is the key support level.\n[Outlook]\nConsider buying at around $65,000, targeting $68,000.\n[Reminder]\nThe Fear & Greed Index is low, the market may rebound quickly, but the risk is still high, trade with caution.",
-  "aiSummaryUpdated": 1774608195.109965
+  "aiSummaryCN": "【技术观点】\n比特币短期走势将呈现震荡整理。\n【关键位置】\n支撑位：62,000 美元，阻力位：68,000 美元\n【走势推演】\n如果跌破支撑位，可能会继续下跌；如果突破阻力位，可能会反弹。\n【一句提醒】\n注意风险，谨慎操作",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend will be consolidating.\n[Key Drivers]\nSupport level: $62,000, Resistance level: $68,000\n[Outlook]\nIf it breaks through the support level, it may continue to decline; if it breaks through the resistance level, it may rebound.\n[Reminder]\nBe aware of the risk and operate cautiously",
+  "aiSummaryUpdated": 1774627937.169924
 }
