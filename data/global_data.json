@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67777.0,
-  "priceChange24h": -2.54,
+  "btcPrice": 66870.0,
+  "priceChange24h": -3.8,
   "fomoIndex": 13,
-  "aiCommentCN": "跌的时候怕抄底，稳的时候怕错过。",
-  "aiCommentEN": "Fear of buying low, fear of missing out high.",
-  "lastUpdated": 1774605088.16933,
+  "aiCommentCN": "大家都说不怕跌，但手一直在抖.",
+  "aiCommentEN": "Market drops, hearts shake.",
+  "lastUpdated": 1774608193.983681,
   "forexRates": {
     "CNY": 6.9102,
     "EUR": 0.86663,
@@ -13,7 +13,7 @@
   "historyYesterday": 10,
   "historyLastWeek": 11,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【机构视角】\n比特币当前价格为68,559美元，机构投资者正密切关注其走势。\n【关键观察】\n机构资金流入加密市场，BTC价格波动加剧；恐慌贪婪指数处于极度恐慌区间；机构投资者积极布局。\n【未来展望】\n机构视角下，未来一周内比特币价格可能会继续波动。\n【一句提醒】\n投资加密货币存在较高风险，机构投资者应谨慎决策。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $68,559, and institutional investors are closely watching its trend.\n[Key Drivers]\nInstitutional funds are flowing into the crypto market, causing increased price volatility; the Fear & Greed Index is in the extreme fear zone; institutional investors are actively positioning themselves.\n[Outlook]\nFrom an institutional perspective, Bitcoin's price may continue to fluctuate over the next week.\n[Reminder]\nInvesting in cryptocurrencies carries high risks, and institutional investors should make cautious decisions.",
-  "aiSummaryUpdated": 1774586637.976129
+  "aiSummaryCN": "【交易观点】\n比特币短期内可能会有技术性反弹。\n【关键位置】\n65,000 美元以下为关键支撑位。\n【短线策略】\n考虑在 65,000 美元附近做多，目标位 68,000 美元。\n【风险提醒】\n恐慌贪婪指数过低，市场可能会出现快速反弹，但风险依然较高，交易需谨慎。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may have a technical rebound in the short term.\n[Key Drivers]\n$65,000 is the key support level.\n[Outlook]\nConsider buying at around $65,000, targeting $68,000.\n[Reminder]\nThe Fear & Greed Index is low, the market may rebound quickly, but the risk is still high, trade with caution.",
+  "aiSummaryUpdated": 1774608195.109965
 }
