@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66107.0,
-  "priceChange24h": -4.23,
+  "btcPrice": 66019.0,
+  "priceChange24h": -4.16,
   "fomoIndex": 13,
-  "aiCommentCN": "跌的时候别慌，涨的时候别忘",
-  "aiCommentEN": "Calm in bear, wise in bull.",
-  "lastUpdated": 1774647003.759691,
+  "aiCommentCN": "跌的时候想抄底，抄完还是在底部.",
+  "aiCommentEN": "Market drops, and we rush to buy the dip.",
+  "lastUpdated": 1774648733.671278,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
