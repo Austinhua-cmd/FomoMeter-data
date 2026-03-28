@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66719.0,
-  "priceChange24h": 1.01,
+  "btcPrice": 66713.0,
+  "priceChange24h": 1.14,
   "fomoIndex": 12,
-  "aiCommentCN": "行情慢慢爬，心跳加速了",
-  "aiCommentEN": "Market crawls, heart beats faster",
-  "lastUpdated": 1774734779.082626,
+  "aiCommentCN": "市场缓步向前，心情却先冲线。",
+  "aiCommentEN": "Market moves slowly, emotions rush ahead.",
+  "lastUpdated": 1774736689.163277,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
@@ -13,7 +13,7 @@
   "historyYesterday": 13,
   "historyLastWeek": 12,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【资金观察】\n比特币市场资金流动显现积极信号。\n【资金动向】\n1. ETF资金持续净流入\n2. 稳定币发行量增加\n3. 巨鲸钱包活跃度增强\n【市场展望】\n短期内比特币价格可能继续上涨。\n【一句提醒】\n投资者应警惕可能的市场波动风险。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market shows positive capital flow signals.\n[Key Drivers]\n1. Continuous net inflow of ETF funds\n2. Increased issuance of stablecoins\n3. Enhanced activity of whale wallets\n[Outlook]\nBitcoin price may continue to rise in the short term.\n[Reminder]\nInvestors should be aware of potential market volatility risks.",
-  "aiSummaryUpdated": 1774715335.988349
+  "aiSummaryCN": "【机构视角】\n比特币市场仍然受到机构投资者的关注。\n【关键观察】\nBTC价格：66,713 美元，24h涨跌：+1.1%，恐慌贪婪指数：12，表明市场情绪偏谨慎。\n机构投资者继续观察市场走势，寻找投资机会。\n【未来展望】\n机构视角下，市场可能会继续震荡，寻找支撑点。\n【一句提醒】\n投资比特币市场需谨慎，风险自担。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market remains under the radar of institutional investors.\n[Key Drivers]\nBTC price: $66,713, 24h change: +1.1%, Fear and Greed Index: 12, indicating a cautious market sentiment.\nInstitutional investors continue to monitor market trends, looking for investment opportunities.\n[Outlook]\nFrom an institutional perspective, the market may continue to fluctuate, seeking support levels.\n[Reminder]\nInvesting in the bitcoin market requires caution, with risks borne by the investor.",
+  "aiSummaryUpdated": 1774736690.172527
 }
