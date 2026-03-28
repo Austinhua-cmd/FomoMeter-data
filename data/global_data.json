@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66124.0,
-  "priceChange24h": -4.03,
+  "btcPrice": 66091.0,
+  "priceChange24h": -3.42,
   "fomoIndex": 12,
-  "aiCommentCN": "市场在沉默中酝酿风暴，散户在刷屏中练习禅定。",
-  "aiCommentEN": "The market brews storms in silence, while retail investors practice zen by refreshing screens.",
-  "lastUpdated": 1774662708.172812,
+  "aiCommentCN": "跌的时候想抄底，抄完继续跌，真实写照",
+  "aiCommentEN": "Prices drop, we want to buy, but it keeps dropping",
+  "lastUpdated": 1774671450.321271,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
@@ -13,7 +13,7 @@
   "historyYesterday": 13,
   "historyLastWeek": 12,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【多空格局】\n比特币市场多空博弈激烈。\n【多头理由】\n多头认为BTC价格将反弹。\n【空头理由】\n空头认为市场恐慌情绪蔓延。\n【市场展望】\n短期内价格可能继续波动。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market is experiencing intense bullish and bearish struggles.\n[Key Drivers]\nBullish investors believe BTC price will rebound.\n[Outlook]\nBearish investors think market panic is spreading.\n[Reminder]\nShort-term price may continue to fluctuate.",
-  "aiSummaryUpdated": 1774651167.88399
+  "aiSummaryCN": "【今日观点】\n当前比特币市场情绪较为谨慎，投资者观望态度明显。\n【驱动因素】\n美联储政策、ETF资金流动、美元指数走势对市场影响较大。\n【市场展望】\n未来24-72小时内，比特币价格可能继续震荡，寻找支撑位。\n【一句提醒】\n投资者需密切关注市场信号，谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is cautious, with investors taking a wait-and-see attitude.\n[Key Drivers]\nThe Federal Reserve's policy, ETF fund flows, and the US dollar index trend have a significant impact on the market.\n[Outlook]\nIn the next 24-72 hours, the bitcoin price may continue to fluctuate, looking for support.\n[Reminder]\nInvestors need to closely monitor market signals and operate with caution.",
+  "aiSummaryUpdated": 1774671451.132567
 }
