@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66631.0,
-  "priceChange24h": 0.54,
+  "btcPrice": 66432.0,
+  "priceChange24h": 0.45,
   "fomoIndex": 9,
-  "aiCommentCN": "行情慢，心跳快，静待爆发。",
-  "aiCommentEN": "Market slow, heart beats fast, waiting for boom.",
-  "lastUpdated": 1774776781.373735,
+  "aiCommentCN": "大家都说稳如老狗，但心跳像野兔。",
+  "aiCommentEN": "Everyone claims to be calm, but hearts are racing.",
+  "lastUpdated": 1774780129.230882,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 10,
   "historyLastMonth": 13,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段是牛市初期。\n【当前阶段】\n当前阶段特征是价格波动加剧，投资者情绪波动较大，市场热度逐渐升温。市场主导力量是价值投资者和短线交易者。\n【未来可能走势】\n周期视角下的展望是价格将继续上涨，但波动率会增加，可能会出现回调。\n【一句提醒】\n风险或操作提醒是要控制好仓位，及时止盈止损。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in the early stages of a bull market.\n[Key Drivers]\nKey characteristics of the current stage are increased price volatility, large fluctuations in investor sentiment, and rising market heat. The dominant forces in the market are value investors and short-term traders.\n[Outlook]\nFrom a cyclical perspective, the outlook is that prices will continue to rise, but volatility will increase, and there may be a callback.\n[Reminder]\nA reminder is to control positions and take profits and stop losses in a timely manner.",
-  "aiSummaryUpdated": 1774760309.518251
+  "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡调整。\n【关键位置】\n当前支撑位：64,000 美元，阻力位：68,000 美元。\n【走势推演】\n预计短期内会继续围绕支撑位和阻力位波动。\n【一句提醒】\n注意恐慌贪婪指数较低，投资者需谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is adjusting with fluctuations.\n[Key Drivers]\nCurrent support level: $64,000, resistance level: $68,000.\n[Outlook]\nIt is expected to continue fluctuating around the support and resistance levels in the short term.\n[Reminder]\nNote that the Fear and Greed Index is relatively low, investors should be cautious.",
+  "aiSummaryUpdated": 1774780129.935867
 }
