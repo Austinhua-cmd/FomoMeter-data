@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66400.0,
-  "priceChange24h": -0.81,
+  "btcPrice": 66561.0,
+  "priceChange24h": -0.61,
   "fomoIndex": 9,
-  "aiCommentCN": "价格没动，心跳一直快。",
-  "aiCommentEN": "Market calm, but heart racing.",
-  "lastUpdated": 1774799673.365573,
+  "aiCommentCN": "跌的时候怕没钱，涨的时候怕没机会",
+  "aiCommentEN": "Fear of missing out on rises, fear of missing funds on falls",
+  "lastUpdated": 1774801849.539024,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 10,
   "historyLastMonth": 13,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡调整。\n【关键位置】\n当前支撑位：64,000 美元，阻力位：68,000 美元。\n【走势推演】\n预计短期内会继续围绕支撑位和阻力位波动。\n【一句提醒】\n注意恐慌贪婪指数较低，投资者需谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is adjusting with fluctuations.\n[Key Drivers]\nCurrent support level: $64,000, resistance level: $68,000.\n[Outlook]\nIt is expected to continue fluctuating around the support and resistance levels in the short term.\n[Reminder]\nNote that the Fear and Greed Index is relatively low, investors should be cautious.",
-  "aiSummaryUpdated": 1774780129.935867
+  "aiSummaryCN": "【多空格局】\n当前比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为，BTC价格低于70,000美元，且恐慌贪婪指数处于恐慌区间，表明市场底部已现。\n【空头理由】\n空头认为，全球经济不确定性加剧，投资者风险偏好降低，导致比特币价格承压。\n【市场展望】\n短期内，比特币价格可能继续震荡走低。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market is in a fierce tug-of-war between bulls and bears.\n[Key Drivers]\nBulls believe that the BTC price is below $70,000 and the fear and greed index is in the fear zone, indicating that the market bottom has appeared.\n[Outlook]\nBears believe that the global economic uncertainty has increased, and investors' risk preference has decreased, causing the bitcoin price to be under pressure.\n[Reminder]\nIn the short term, the bitcoin price may continue to fluctuate downward.",
+  "aiSummaryUpdated": 1774801850.510158
 }
