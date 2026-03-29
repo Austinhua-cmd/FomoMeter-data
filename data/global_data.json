@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66618.0,
-  "priceChange24h": -0.04,
+  "btcPrice": 66331.0,
+  "priceChange24h": -0.56,
   "fomoIndex": 9,
-  "aiCommentCN": "行情没动，散户的心跳动得很.",
-  "aiCommentEN": "Market stays calm, but hearts are racing.",
-  "lastUpdated": 1774821338.042095,
+  "aiCommentCN": "市场不稳，散户最累。",
+  "aiCommentEN": "Volatility is a trader's headache.",
+  "lastUpdated": 1774823268.412025,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 10,
   "historyLastMonth": 13,
-  "aiSummaryCN": "【多空格局】\n当前比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为，BTC价格低于70,000美元，且恐慌贪婪指数处于恐慌区间，表明市场底部已现。\n【空头理由】\n空头认为，全球经济不确定性加剧，投资者风险偏好降低，导致比特币价格承压。\n【市场展望】\n短期内，比特币价格可能继续震荡走低。",
-  "aiSummaryEN": "[Today's View]\nThe current bitcoin market is in a fierce tug-of-war between bulls and bears.\n[Key Drivers]\nBulls believe that the BTC price is below $70,000 and the fear and greed index is in the fear zone, indicating that the market bottom has appeared.\n[Outlook]\nBears believe that the global economic uncertainty has increased, and investors' risk preference has decreased, causing the bitcoin price to be under pressure.\n[Reminder]\nIn the short term, the bitcoin price may continue to fluctuate downward.",
-  "aiSummaryUpdated": 1774801850.510158
+  "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡整理。\n【关键位置】\n支撑位：64,000 美元，阻力位：68,000 美元。\n【走势推演】\n预计短期内将围绕 65,000 美元震荡。\n【一句提醒】\n注意风险，谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is consolidating.\n[Key Drivers]\nSupport level: $64,000, Resistance level: $68,000.\n[Outlook]\nIt is expected to fluctuate around $65,000 in the short term.\n[Reminder]\nBe aware of the risks and operate with caution.",
+  "aiSummaryUpdated": 1774823269.041012
 }
