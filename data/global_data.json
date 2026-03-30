@@ -1,19 +1,19 @@
 {
-  "btcPrice": 67139.0,
-  "priceChange24h": 0.99,
+  "btcPrice": 67518.0,
+  "priceChange24h": 1.59,
   "fomoIndex": 8,
-  "aiCommentCN": "市场轻微颤抖，人心就狂跳。",
-  "aiCommentEN": "Market trembles, hearts race faster.",
-  "lastUpdated": 1774882103.376934,
+  "aiCommentCN": "价格微涨，散户心安。",
+  "aiCommentEN": "Small gains, big relief for investors.",
+  "lastUpdated": 1774886595.896972,
   "forexRates": {
-    "CNY": 6.9138,
-    "EUR": 0.86828,
-    "GBP": 0.75297
+    "CNY": 6.9114,
+    "EUR": 0.87078,
+    "GBP": 0.75586
   },
   "historyYesterday": 9,
   "historyLastWeek": 8,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【AI综合判断】\n比特币价格小幅上涨，短期趋势不确定。\n【三大驱动因素】\n1. 宏观经济数据影响\n2. 资金流入加密市场\n3. 市场情绪波动\n【未来展望】\n短期内价格可能继续波动。\n【一句提醒】\n投资者需谨慎，风险自担。",
-  "aiSummaryEN": "[Today's View]\nBitcoin price rises slightly, short-term trend uncertain.\n[Key Drivers]\n1. Macro economic data influence\n2. Capital inflow into crypto market\n3. Market sentiment fluctuation\n[Outlook]\nPrice may continue to fluctuate in the short term.\n[Reminder]\nInvestors should be cautious and bear their own risks.",
-  "aiSummaryUpdated": 1774865629.537103
+  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪呈现出谨慎乐观态度。\n【情绪信号】\n社交媒体讨论热度增加、散户活跃度提升、衍生品多空比偏多头。\n【短期展望】\n未来几天可能维持震荡上行走势。\n【一句提醒】\n投资者需保持谨慎，关注市场信号，适时调整策略。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is cautiously optimistic.\n[Key Drivers]\nIncreased social media discussion, enhanced retail activity, and a bullish derivatives ratio.\n[Outlook]\nIt may maintain an oscillating upward trend in the next few days.\n[Reminder]\nInvestors should remain cautious, monitor market signals, and adjust their strategies accordingly.",
+  "aiSummaryUpdated": 1774886596.731312
 }
