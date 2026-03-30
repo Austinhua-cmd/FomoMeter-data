@@ -1,18 +1,18 @@
 {
-  "btcPrice": 65884.0,
-  "priceChange24h": -0.79,
-  "fomoIndex": 9,
-  "aiCommentCN": "行情没动，心跳挺快，散户心灵鸡汤.",
-  "aiCommentEN": "Market stays calm, hearts beat fast, retail therapy.",
-  "lastUpdated": 1774827676.71554,
+  "btcPrice": 66658.0,
+  "priceChange24h": 0.19,
+  "fomoIndex": 8,
+  "aiCommentCN": "行情小涨，希望大涨",
+  "aiCommentEN": "Market rises, hopes soar higher",
+  "lastUpdated": 1774836320.992053,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
     "GBP": 0.75297
   },
-  "historyYesterday": 12,
-  "historyLastWeek": 10,
-  "historyLastMonth": 13,
+  "historyYesterday": 9,
+  "historyLastWeek": 8,
+  "historyLastMonth": 11,
   "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡整理。\n【关键位置】\n支撑位：64,000 美元，阻力位：68,000 美元。\n【走势推演】\n预计短期内将围绕 65,000 美元震荡。\n【一句提醒】\n注意风险，谨慎操作。",
   "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is consolidating.\n[Key Drivers]\nSupport level: $64,000, Resistance level: $68,000.\n[Outlook]\nIt is expected to fluctuate around $65,000 in the short term.\n[Reminder]\nBe aware of the risks and operate with caution.",
   "aiSummaryUpdated": 1774823269.041012
