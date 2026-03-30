@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66822.0,
-  "priceChange24h": 0.33,
+  "btcPrice": 66778.0,
+  "priceChange24h": 0.66,
   "fomoIndex": 8,
-  "aiCommentCN": "行情睡着了，心还醒着",
-  "aiCommentEN": "Market is calm, heart is racing",
-  "lastUpdated": 1774906689.748606,
+  "aiCommentCN": "行情缓慢，心跳快速。",
+  "aiCommentEN": "Market slows, heart beats fast.",
+  "lastUpdated": 1774909880.734133,
   "forexRates": {
     "CNY": 6.9114,
     "EUR": 0.87078,
@@ -13,7 +13,7 @@
   "historyYesterday": 9,
   "historyLastWeek": 8,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪呈现出谨慎乐观态度。\n【情绪信号】\n社交媒体讨论热度增加、散户活跃度提升、衍生品多空比偏多头。\n【短期展望】\n未来几天可能维持震荡上行走势。\n【一句提醒】\n投资者需保持谨慎，关注市场信号，适时调整策略。",
-  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is cautiously optimistic.\n[Key Drivers]\nIncreased social media discussion, enhanced retail activity, and a bullish derivatives ratio.\n[Outlook]\nIt may maintain an oscillating upward trend in the next few days.\n[Reminder]\nInvestors should remain cautious, monitor market signals, and adjust their strategies accordingly.",
-  "aiSummaryUpdated": 1774886596.731312
+  "aiSummaryCN": "【技术观点】\n短期内比特币价格可能会继续震荡。\n【关键位置】\n当前支撑位为65,000美元，阻力位为68,000美元。\n【走势推演】\n如果价格突破68,000美元，可能会继续上涨。\n【一句提醒】\n注意风险，做好仓位管理。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's price may continue to fluctuate in the short term.\n[Key Drivers]\nCurrent support is at $65,000 and resistance is at $68,000.\n[Outlook]\nIf the price breaks through $68,000, it may continue to rise.\n[Reminder]\nBe aware of the risks and manage your positions carefully.",
+  "aiSummaryUpdated": 1774909881.621956
 }
