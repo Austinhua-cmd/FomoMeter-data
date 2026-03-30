@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67209.0,
-  "priceChange24h": 1.04,
+  "btcPrice": 67749.0,
+  "priceChange24h": 1.64,
   "fomoIndex": 8,
-  "aiCommentCN": "价格静悄悄，心跳声很大。",
-  "aiCommentEN": "Market stays calm, but hearts are racing.",
-  "lastUpdated": 1774854344.051779,
+  "aiCommentCN": "散户的心跳，比行情走得快",
+  "aiCommentEN": "Market moves slow, hearts move fast",
+  "lastUpdated": 1774860844.590841,
   "forexRates": {
     "CNY": 6.9138,
     "EUR": 0.86828,
