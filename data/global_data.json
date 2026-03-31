@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66814.0,
-  "priceChange24h": -1.37,
+  "btcPrice": 66071.0,
+  "priceChange24h": -1.98,
   "fomoIndex": 11,
-  "aiCommentCN": "价格不动，心跳加速了。",
-  "aiCommentEN": "Market calm, hearts still racing.",
-  "lastUpdated": 1774947227.466153,
+  "aiCommentCN": "价格跌了，希望没跌，才是真的慌",
+  "aiCommentEN": "Market drops, hopes rise, that's real panic",
+  "lastUpdated": 1774951351.553352,
   "forexRates": {
     "CNY": 6.9114,
     "EUR": 0.87078,
@@ -13,7 +13,7 @@
   "historyYesterday": 8,
   "historyLastWeek": 11,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【市场解读】\n比特币价格近期趋于稳定。\n【关键事件】\n近期关键事件包括全球经济政策调整、加密货币监管变化和市场情绪波动。\n【市场影响】\n这些事件对市场产生了稳定影响。\n【一句提醒】\n投资者应谨慎分析市场风险和趋势。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's price has been stable recently.\n[Key Drivers]\nRecent key events include global economic policy adjustments, cryptocurrency regulatory changes, and market sentiment fluctuations.\n[Outlook]\nThese events have had a stabilizing effect on the market.\n[Reminder]\nInvestors should carefully analyze market risks and trends.",
-  "aiSummaryUpdated": 1774933069.860317
+  "aiSummaryCN": "【市场解读】\n比特币价格近期呈现下跌趋势，主要受多种因素影响。\n【关键事件】\n1. 全球经济形势不稳定\n2. 监管政策趋严\n3. 市场情绪波动\n【市场影响】\n这些事件导致投资者信心下降，进而影响比特币价格。\n【一句提醒】\n投资者应谨慎分析市场走势，做好风险管理。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's price has been declining recently, influenced by multiple factors.\n[Key Drivers]\n1. Global economic instability\n2. Stricter regulatory policies\n3. Market sentiment fluctuations\n[Outlook]\nThese events have led to decreased investor confidence, affecting Bitcoin's price.\n[Reminder]\nInvestors should carefully analyze market trends and manage risks.",
+  "aiSummaryUpdated": 1774951352.558522
 }
