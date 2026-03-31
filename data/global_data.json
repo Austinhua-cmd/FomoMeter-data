@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67909.0,
-  "priceChange24h": 1.91,
+  "btcPrice": 67519.0,
+  "priceChange24h": -0.04,
   "fomoIndex": 11,
-  "aiCommentCN": "行情慢，心跳快，散户命苦}",
-  "aiCommentEN": "Market slow, heart racing, investors suffer",
-  "lastUpdated": 1774922485.037323,
+  "aiCommentCN": "市场静默时，心跳最快。",
+  "aiCommentEN": "Market silence is a heart rate accelerator.",
+  "lastUpdated": 1774933069.190971,
   "forexRates": {
     "CNY": 6.9114,
     "EUR": 0.87078,
@@ -13,7 +13,7 @@
   "historyYesterday": 8,
   "historyLastWeek": 11,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【技术观点】\n短期内比特币价格可能会继续震荡。\n【关键位置】\n当前支撑位为65,000美元，阻力位为68,000美元。\n【走势推演】\n如果价格突破68,000美元，可能会继续上涨。\n【一句提醒】\n注意风险，做好仓位管理。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's price may continue to fluctuate in the short term.\n[Key Drivers]\nCurrent support is at $65,000 and resistance is at $68,000.\n[Outlook]\nIf the price breaks through $68,000, it may continue to rise.\n[Reminder]\nBe aware of the risks and manage your positions carefully.",
-  "aiSummaryUpdated": 1774909881.621956
+  "aiSummaryCN": "【市场解读】\n比特币价格近期趋于稳定。\n【关键事件】\n近期关键事件包括全球经济政策调整、加密货币监管变化和市场情绪波动。\n【市场影响】\n这些事件对市场产生了稳定影响。\n【一句提醒】\n投资者应谨慎分析市场风险和趋势。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's price has been stable recently.\n[Key Drivers]\nRecent key events include global economic policy adjustments, cryptocurrency regulatory changes, and market sentiment fluctuations.\n[Outlook]\nThese events have had a stabilizing effect on the market.\n[Reminder]\nInvestors should carefully analyze market risks and trends.",
+  "aiSummaryUpdated": 1774933069.860317
 }
