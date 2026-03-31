@@ -1,14 +1,14 @@
 {
-  "btcPrice": 67296.0,
-  "priceChange24h": -0.32,
+  "btcPrice": 66940.0,
+  "priceChange24h": -1.13,
   "fomoIndex": 11,
-  "aiCommentCN": "最痛苦的不是跌，而是犹豫。",
-  "aiCommentEN": "The biggest pain isn't falling, it's hesitation.",
-  "lastUpdated": 1774966018.37554,
+  "aiCommentCN": "行情跌了，心里更跌。",
+  "aiCommentEN": "Market drops, so does my mood.",
+  "lastUpdated": 1774971863.463926,
   "forexRates": {
-    "CNY": 6.9114,
-    "EUR": 0.87078,
-    "GBP": 0.75586
+    "CNY": 6.9004,
+    "EUR": 0.86972,
+    "GBP": 0.7552
   },
   "historyYesterday": 8,
   "historyLastWeek": 11,
