@@ -1,19 +1,19 @@
 {
-  "btcPrice": 68400.0,
-  "priceChange24h": 2.16,
+  "btcPrice": 68768.0,
+  "priceChange24h": 2.78,
   "fomoIndex": 8,
-  "aiCommentCN": "市场如人生，跌宕起伏，波折常在。",
-  "aiCommentEN": "Market volatility is life's unpredictability.",
-  "lastUpdated": 1775054890.824577,
+  "aiCommentCN": "行情起舞，心情跟随。",
+  "aiCommentEN": "Market dances, emotions follow.",
+  "lastUpdated": 1775059664.123861,
   "forexRates": {
-    "CNY": 6.9004,
-    "EUR": 0.86972,
-    "GBP": 0.7552
+    "CNY": 6.8738,
+    "EUR": 0.8617,
+    "GBP": 0.75065
   },
   "historyYesterday": 11,
   "historyLastWeek": 14,
   "historyLastMonth": 10,
-  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪呈现谨慎乐观状态。\n【情绪信号】\n社交媒体讨论热度增加、散户活跃度提升、衍生品多空比偏多头。\n【短期展望】\n未来几天可能继续走高，但需注意可能出现的回调。\n【一句提醒】\n投资者应保持谨慎，适时调整仓位。",
-  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market sentiment is cautiously optimistic.\n[Key Drivers]\nIncreased social media discussion, rising retail activity, and a slightly bullish derivatives ratio.\n[Outlook]\nIt may continue to rise in the next few days, but be aware of potential pullbacks.\n[Reminder]\nInvestors should remain cautious and adjust their positions as needed.",
-  "aiSummaryUpdated": 1775040678.86194
+  "aiSummaryCN": "【机构视角】\n从机构投资角度来看，当前比特币市场呈现出较强的韧性。\n【关键观察】\n机构投资者对比特币的兴趣持续增长，BTC价格达到68,768美元，24h涨跌+2.8%；恐慌贪婪指数为8，表明市场仍然谨慎。\n【未来展望】\n机构投资者可能继续看好比特币的长期前景，推动其价格上涨。\n【一句提醒】\n投资加密货币存在较高风险，投资者需谨慎决策。",
+  "aiSummaryEN": "[Today's View]\nFrom an institutional investment perspective, the current bitcoin market shows strong resilience.\n[Key Drivers]\nInstitutional investors' interest in bitcoin continues to grow, with BTC price at $68,768, 24h change +2.8%; the fear and greed index is 8, indicating a still cautious market.\n[Outlook]\nInstitutional investors may continue to be optimistic about bitcoin's long-term prospects, driving up its price.\n[Reminder]\nInvesting in cryptocurrencies carries high risks, and investors should make cautious decisions.",
+  "aiSummaryUpdated": 1775059666.54078
 }
