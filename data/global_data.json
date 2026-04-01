@@ -1,18 +1,18 @@
 {
-  "btcPrice": 68194.0,
-  "priceChange24h": 2.27,
-  "fomoIndex": 11,
-  "aiCommentCN": "静静等待的力量，大于急急忙忙的价格。",
-  "aiCommentEN": "Patience is a position, not a price.",
-  "lastUpdated": 1774999853.991855,
+  "btcPrice": 67819.0,
+  "priceChange24h": -0.05,
+  "fomoIndex": 8,
+  "aiCommentCN": "静等趋势，心跳如鼓。",
+  "aiCommentEN": "Waiting for trend, heartbeat racing.",
+  "lastUpdated": 1775009395.144681,
   "forexRates": {
     "CNY": 6.9004,
     "EUR": 0.86972,
     "GBP": 0.7552
   },
-  "historyYesterday": 8,
-  "historyLastWeek": 11,
-  "historyLastMonth": 14,
+  "historyYesterday": 11,
+  "historyLastWeek": 14,
+  "historyLastMonth": 10,
   "aiSummaryCN": "【机构视角】\n机构投资者认为比特币当前价格仍具备上涨潜力。\n【关键观察】\nBTC价格：68,079美元，24h涨跌：+2.0%，恐慌贪婪指数：11，表明市场仍处于恐慌状态。\n机构投资者增持比特币的意愿较强，市场预期向好。\n【未来展望】\n比特币市场有望继续上涨，机构投资者将成为市场的重要推动力。\n【一句提醒】\n投资比特币存在风险，投资者应谨慎对待。",
   "aiSummaryEN": "[Today's View]\nInstitutional investors believe Bitcoin's current price still has upside potential.\n[Key Drivers]\nBTC price: $68,079, 24h change: +2.0%, Fear and Greed Index: 11, indicating the market is still in a state of fear.\nInstitutional investors have a strong willingness to increase their holdings of Bitcoin, and market expectations are optimistic.\n[Outlook]\nThe Bitcoin market is expected to continue rising, with institutional investors becoming a key driving force.\n[Reminder]\nInvesting in Bitcoin carries risks, and investors should be cautious.",
   "aiSummaryUpdated": 1774996245.554174
