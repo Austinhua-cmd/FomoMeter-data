@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68596.0,
-  "priceChange24h": 3.09,
+  "btcPrice": 68328.0,
+  "priceChange24h": 2.35,
   "fomoIndex": 8,
-  "aiCommentCN": "静静等待趋势，忽然发现自己已被甩开",
-  "aiCommentEN": "Wait for trend, then realize you're left behind",
-  "lastUpdated": 1775044213.575322,
+  "aiCommentCN": "大家都说稳住，价格却不听话。",
+  "aiCommentEN": "Price doesn't care about your patience.",
+  "lastUpdated": 1775049170.005857,
   "forexRates": {
     "CNY": 6.9004,
     "EUR": 0.86972,
