@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68414.0,
-  "priceChange24h": 0.55,
+  "btcPrice": 68162.0,
+  "priceChange24h": 0.29,
   "fomoIndex": 8,
-  "aiCommentCN": "行情慢如蜗牛，心情快如兔子",
-  "aiCommentEN": "Market moves slow, emotions run fast",
-  "lastUpdated": 1775079493.220455,
+  "aiCommentCN": "行情没动，散户脑子动得快",
+  "aiCommentEN": "Market stays calm, but minds are racing",
+  "lastUpdated": 1775082801.405213,
   "forexRates": {
     "CNY": 6.8738,
     "EUR": 0.8617,
@@ -13,7 +13,7 @@
   "historyYesterday": 11,
   "historyLastWeek": 14,
   "historyLastMonth": 10,
-  "aiSummaryCN": "【机构视角】\n从机构投资角度来看，当前比特币市场呈现出较强的韧性。\n【关键观察】\n机构投资者对比特币的兴趣持续增长，BTC价格达到68,768美元，24h涨跌+2.8%；恐慌贪婪指数为8，表明市场仍然谨慎。\n【未来展望】\n机构投资者可能继续看好比特币的长期前景，推动其价格上涨。\n【一句提醒】\n投资加密货币存在较高风险，投资者需谨慎决策。",
-  "aiSummaryEN": "[Today's View]\nFrom an institutional investment perspective, the current bitcoin market shows strong resilience.\n[Key Drivers]\nInstitutional investors' interest in bitcoin continues to grow, with BTC price at $68,768, 24h change +2.8%; the fear and greed index is 8, indicating a still cautious market.\n[Outlook]\nInstitutional investors may continue to be optimistic about bitcoin's long-term prospects, driving up its price.\n[Reminder]\nInvesting in cryptocurrencies carries high risks, and investors should make cautious decisions.",
-  "aiSummaryUpdated": 1775059666.54078
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：比特币可能处于上涨周期的中期阶段。\n【当前阶段】\n当前阶段特征：价格波动增加，投资者情绪波动加剧，市场开始呈现出更强的趋势性。\n【未来可能走势】\n周期视角下的展望：如果当前趋势持续，未来几个月内比特币可能继续上涨，但也存在较大波动风险。\n【一句提醒】\n风险或操作提醒：投资者应谨慎对待价格波动，合理设定止盈和止损位。",
+  "aiSummaryEN": "[Today's View]\nCurrent market stage: Bitcoin may be in the middle stage of an uptrend cycle.\n[Key Drivers]\nCharacteristics of the current stage: Increased price volatility, intensified investor sentiment fluctuations, and a stronger trend in the market.\n[Outlook]\nOutlook from a cyclical perspective: If the current trend continues, Bitcoin may continue to rise in the next few months, but there is also a significant risk of volatility.\n[Reminder]\nRisk or operational reminder: Investors should be cautious of price fluctuations and set reasonable stop-loss and take-profit positions.",
+  "aiSummaryUpdated": 1775082802.709784
 }
