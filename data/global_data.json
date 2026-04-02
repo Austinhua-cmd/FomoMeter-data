@@ -1,18 +1,18 @@
 {
-  "btcPrice": 68068.0,
-  "priceChange24h": -0.19,
-  "fomoIndex": 8,
-  "aiCommentCN": "行情如人生，低谷是转折点。",
-  "aiCommentEN": "Market trends are like life, lows can be turning points.",
-  "lastUpdated": 1775086366.302698,
+  "btcPrice": 67288.0,
+  "priceChange24h": -0.67,
+  "fomoIndex": 12,
+  "aiCommentCN": "行情没动，散户的心却跳得很快。",
+  "aiCommentEN": "Market stays calm, but hearts are racing.",
+  "lastUpdated": 1775095062.489859,
   "forexRates": {
     "CNY": 6.8738,
     "EUR": 0.8617,
     "GBP": 0.75065
   },
-  "historyYesterday": 11,
-  "historyLastWeek": 14,
-  "historyLastMonth": 10,
+  "historyYesterday": 8,
+  "historyLastWeek": 10,
+  "historyLastMonth": 14,
   "aiSummaryCN": "【周期判断】\n当前所处周期阶段：比特币可能处于上涨周期的中期阶段。\n【当前阶段】\n当前阶段特征：价格波动增加，投资者情绪波动加剧，市场开始呈现出更强的趋势性。\n【未来可能走势】\n周期视角下的展望：如果当前趋势持续，未来几个月内比特币可能继续上涨，但也存在较大波动风险。\n【一句提醒】\n风险或操作提醒：投资者应谨慎对待价格波动，合理设定止盈和止损位。",
   "aiSummaryEN": "[Today's View]\nCurrent market stage: Bitcoin may be in the middle stage of an uptrend cycle.\n[Key Drivers]\nCharacteristics of the current stage: Increased price volatility, intensified investor sentiment fluctuations, and a stronger trend in the market.\n[Outlook]\nOutlook from a cyclical perspective: If the current trend continues, Bitcoin may continue to rise in the next few months, but there is also a significant risk of volatility.\n[Reminder]\nRisk or operational reminder: Investors should be cautious of price fluctuations and set reasonable stop-loss and take-profit positions.",
   "aiSummaryUpdated": 1775082802.709784
