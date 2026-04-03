@@ -1,18 +1,18 @@
 {
-  "btcPrice": 66894.0,
-  "priceChange24h": -1.8,
-  "fomoIndex": 12,
-  "aiCommentCN": "行情慢，心跳快，总在等待机会。",
-  "aiCommentEN": "Market slows, heart beats fast, waiting for the chance.",
-  "lastUpdated": 1775173376.899303,
+  "btcPrice": 66595.0,
+  "priceChange24h": -1.11,
+  "fomoIndex": 9,
+  "aiCommentCN": "行情如初恋，期待又失望。",
+  "aiCommentEN": "Market is like a first love, full of disappointment.",
+  "lastUpdated": 1775181545.807192,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
     "GBP": 0.75708
   },
-  "historyYesterday": 8,
-  "historyLastWeek": 10,
-  "historyLastMonth": 14,
+  "historyYesterday": 12,
+  "historyLastWeek": 13,
+  "historyLastMonth": 10,
   "aiSummaryCN": "【交易观点】\n比特币短期内可能继续下跌。\n【关键位置】\n当前价位66,906美元，是短期内的关键支撑位。\n【短线策略】\n考虑在66,500美元以下做多。\n【风险提醒】\n恐慌贪婪指数较低，市场波动性较大，交易需谨慎。",
   "aiSummaryEN": "[Today's View]\nBitcoin may continue to decline in the short term.\n[Key Drivers]\nThe current price of $66,906 is a key support level.\n[Outlook]\nConsider buying when the price falls below $66,500.\n[Reminder]\nThe fear and greed index is low, and market volatility is high, so trade with caution.",
   "aiSummaryUpdated": 1775168865.909934
