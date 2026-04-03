@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66870.0,
-  "priceChange24h": -0.16,
+  "btcPrice": 66891.0,
+  "priceChange24h": 0.08,
   "fomoIndex": 9,
-  "aiCommentCN": "价格不动，心跳加速，谁还没个小目标。",
-  "aiCommentEN": "Prices steady, hearts racing, who's next to jump.",
-  "lastUpdated": 1775248292.431585,
+  "aiCommentCN": "趋势没来，先练忍耐力.",
+  "aiCommentEN": "Patience is key when trends are slow.",
+  "lastUpdated": 1775251773.232333,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
