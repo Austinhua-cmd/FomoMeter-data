@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66823.0,
-  "priceChange24h": 0.67,
+  "btcPrice": 66744.0,
+  "priceChange24h": 0.47,
   "fomoIndex": 9,
-  "aiCommentCN": "价格跳跃，心跳加速",
-  "aiCommentEN": "Market swings, so does my heart",
-  "lastUpdated": 1775209793.876714,
+  "aiCommentCN": "价格静悄悄，心跳得挺快",
+  "aiCommentEN": "Market is calm, hearts are racing",
+  "lastUpdated": 1775212753.411701,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 13,
   "historyLastMonth": 10,
-  "aiSummaryCN": "【AI综合判断】\n比特币价格呈现震荡趋势，短期难有大幅波动。\n【三大驱动因素】\n1. 宏观经济政策\n2. 资金流入加密市场\n3. 市场情绪波动\n【未来展望】\n短期内，BTC价格可能保持在65,000美元至70,000美元之间。\n【一句提醒】\n投资者需注意市场风险，保持谨慎",
-  "aiSummaryEN": "[Today's View]\nBitcoin price is fluctuating, with little chance of large swings in the short term.\n[Key Drivers]\n1. Macroeconomic policies\n2. Capital inflows into the crypto market\n3. Market sentiment fluctuations\n[Outlook]\nIn the short term, the BTC price may remain between $65,000 and $70,000.\n[Reminder]\nInvestors should be aware of market risks and remain cautious",
-  "aiSummaryUpdated": 1775190873.619116
+  "aiSummaryCN": "【AI综合判断】\n比特币当前价格66,744美元，短期内将继续震荡。\n【三大驱动因素】\n1. 宏观经济数据的发布\n2. 资金流入加密市场\n3. 市场情绪的波动\n【未来展望】\n短期内，BTC价格可能会继续小幅波动。\n【一句提醒】\n投资者应谨慎关注市场风险",
+  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $66,744, and it is expected to fluctuate in the short term.\n[Key Drivers]\n1. Release of macroeconomic data\n2. Capital inflow into the crypto market\n3. Market sentiment fluctuations\n[Outlook]\nIn the short term, the BTC price may continue to fluctuate slightly.\n[Reminder]\nInvestors should be cautious of market risks",
+  "aiSummaryUpdated": 1775212754.439964
 }
