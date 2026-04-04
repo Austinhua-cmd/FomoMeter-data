@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66964.0,
-  "priceChange24h": -0.1,
+  "btcPrice": 66960.0,
+  "priceChange24h": 0.2,
   "fomoIndex": 11,
-  "aiCommentCN": "行情没动，心跳挺快，散户最大的风险，是想太多。",
-  "aiCommentEN": "Market stays calm, but hearts are racing, thinking too much is risky.",
-  "lastUpdated": 1775291797.397058,
+  "aiCommentCN": "大家都说稳住，市场却没这么想。",
+  "aiCommentEN": "Market says otherwise, calm down.",
+  "lastUpdated": 1775295217.494391,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
