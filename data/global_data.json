@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66960.0,
+  "btcPrice": 66926.0,
   "priceChange24h": 0.2,
   "fomoIndex": 11,
-  "aiCommentCN": "大家都说稳住，市场却没这么想。",
-  "aiCommentEN": "Market says otherwise, calm down.",
-  "lastUpdated": 1775295217.494391,
+  "aiCommentCN": "心静自然牛，行情如人心。",
+  "aiCommentEN": "Calm mind, bullish trend, market like life.",
+  "lastUpdated": 1775298558.204669,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 9,
   "historyLastWeek": 12,
   "historyLastMonth": 22,
-  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪相对平稳。\n【情绪信号】\n社交媒体讨论热度略有上升，散户活跃度保持中性，衍生品多空比偏空。\n【短期展望】\n未来几天可能维持震荡走势。\n【一句提醒】\n投资者应谨慎操作，关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market sentiment is relatively stable.\n[Key Drivers]\nSocial media discussion heat has slightly increased, retail activity remains neutral, and the derivatives long-short ratio is biased towards shorts.\n[Outlook]\nIt is likely to maintain a fluctuating trend in the next few days.\n[Reminder]\nInvestors should be cautious and pay attention to market signals.",
-  "aiSummaryUpdated": 1775278032.164472
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为牛市加速期。\n【当前阶段】\n当前阶段特征包括市场热情高涨、投资者信心增强、价格快速上涨等。另外，恐慌贪婪指数处于极度恐慌区，可能预示着进一步的上涨。还有一点，市场参与度增加，交易量显著提升。\n【未来可能走势】\n周期视角下的展望是价格可能会继续上涨，但短期内可能会出现回调。\n【一句提醒】\n投资者需注意风险，避免追高，而应理性投资，控制仓位。",
+  "aiSummaryEN": "[Today's View]\nWe are currently in a bull market acceleration phase.\n[Key Drivers]\nKey characteristics of the current stage include high market enthusiasm, increased investor confidence, and rapid price increases. Additionally, the fear and greed index is in the extreme fear zone, which may indicate further increases. Moreover, market participation has increased, with significant increases in trading volume.\n[Outlook]\nFrom a cyclical perspective, the outlook is that prices may continue to rise, but a short-term correction is possible.\n[Reminder]\nInvestors should be aware of the risks and avoid chasing high prices, instead investing rationally and controlling their positions.",
+  "aiSummaryUpdated": 1775298559.56765
 }
