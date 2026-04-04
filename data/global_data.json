@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66834.0,
-  "priceChange24h": 0.74,
+  "btcPrice": 66848.0,
+  "priceChange24h": 0.32,
   "fomoIndex": 11,
-  "aiCommentCN": "行情睡着了，心还醒着呢",
-  "aiCommentEN": "Market is sleeping, but hearts are still awake",
-  "lastUpdated": 1775270936.28597,
+  "aiCommentCN": "市场无常，心态是关键。",
+  "aiCommentEN": "Market mood swings, stay calm always.",
+  "lastUpdated": 1775278031.284221,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 9,
   "historyLastWeek": 12,
   "historyLastMonth": 22,
-  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪相对平稳，投资者观望情绪浓厚。\n【情绪信号】\n社交媒体讨论热度降低、散户活跃度下降、衍生品多空比偏空。\n【短期展望】\n未来几天比特币价格可能继续震荡，难有大幅波动。\n【一句提醒】\n投资者应保持耐心，避免冲动买卖。",
-  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is relatively stable, with investors being cautious.\n[Key Drivers]\nSocial media discussion heat decreased, retail investor activity decreased, and derivatives bullish/bearish ratio is bearish.\n[Outlook]\nIn the next few days, the bitcoin price may continue to fluctuate without significant changes.\n[Reminder]\nInvestors should be patient and avoid impulsive buying and selling.",
-  "aiSummaryUpdated": 1775256038.066531
+  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪相对平稳。\n【情绪信号】\n社交媒体讨论热度略有上升，散户活跃度保持中性，衍生品多空比偏空。\n【短期展望】\n未来几天可能维持震荡走势。\n【一句提醒】\n投资者应谨慎操作，关注市场信号。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market sentiment is relatively stable.\n[Key Drivers]\nSocial media discussion heat has slightly increased, retail activity remains neutral, and the derivatives long-short ratio is biased towards shorts.\n[Outlook]\nIt is likely to maintain a fluctuating trend in the next few days.\n[Reminder]\nInvestors should be cautious and pay attention to market signals.",
+  "aiSummaryUpdated": 1775278032.164472
 }
