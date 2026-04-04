@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67316.0,
-  "priceChange24h": 0.72,
+  "btcPrice": 67446.0,
+  "priceChange24h": 0.74,
   "fomoIndex": 11,
-  "aiCommentCN": "价格小涨，心跳加速。",
-  "aiCommentEN": "Small price jump, big heart rate.",
-  "lastUpdated": 1775318084.284545,
+  "aiCommentCN": "行情不动，心跳挺快，散户整日刷屏。",
+  "aiCommentEN": "Market stays calm, hearts beat fast, traders keep scrolling.",
+  "lastUpdated": 1775320258.993593,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 9,
   "historyLastWeek": 12,
   "historyLastMonth": 22,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为牛市加速期。\n【当前阶段】\n当前阶段特征包括市场热情高涨、投资者信心增强、价格快速上涨等。另外，恐慌贪婪指数处于极度恐慌区，可能预示着进一步的上涨。还有一点，市场参与度增加，交易量显著提升。\n【未来可能走势】\n周期视角下的展望是价格可能会继续上涨，但短期内可能会出现回调。\n【一句提醒】\n投资者需注意风险，避免追高，而应理性投资，控制仓位。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in a bull market acceleration phase.\n[Key Drivers]\nKey characteristics of the current stage include high market enthusiasm, increased investor confidence, and rapid price increases. Additionally, the fear and greed index is in the extreme fear zone, which may indicate further increases. Moreover, market participation has increased, with significant increases in trading volume.\n[Outlook]\nFrom a cyclical perspective, the outlook is that prices may continue to rise, but a short-term correction is possible.\n[Reminder]\nInvestors should be aware of the risks and avoid chasing high prices, instead investing rationally and controlling their positions.",
-  "aiSummaryUpdated": 1775298559.56765
+  "aiSummaryCN": "【机构视角】\n机构投资者认为比特币当前价格具有较强的吸引力。\n【关键观察】\nBTC价格：67,446 美元，24h涨跌：+0.7%，恐慌贪婪指数：11，表明市场情绪偏谨慎。\n机构资金持续流入，市场信心逐步恢复。\n【未来展望】\n随着机构投资者持续关注，比特币市场有望进一步走稳。\n【一句提醒】\n投资者应保持警惕，密切关注市场动向。",
+  "aiSummaryEN": "[Today's View]\nInstitutional investors view the current Bitcoin price as attractive.\n[Key Drivers]\nBTC price: $67,446, 24h change: +0.7%, Fear & Greed Index: 11, indicating cautious market sentiment.\nInstitutional funds continue to flow in, and market confidence is gradually recovering.\n[Outlook]\nAs institutional investors continue to pay attention, the Bitcoin market is expected to stabilize further.\n[Reminder]\nInvestors should remain vigilant and closely monitor market trends.",
+  "aiSummaryUpdated": 1775320260.179066
 }
