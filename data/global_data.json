@@ -1,18 +1,18 @@
 {
-  "btcPrice": 67308.0,
-  "priceChange24h": 0.64,
-  "fomoIndex": 11,
-  "aiCommentCN": "市场轻松，心情不轻松。",
-  "aiCommentEN": "Market calm, hearts still racing.",
-  "lastUpdated": 1775345515.79187,
+  "btcPrice": 67058.0,
+  "priceChange24h": 0.29,
+  "fomoIndex": 12,
+  "aiCommentCN": "大家都说等待机会，但机会没等待大家。",
+  "aiCommentEN": "Waiting for dips, but dips don't wait for you.",
+  "lastUpdated": 1775354684.797163,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
     "GBP": 0.75708
   },
-  "historyYesterday": 9,
-  "historyLastWeek": 12,
-  "historyLastMonth": 22,
+  "historyYesterday": 11,
+  "historyLastWeek": 9,
+  "historyLastMonth": 18,
   "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持震荡状态。\n【关键位置】\n当前价格67,383美元附近有较强支撑。\n【短线策略】\n考虑在67,000美元附近买入，目标价位68,000美元。\n【风险提醒】\n恐慌贪婪指数较低，注意市场可能的快速反弹风险。",
   "aiSummaryEN": "[Today's View]\nBitcoin may maintain its fluctuation in the short term.\n[Key Drivers]\nThe current price of $67,383 has strong support.\n[Outlook]\nConsider buying near $67,000, with a target price of $68,000.\n[Reminder]\nThe fear and greed index is low, beware of the market's potential rapid rebound risk.",
   "aiSummaryUpdated": 1775341552.825515
