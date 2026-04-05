@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67058.0,
-  "priceChange24h": 0.29,
+  "btcPrice": 67090.0,
+  "priceChange24h": 0.36,
   "fomoIndex": 12,
-  "aiCommentCN": "大家都说等待机会，但机会没等待大家。",
-  "aiCommentEN": "Waiting for dips, but dips don't wait for you.",
-  "lastUpdated": 1775354684.797163,
+  "aiCommentCN": "静默的市场，是散户心跳加速的地方",
+  "aiCommentEN": "Silent markets make hearts beat faster somehow",
+  "lastUpdated": 1775365163.971068,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 11,
   "historyLastWeek": 9,
   "historyLastMonth": 18,
-  "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持震荡状态。\n【关键位置】\n当前价格67,383美元附近有较强支撑。\n【短线策略】\n考虑在67,000美元附近买入，目标价位68,000美元。\n【风险提醒】\n恐慌贪婪指数较低，注意市场可能的快速反弹风险。",
-  "aiSummaryEN": "[Today's View]\nBitcoin may maintain its fluctuation in the short term.\n[Key Drivers]\nThe current price of $67,383 has strong support.\n[Outlook]\nConsider buying near $67,000, with a target price of $68,000.\n[Reminder]\nThe fear and greed index is low, beware of the market's potential rapid rebound risk.",
-  "aiSummaryUpdated": 1775341552.825515
+  "aiSummaryCN": "【多空格局】\n比特币市场呈现出微妙的多空博弈格局。\n【多头理由】\n多头认为，当前的低位是买入机会，价格可能会反弹。\n【空头理由】\n空头认为，市场的恐慌情绪仍然较高，价格可能会继续下跌。\n【市场展望】\n短期内，价格可能会在当前区间内波动，关注市场信号和技术指标。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market shows a delicate balance between bulls and bears.\n[Key Drivers]\nBulls think the current low is a buying opportunity, and the price may rebound.\n[Outlook]\nBears think the market's panic sentiment is still high, and the price may continue to fall.\n[Reminder]\nIn the short term, the price may fluctuate within the current range, paying attention to market signals and technical indicators.",
+  "aiSummaryUpdated": 1775365164.961034
 }
