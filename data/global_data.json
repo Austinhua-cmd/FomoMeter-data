@@ -1,10 +1,10 @@
 {
-  "btcPrice": 67455.0,
-  "priceChange24h": 0.29,
+  "btcPrice": 67398.0,
+  "priceChange24h": -0.04,
   "fomoIndex": 12,
-  "aiCommentCN": "行情没方向，心就有方向.",
-  "aiCommentEN": "Market has no direction, but heart does.",
-  "lastUpdated": 1775425185.189436,
+  "aiCommentCN": "静静等待，机会自会来。",
+  "aiCommentEN": "Patience is key, opportunities will come.",
+  "lastUpdated": 1775428019.158536,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 11,
   "historyLastWeek": 9,
   "historyLastMonth": 18,
-  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪较为谨慎，投资者观望情绪浓厚。\n【情绪信号】\n社交媒体讨论热度降低、散户活跃度较低、衍生品多空比偏空。\n【短期展望】\n未来几天比特币价格可能维持震荡走势，关注重要技术支撑位。\n【一句提醒】\n普通投资者应保持耐心，等待市场明确方向后再做决策。",
-  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is cautious, with investors holding a wait-and-see attitude.\n[Key Drivers]\nSocial media discussion heat has decreased, retail investor activity is low, and the derivatives long-short ratio is biased towards shorts.\n[Outlook]\nIn the next few days, the bitcoin price may maintain a fluctuating trend, paying attention to important technical support levels.\n[Reminder]\nOrdinary investors should be patient and wait for the market to clarify its direction before making decisions.",
-  "aiSummaryUpdated": 1775407009.360408
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：比特币市场似乎处于一个相对稳定的阶段，价格波动相对较小。\n【当前阶段】\n当前阶段的特征包括：市场情绪较为平静，投资者观望情绪浓厚，价格在一个相对狭窄的范围内波动。\n【未来可能走势】\n周期视角下的展望：随着市场的发展，可能会出现新的趋势，投资者需要密切关注市场信号。\n【一句提醒】\n风险或操作提醒：投资者需要保持警惕，避免过度乐观或悲观，做好风险管理。",
+  "aiSummaryEN": "[Today's View]\nCurrent market stage: The Bitcoin market appears to be in a relatively stable phase, with small price fluctuations.\n[Key Drivers]\nKey features of the current stage include: a calm market sentiment, a strong wait-and-see attitude among investors, and prices fluctuating within a relatively narrow range.\n[Outlook]\nOutlook from a cycle perspective: As the market develops, new trends may emerge, and investors need to closely monitor market signals.\n[Reminder]\nReminder: Investors need to stay vigilant, avoid excessive optimism or pessimism, and manage risks properly.",
+  "aiSummaryUpdated": 1775428020.30986
 }
