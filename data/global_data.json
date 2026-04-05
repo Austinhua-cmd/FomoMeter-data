@@ -1,10 +1,10 @@
 {
-  "btcPrice": 66970.0,
-  "priceChange24h": 0.01,
+  "btcPrice": 66966.0,
+  "priceChange24h": 0.05,
   "fomoIndex": 12,
-  "aiCommentCN": "趋势若隐若现，心若波涛汹涌",
-  "aiCommentEN": "Market trends hide, hearts race with anticipation",
-  "lastUpdated": 1775381726.278074,
+  "aiCommentCN": "行情没动，心跳挺快，静等爆发。",
+  "aiCommentEN": "Market stays calm, but hearts beat fast.",
+  "lastUpdated": 1775384964.444409,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 11,
   "historyLastWeek": 9,
   "historyLastMonth": 18,
-  "aiSummaryCN": "【多空格局】\n比特币市场呈现出微妙的多空博弈格局。\n【多头理由】\n多头认为，当前的低位是买入机会，价格可能会反弹。\n【空头理由】\n空头认为，市场的恐慌情绪仍然较高，价格可能会继续下跌。\n【市场展望】\n短期内，价格可能会在当前区间内波动，关注市场信号和技术指标。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market shows a delicate balance between bulls and bears.\n[Key Drivers]\nBulls think the current low is a buying opportunity, and the price may rebound.\n[Outlook]\nBears think the market's panic sentiment is still high, and the price may continue to fall.\n[Reminder]\nIn the short term, the price may fluctuate within the current range, paying attention to market signals and technical indicators.",
-  "aiSummaryUpdated": 1775365164.961034
+  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪较为平稳。\n【情绪信号】\n社交媒体讨论热度降低、散户活跃度增加、衍生品多空比降低。\n【短期展望】\n未来几天可能会有波动，但整体趋势仍看涨。\n【一句提醒】\n投资者应保持谨慎，不要追高杀低。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market sentiment is relatively stable.\n[Key Drivers]\nSocial media discussion heat decreased, retail activity increased, and the derivatives long-short ratio decreased.\n[Outlook]\nIt may fluctuate in the next few days, but the overall trend remains bullish.\n[Reminder]\nInvestors should remain cautious and not chase high or kill low.",
+  "aiSummaryUpdated": 1775384965.246024
 }
