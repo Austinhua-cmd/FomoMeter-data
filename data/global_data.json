@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69742.0,
-  "priceChange24h": 3.46,
+  "btcPrice": 70035.0,
+  "priceChange24h": 4.06,
   "fomoIndex": 13,
-  "aiCommentCN": "行情小涨，心情大涨.",
-  "aiCommentEN": "Market rises, so do our hopes.",
-  "lastUpdated": 1775490124.428947,
+  "aiCommentCN": "行情小涨，散户心大涨。",
+  "aiCommentEN": "Market rises, so do hopes.",
+  "lastUpdated": 1775493681.230826,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 8,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【AI综合判断】\n比特币市场表现出强劲的反弹势头。\n【三大驱动因素】\n1. 宏观经济数据的改善\n2. 资金流的增加\n3. 市场情绪的转变\n【未来展望】\n短期内，价格可能继续上涨。\n【一句提醒】\n投资者应谨慎关注市场波动，风险或操作提醒：当前恐慌贪婪指数较低，需注意市场可能的快速波动。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market shows a strong rebound momentum.\n[Key Drivers]\n1. Improvement in macroeconomic data\n2. Increase in capital inflows\n3. Shift in market sentiment\n[Outlook]\nIn the short term, prices may continue to rise.\n[Reminder]\nInvestors should be cautious of market fluctuations, reminder: the current fear and greed index is low, and attention should be paid to potential rapid market fluctuations.",
-  "aiSummaryUpdated": 1775469966.69844
+  "aiSummaryCN": "【资金观察】\n比特币市场资金情绪呈现积极趋势。\n【资金动向】\n1. 巨鲸钱包活跃度增加\n2. 交易所流入资金增多\n3. 稳定币发行量减少\n【市场展望】\n未来短期内，比特币价格可能继续上涨。\n【一句提醒】\n投资者应保持警惕，风险管理至关重要。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market sentiment is showing a positive trend.\n[Key Drivers]\n1. Increased activity in whale wallets\n2. More funds flowing into exchanges\n3. Decreased stablecoin issuance\n[Outlook]\nIn the short term, the price of Bitcoin may continue to rise.\n[Reminder]\nInvestors should remain vigilant, with risk management being crucial.",
+  "aiSummaryUpdated": 1775493682.594736
 }
