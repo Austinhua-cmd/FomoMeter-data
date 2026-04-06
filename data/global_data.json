@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69639.0,
-  "priceChange24h": 3.24,
+  "btcPrice": 69367.0,
+  "priceChange24h": 2.77,
   "fomoIndex": 13,
-  "aiCommentCN": "行情起舞，心情随行.",
-  "aiCommentEN": "Market dances, emotions follow.",
-  "lastUpdated": 1775511258.222033,
+  "aiCommentCN": "市场越狂，散户越想摸鱼。",
+  "aiCommentEN": "Market goes wild, we go fishing.",
+  "lastUpdated": 1775514720.374594,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 8,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【资金观察】\n比特币市场资金情绪呈现积极趋势。\n【资金动向】\n1. 巨鲸钱包活跃度增加\n2. 交易所流入资金增多\n3. 稳定币发行量减少\n【市场展望】\n未来短期内，比特币价格可能继续上涨。\n【一句提醒】\n投资者应保持警惕，风险管理至关重要。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market sentiment is showing a positive trend.\n[Key Drivers]\n1. Increased activity in whale wallets\n2. More funds flowing into exchanges\n3. Decreased stablecoin issuance\n[Outlook]\nIn the short term, the price of Bitcoin may continue to rise.\n[Reminder]\nInvestors should remain vigilant, with risk management being crucial.",
-  "aiSummaryUpdated": 1775493682.594736
+  "aiSummaryCN": "【今日观点】\n当前比特币市场情绪偏向乐观，价格小幅上涨。\n【驱动因素】\n美联储政策、ETF资金、美股走势是当前市场的关键驱动因素。\n【市场展望】\n未来24-72小时内，BTC价格可能继续小幅波动。\n【一句提醒】\n投资者应谨慎观察市场走势，做好风险控制。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is slightly optimistic, with a small price increase.\n[Key Drivers]\nThe US Federal Reserve's policy, ETF funds, and US stock market trends are the key drivers of the current market.\n[Outlook]\nIn the next 24-72 hours, the BTC price may continue to fluctuate slightly.\n[Reminder]\nInvestors should carefully observe the market trend and make good risk control.",
+  "aiSummaryUpdated": 1775514721.435136
 }
