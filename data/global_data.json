@@ -1,10 +1,10 @@
 {
-  "btcPrice": 69234.0,
-  "priceChange24h": 3.54,
+  "btcPrice": 69790.0,
+  "priceChange24h": 4.15,
   "fomoIndex": 13,
-  "aiCommentCN": "行情起来了，散户睡不着。",
-  "aiCommentEN": "Market rises, investors can't sleep.",
-  "lastUpdated": 1775465516.698033,
+  "aiCommentCN": "市场在波动，心才稳定。",
+  "aiCommentEN": "Turbulent markets calm the mind.",
+  "lastUpdated": 1775469965.630872,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 12,
   "historyLastWeek": 8,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【多空格局】\n比特币市场多空格局激烈，多头与空头正展开激烈的博弈。\n【多头理由】\n多头认为当前价格有较强的支撑，且技术指标呈现出向上趋势。\n【空头理由】\n空头则认为市场可能存在泡沫，恐慌贪婪指数低位运行可能预示着未来价格下跌。\n【市场展望】\n短期内，价格可能会继续波动，投资者需谨慎关注市场变化。当前BTC价格：69,133美元，24h涨跌：+3.0%，恐慌贪婪指数：13",
-  "aiSummaryEN": "[Today's View]\nThe Bitcoin market is witnessing an intense tug-of-war between bulls and bears.\n[Key Drivers]\nBulls argue that the current price has strong support and technical indicators are trending upwards.\n[Outlook]\nBears, however, believe the market may be experiencing a bubble, and the low Greed and Fear index could signal a future price drop.\n[Reminder]\nIn the short term, prices may continue to fluctuate, and investors should closely monitor market changes. Current BTC price: $69,133, 24h change: +3.0%, Greed and Fear index: 13",
-  "aiSummaryUpdated": 1775452153.540367
+  "aiSummaryCN": "【AI综合判断】\n比特币市场表现出强劲的反弹势头。\n【三大驱动因素】\n1. 宏观经济数据的改善\n2. 资金流的增加\n3. 市场情绪的转变\n【未来展望】\n短期内，价格可能继续上涨。\n【一句提醒】\n投资者应谨慎关注市场波动，风险或操作提醒：当前恐慌贪婪指数较低，需注意市场可能的快速波动。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market shows a strong rebound momentum.\n[Key Drivers]\n1. Improvement in macroeconomic data\n2. Increase in capital inflows\n3. Shift in market sentiment\n[Outlook]\nIn the short term, prices may continue to rise.\n[Reminder]\nInvestors should be cautious of market fluctuations, reminder: the current fear and greed index is low, and attention should be paid to potential rapid market fluctuations.",
+  "aiSummaryUpdated": 1775469966.69844
 }
