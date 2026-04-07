@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68105.0,
-  "priceChange24h": -2.56,
+  "btcPrice": 68316.0,
+  "priceChange24h": -2.64,
   "fomoIndex": 11,
-  "aiCommentCN": "市场越冷静，心跳越快，抄底的梦想总是会延迟实现",
-  "aiCommentEN": "Calm markets make for racing hearts, and delayed buying dreams",
-  "lastUpdated": 1775577209.80643,
+  "aiCommentCN": "大家都在等待方向，方向却在等待大家。",
+  "aiCommentEN": "Everyone waits for direction, but direction waits for no one.",
+  "lastUpdated": 1775580805.84396,
   "forexRates": {
     "CNY": 6.8574,
     "EUR": 0.86528,
@@ -13,7 +13,7 @@
   "historyYesterday": 13,
   "historyLastWeek": 11,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【AI综合判断】\n比特币当前价格69,032美元，短期内可能会继续震荡。\n【三大驱动因素】\n1. 宏观经济数据变化\n2. 资金流入加密市场\n3. 市场情绪波动\n【未来展望】\n短期内，BTC价格可能会继续在当前区间内波动。\n【一句提醒】\n投资者应注意风险，保持谨慎的投资策略。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $69,032, and it may continue to fluctuate in the short term.\n[Key Drivers]\n1. Changes in macroeconomic data\n2. Capital inflows into the crypto market\n3. Market sentiment fluctuations\n[Outlook]\nIn the short term, the BTC price may continue to fluctuate within the current range.\n[Reminder]\nInvestors should be aware of the risks and maintain a cautious investment strategy.",
-  "aiSummaryUpdated": 1775556552.02492
+  "aiSummaryCN": "【AI综合判断】\n比特币当前处于震荡调整阶段。\n【三大驱动因素】\n1. 宏观经济数据影响\n2. 资金流动性变化\n3. 市场情绪波动\n【未来展望】\n短期内，价格可能继续波动。\n【一句提醒】\n投资者应谨慎对待市场风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin is currently in a consolidation phase.\n[Key Drivers]\n1. Macro-economic data impact\n2. Changes in liquidity\n3. Market sentiment fluctuations\n[Outlook]\nIn the short term, prices may continue to fluctuate.\n[Reminder]\nInvestors should be cautious of market risks.",
+  "aiSummaryUpdated": 1775580806.686457
 }
