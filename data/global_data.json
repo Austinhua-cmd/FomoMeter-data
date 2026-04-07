@@ -1,10 +1,10 @@
 {
-  "btcPrice": 68402.0,
-  "priceChange24h": -0.65,
+  "btcPrice": 68879.0,
+  "priceChange24h": -0.34,
   "fomoIndex": 11,
-  "aiCommentCN": "大家都说稳住，手却在抖着买。",
-  "aiCommentEN": "Everyone says stay calm, but hands are shaking.",
-  "lastUpdated": 1775527325.956901,
+  "aiCommentCN": "价格没动，心跳加速了",
+  "aiCommentEN": "Market's calm, but hearts are racing",
+  "lastUpdated": 1775537799.701831,
   "forexRates": {
     "CNY": 6.8976,
     "EUR": 0.86768,
@@ -13,7 +13,7 @@
   "historyYesterday": 13,
   "historyLastWeek": 11,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【今日观点】\n当前比特币市场情绪偏向乐观，价格小幅上涨。\n【驱动因素】\n美联储政策、ETF资金、美股走势是当前市场的关键驱动因素。\n【市场展望】\n未来24-72小时内，BTC价格可能继续小幅波动。\n【一句提醒】\n投资者应谨慎观察市场走势，做好风险控制。",
-  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is slightly optimistic, with a small price increase.\n[Key Drivers]\nThe US Federal Reserve's policy, ETF funds, and US stock market trends are the key drivers of the current market.\n[Outlook]\nIn the next 24-72 hours, the BTC price may continue to fluctuate slightly.\n[Reminder]\nInvestors should carefully observe the market trend and make good risk control.",
-  "aiSummaryUpdated": 1775514721.435136
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段，BTC价格：68,879美元，24h涨跌：-0.3%，恐慌贪婪指数：11，表明市场仍处于恐慌状态。\n【当前阶段】\n当前阶段特征：投资者情绪低落，市场波动加剧，交易量下降。\n【未来可能走势】\n周期视角下的展望，预计BTC价格将继续波动，可能会探底后企稳。\n【一句提醒】\n投资者需谨慎，控制风险，避免追高杀低。",
+  "aiSummaryEN": "[Today's View]\nCurrent market stage, BTC price: $68,879, 24h change: -0.3%, Fear & Greed Index: 11, indicating a panic state.\n[Key Drivers]\nCurrent stage characteristics: investor sentiment is low, market volatility increases, trading volume decreases.\n[Outlook]\nCyclic perspective outlook, expecting BTC price to continue fluctuating, possibly bottoming out before stabilizing.\n[Reminder]\nInvestors should be cautious, control risk, and avoid chasing highs and killing lows.",
+  "aiSummaryUpdated": 1775537800.707778
 }
