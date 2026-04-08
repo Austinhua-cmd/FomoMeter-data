@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71594.0,
-  "priceChange24h": 2.65,
+  "btcPrice": 71228.0,
+  "priceChange24h": 0.6,
   "fomoIndex": 17,
-  "aiCommentCN": "市场的波动，是心灵的镜子.",
-  "aiCommentEN": "Market swings reflect the soul's turmoil.",
-  "lastUpdated": 1775684279.895171,
+  "aiCommentCN": "价格静悄悄，心跳得挺快。",
+  "aiCommentEN": "Prices are calm, but hearts are racing.",
+  "lastUpdated": 1775687710.127629,
   "forexRates": {
     "CNY": 6.8297,
     "EUR": 0.85426,
@@ -13,7 +13,7 @@
   "historyYesterday": 11,
   "historyLastWeek": 8,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【交易观点】\n比特币短期有望继续上涨。\n【关键位置】\n71,000 美元是关键支撑位，突破 72,500 美元将打开更高涨幅空间。\n【短线策略】\n可以考虑在 71,000 美元附近吸纳，目标位 73,000 美元。\n【风险提醒】\n注意风险，仓位控制在 20% 以内。",
-  "aiSummaryEN": "[Today's View]\nBitcoin is expected to continue its upward trend in the short term.\n[Key Drivers]\n$71,000 is the key support level, and breaking through $72,500 will open up more upside space.\n[Outlook]\nConsider buying around $71,000, with a target of $73,000.\n[Reminder]\nBe aware of the risks and control positions within 20%.",
-  "aiSummaryUpdated": 1775667443.618883
+  "aiSummaryCN": "【机构视角】\n比特币价格维持在71,228美元，机构投资者对其长期价值仍保持信心。\n【关键观察】\n机构投资者持续关注比特币的市场表现，24h涨跌+0.6%表明市场仍然活跃。\n恐慌贪婪指数为17，表明投资者仍然谨慎。\n【未来展望】\n随着全球经济的复苏，机构投资者对比特币的需求可能会增加。\n【一句提醒】\n投资比特币仍然存在较高的风险，机构投资者需要谨慎评估市场趋势。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's price remains at $71,228, and institutional investors still have confidence in its long-term value.\n[Key Drivers]\nInstitutional investors continue to monitor Bitcoin's market performance, with a 24h change of +0.6% indicating an active market.\nThe fear and greed index is 17, indicating investors are still cautious.\n[Outlook]\nAs the global economy recovers, institutional demand for Bitcoin may increase.\n[Reminder]\nInvesting in Bitcoin still carries high risks, and institutional investors need to carefully assess market trends.",
+  "aiSummaryUpdated": 1775687711.246598
 }
