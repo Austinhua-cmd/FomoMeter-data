@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71715.0,
-  "priceChange24h": 4.14,
+  "btcPrice": 71712.0,
+  "priceChange24h": 3.8,
   "fomoIndex": 17,
-  "aiCommentCN": "静静等待的勇气，是最大的投资。",
-  "aiCommentEN": "Patience is the greatest investment of all.",
-  "lastUpdated": 1775637644.161291,
+  "aiCommentCN": "价格涨了，心态没涨。",
+  "aiCommentEN": "Prices rise, sanity doesn't.",
+  "lastUpdated": 1775642670.592018,
   "forexRates": {
     "CNY": 6.8574,
     "EUR": 0.86528,
@@ -13,7 +13,7 @@
   "historyYesterday": 11,
   "historyLastWeek": 8,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【市场解读】\n比特币价格出现小幅上涨。\n【关键事件】\n近期全球经济数据公布、央行货币政策调整、机构投资者入场。\n【市场影响】\n投资者信心增强，市场氛围转好。\n【一句提醒】\n关注风险，谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nBitcoin price shows a slight increase.\n[Key Drivers]\nRecent global economic data releases, central bank monetary policy adjustments, and institutional investors' entry.\n[Outlook]\nInvestor confidence is boosted, and the market atmosphere improves.\n[Reminder]\nBe aware of risks and operate with caution.",
-  "aiSummaryUpdated": 1775627089.579471
+  "aiSummaryCN": "【机构视角】\n比特币当前价格为71,712美元，24小时内上涨3.8%，恐慌贪婪指数为17，表明市场仍处于恐慌状态。\n【关键观察】\n机构投资者仍然保持谨慎态度，等待市场进一步走低。\n比特币的波动性仍然较高，短期内可能会出现较大幅度的波动。\n【未来展望】\n从机构投资视角来看，比特币的长期前景仍然看好，但短期内可能会继续波动。\n【一句提醒】\n投资比特币存在较高风险，投资者应谨慎投资。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's current price is $71,712, with a 24-hour increase of 3.8%, and a fear and greed index of 17, indicating the market is still in a state of panic.\n[Key Drivers]\nInstitutional investors remain cautious, waiting for the market to decline further.\nBitcoin's volatility remains high, and large fluctuations may occur in the short term.\n[Outlook]\nFrom an institutional investment perspective, Bitcoin's long-term outlook remains positive, but short-term fluctuations are possible.\n[Reminder]\nInvesting in Bitcoin carries high risks, and investors should exercise caution.",
+  "aiSummaryUpdated": 1775642671.881019
 }
