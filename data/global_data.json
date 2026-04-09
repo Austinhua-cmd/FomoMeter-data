@@ -1,18 +1,18 @@
 {
-  "btcPrice": 70973.0,
-  "priceChange24h": -1.94,
-  "fomoIndex": 17,
-  "aiCommentCN": "跌的时候想抄底，抄完继续跌，散户真命苦",
-  "aiCommentEN": "Prices drop, we want in, but it just keeps falling",
-  "lastUpdated": 1775691254.727263,
+  "btcPrice": 70895.0,
+  "priceChange24h": -0.91,
+  "fomoIndex": 14,
+  "aiCommentCN": "静静等待趋势，平静度日常。",
+  "aiCommentEN": "Wait calmly for trends, peace is the norm.",
+  "lastUpdated": 1775699684.068187,
   "forexRates": {
     "CNY": 6.8297,
     "EUR": 0.85426,
     "GBP": 0.74229
   },
-  "historyYesterday": 11,
-  "historyLastWeek": 8,
-  "historyLastMonth": 8,
+  "historyYesterday": 17,
+  "historyLastWeek": 12,
+  "historyLastMonth": 13,
   "aiSummaryCN": "【机构视角】\n比特币价格维持在71,228美元，机构投资者对其长期价值仍保持信心。\n【关键观察】\n机构投资者持续关注比特币的市场表现，24h涨跌+0.6%表明市场仍然活跃。\n恐慌贪婪指数为17，表明投资者仍然谨慎。\n【未来展望】\n随着全球经济的复苏，机构投资者对比特币的需求可能会增加。\n【一句提醒】\n投资比特币仍然存在较高的风险，机构投资者需要谨慎评估市场趋势。",
   "aiSummaryEN": "[Today's View]\nBitcoin's price remains at $71,228, and institutional investors still have confidence in its long-term value.\n[Key Drivers]\nInstitutional investors continue to monitor Bitcoin's market performance, with a 24h change of +0.6% indicating an active market.\nThe fear and greed index is 17, indicating investors are still cautious.\n[Outlook]\nAs the global economy recovers, institutional demand for Bitcoin may increase.\n[Reminder]\nInvesting in Bitcoin still carries high risks, and institutional investors need to carefully assess market trends.",
   "aiSummaryUpdated": 1775687711.246598
