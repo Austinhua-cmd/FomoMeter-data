@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70895.0,
-  "priceChange24h": -0.91,
+  "btcPrice": 70849.0,
+  "priceChange24h": -0.97,
   "fomoIndex": 14,
-  "aiCommentCN": "静静等待趋势，平静度日常。",
-  "aiCommentEN": "Wait calmly for trends, peace is the norm.",
-  "lastUpdated": 1775699684.068187,
+  "aiCommentCN": "行情的波动，是心态的镜子",
+  "aiCommentEN": "Market waves reflect the mind's tides",
+  "lastUpdated": 1775709095.775386,
   "forexRates": {
     "CNY": 6.8297,
     "EUR": 0.85426,
@@ -13,7 +13,7 @@
   "historyYesterday": 17,
   "historyLastWeek": 12,
   "historyLastMonth": 13,
-  "aiSummaryCN": "【机构视角】\n比特币价格维持在71,228美元，机构投资者对其长期价值仍保持信心。\n【关键观察】\n机构投资者持续关注比特币的市场表现，24h涨跌+0.6%表明市场仍然活跃。\n恐慌贪婪指数为17，表明投资者仍然谨慎。\n【未来展望】\n随着全球经济的复苏，机构投资者对比特币的需求可能会增加。\n【一句提醒】\n投资比特币仍然存在较高的风险，机构投资者需要谨慎评估市场趋势。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's price remains at $71,228, and institutional investors still have confidence in its long-term value.\n[Key Drivers]\nInstitutional investors continue to monitor Bitcoin's market performance, with a 24h change of +0.6% indicating an active market.\nThe fear and greed index is 17, indicating investors are still cautious.\n[Outlook]\nAs the global economy recovers, institutional demand for Bitcoin may increase.\n[Reminder]\nInvesting in Bitcoin still carries high risks, and institutional investors need to carefully assess market trends.",
-  "aiSummaryUpdated": 1775687711.246598
+  "aiSummaryCN": "【多空格局】\n比特币市场多空博弈激烈。\n【多头理由】\n多头认为BTC价格有望上涨，投资者信心增强。\n【空头理由】\n空头则认为市场恐慌情绪浓厚，短期内会有回调。\n【市场展望】\n短期内，BTC价格可能会继续波动，投资者需谨慎观察市场走势。",
+  "aiSummaryEN": "[Today's View]\nThe Bitcoin market is experiencing intense bullish and bearish struggles.\n[Key Drivers]\nBullish investors believe the BTC price will rise, boosting investor confidence.\n[Outlook]\nBearish investors think the market is filled with panic, leading to a potential short-term correction.\n[Reminder]\nIn the short term, the BTC price may continue to fluctuate, and investors should carefully observe market trends.",
+  "aiSummaryUpdated": 1775709096.686544
 }
