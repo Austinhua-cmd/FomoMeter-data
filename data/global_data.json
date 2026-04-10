@@ -1,18 +1,18 @@
 {
-  "btcPrice": 71771.0,
-  "priceChange24h": 0.92,
-  "fomoIndex": 14,
-  "aiCommentCN": "价格上涨，心情大涨，盘中亏损，心情立降。",
-  "aiCommentEN": "Prices rise, mood rises, losses fall, mood falls.",
-  "lastUpdated": 1775779172.104274,
+  "btcPrice": 71846.0,
+  "priceChange24h": 1.33,
+  "fomoIndex": 16,
+  "aiCommentCN": "行情小涨，心跳大涨。",
+  "aiCommentEN": "Market rises, heart beats faster.",
+  "lastUpdated": 1775791814.10146,
   "forexRates": {
     "CNY": 6.8347,
     "EUR": 0.8558,
     "GBP": 0.745
   },
-  "historyYesterday": 17,
-  "historyLastWeek": 12,
-  "historyLastMonth": 13,
+  "historyYesterday": 14,
+  "historyLastWeek": 9,
+  "historyLastMonth": 15,
   "aiSummaryCN": "【技术观点】\n当前比特币价格呈现震荡走势。\n【关键位置】\n支撑位：70,000 美元，阻力位：75,000 美元。\n【走势推演】\n短期走势或将维持在当前区间内振荡。\n【一句提醒】\n注意风险，谨慎操作。",
   "aiSummaryEN": "[Today's View]\nBitcoin's price is currently fluctuating.\n[Key Drivers]\nSupport level: $70,000, Resistance level: $75,000.\n[Outlook]\nShort-term trend may remain within the current range.\n[Reminder]\nBe cautious and aware of the risks.",
   "aiSummaryUpdated": 1775772228.832663
