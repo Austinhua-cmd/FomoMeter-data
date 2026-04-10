@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71846.0,
-  "priceChange24h": 1.33,
+  "btcPrice": 72190.0,
+  "priceChange24h": 1.6,
   "fomoIndex": 16,
-  "aiCommentCN": "行情小涨，心跳大涨。",
-  "aiCommentEN": "Market rises, heart beats faster.",
-  "lastUpdated": 1775791814.10146,
+  "aiCommentCN": "行情小涨，心情大涨。",
+  "aiCommentEN": "Small gains, big mood boost.",
+  "lastUpdated": 1775799490.67536,
   "forexRates": {
     "CNY": 6.8347,
     "EUR": 0.8558,
@@ -13,7 +13,7 @@
   "historyYesterday": 14,
   "historyLastWeek": 9,
   "historyLastMonth": 15,
-  "aiSummaryCN": "【技术观点】\n当前比特币价格呈现震荡走势。\n【关键位置】\n支撑位：70,000 美元，阻力位：75,000 美元。\n【走势推演】\n短期走势或将维持在当前区间内振荡。\n【一句提醒】\n注意风险，谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's price is currently fluctuating.\n[Key Drivers]\nSupport level: $70,000, Resistance level: $75,000.\n[Outlook]\nShort-term trend may remain within the current range.\n[Reminder]\nBe cautious and aware of the risks.",
-  "aiSummaryUpdated": 1775772228.832663
+  "aiSummaryCN": "【交易观点】\n比特币短期有望维持上涨势头。\n【关键位置】\n72,000 美元支撑位。\n【短线策略】\n做多，目标价位 73,500 美元。\n【风险提醒】\n注意回调风险，设定止损位 70,500 美元。",
+  "aiSummaryEN": "[Today's View]\nBitcoin is expected to maintain its upward trend in the short term.\n[Key Drivers]\n$72,000 support level.\n[Outlook]\nLong position, target price $73,500.\n[Reminder]\nBe aware of the risk of a pullback, set a stop-loss at $70,500.",
+  "aiSummaryUpdated": 1775799491.479658
 }
