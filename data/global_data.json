@@ -1,10 +1,10 @@
 {
-  "btcPrice": 73301.0,
-  "priceChange24h": 1.24,
+  "btcPrice": 73087.0,
+  "priceChange24h": 1.21,
   "fomoIndex": 16,
-  "aiCommentCN": "静默是震荡的序幕，谁都会错过风口。",
-  "aiCommentEN": "Silence is a prelude to volatility, everyone misses the boat.",
-  "lastUpdated": 1775853112.395712,
+  "aiCommentCN": "行情在波动，心却在震荡",
+  "aiCommentEN": "Market waves crash, hearts shake harder",
+  "lastUpdated": 1775856803.210298,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
