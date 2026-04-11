@@ -1,10 +1,10 @@
 {
-  "btcPrice": 72826.0,
-  "priceChange24h": 1.37,
+  "btcPrice": 72891.0,
+  "priceChange24h": 1.61,
   "fomoIndex": 15,
-  "aiCommentCN": "市场宁静时，心跳最快。",
-  "aiCommentEN": "Calm markets bring nervous hearts.",
-  "lastUpdated": 1775900204.171971,
+  "aiCommentCN": "市场慢慢爬，心跳很快",
+  "aiCommentEN": "Market crawls, heart beats fast",
+  "lastUpdated": 1775903424.202788,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
@@ -13,7 +13,7 @@
   "historyYesterday": 16,
   "historyLastWeek": 11,
   "historyLastMonth": 18,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡整理。\n【关键位置】\n当前支撑位为70,000美元，阻力位为75,000美元。\n【走势推演】\n若跌破支撑位，可能会继续下跌；若突破阻力位，可能会继续上涨。\n【一句提醒】\n投资者应密切关注市场走势，谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is consolidating.\n[Key Drivers]\nCurrent support level is $70,000, resistance level is $75,000.\n[Outlook]\nIf it breaks through the support level, it may continue to decline; if it breaks through the resistance level, it may continue to rise.\n[Reminder]\nInvestors should closely monitor market trends and operate cautiously.",
-  "aiSummaryUpdated": 1775881276.933741
+  "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡整理。\n【关键位置】\n支撑位：70,000 美元，阻力位：75,000 美元。\n【走势推演】\n短期内或将维持在 70,000 美元至 75,000 美元区间内波动。\n【一句提醒】\n投资者需注意价格波动风险，谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is consolidating.\n[Key Drivers]\nSupport level: $70,000, Resistance level: $75,000.\n[Outlook]\nIt is expected to fluctuate within the range of $70,000 to $75,000 in the short term.\n[Reminder]\nInvestors should be aware of price volatility risks and operate with caution.",
+  "aiSummaryUpdated": 1775903424.933054
 }
