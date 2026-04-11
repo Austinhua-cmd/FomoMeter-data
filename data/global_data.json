@@ -1,10 +1,10 @@
 {
-  "btcPrice": 72867.0,
-  "priceChange24h": 0.62,
+  "btcPrice": 73130.0,
+  "priceChange24h": 0.47,
   "fomoIndex": 15,
-  "aiCommentCN": "静待牛市，心却早已狂奔。",
-  "aiCommentEN": "Waiting for a bull run, but my heart is already racing.",
-  "lastUpdated": 1775923157.904412,
+  "aiCommentCN": "大家都说稳健，但眼神一直在寻找买点。",
+  "aiCommentEN": "Everyone claims to be calm, but eyes are on the buy button.",
+  "lastUpdated": 1775926040.489952,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
@@ -13,7 +13,7 @@
   "historyYesterday": 16,
   "historyLastWeek": 11,
   "historyLastMonth": 18,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡整理。\n【关键位置】\n支撑位：70,000 美元，阻力位：75,000 美元。\n【走势推演】\n短期内或将维持在 70,000 美元至 75,000 美元区间内波动。\n【一句提醒】\n投资者需注意价格波动风险，谨慎操作。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is consolidating.\n[Key Drivers]\nSupport level: $70,000, Resistance level: $75,000.\n[Outlook]\nIt is expected to fluctuate within the range of $70,000 to $75,000 in the short term.\n[Reminder]\nInvestors should be aware of price volatility risks and operate with caution.",
-  "aiSummaryUpdated": 1775903424.933054
+  "aiSummaryCN": "【市场解读】\n当前比特币市场走势呈现小幅上涨趋势。\n【关键事件】\n近期全球热点事件如经济数据发布、监管政策调整等影响了市场走势。\n【市场影响】\n这些事件导致投资者情绪波动，进而影响比特币价格。\n【一句提醒】\n在当前市场环境下，投资者应谨慎操作，关注市场信号。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market trend shows a slight upward trend.\n[Key Drivers]\nRecent global hotspots such as economic data releases and regulatory policy adjustments have affected the market trend.\n[Outlook]\nThese events have caused investor sentiment to fluctuate, affecting the price of bitcoin.\n[Reminder]\nIn the current market environment, investors should be cautious and pay attention to market signals.",
+  "aiSummaryUpdated": 1775926041.232015
 }
