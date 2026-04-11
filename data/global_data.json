@@ -1,10 +1,10 @@
 {
-  "btcPrice": 72973.0,
-  "priceChange24h": 1.11,
+  "btcPrice": 72768.0,
+  "priceChange24h": 1.17,
   "fomoIndex": 15,
-  "aiCommentCN": "静默的市场里，恐惧在成长。",
-  "aiCommentEN": "Fear grows in a silent market.",
-  "lastUpdated": 1775872571.71166,
+  "aiCommentCN": "行情没变，梦想一直在变",
+  "aiCommentEN": "Market stays calm, dreams change fast",
+  "lastUpdated": 1775881276.067835,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
@@ -13,7 +13,7 @@
   "historyYesterday": 16,
   "historyLastWeek": 11,
   "historyLastMonth": 18,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势存在震荡修复的可能。\n【关键位置】\n当前支撑位在68,000美元左右，阻力位在75,000美元附近。\n【走势推演】\n若价格跌破支撑位，可能会继续下跌；反之，若突破阻力位，则有望继续上涨。\n【一句提醒】\n投资者应谨慎，密切关注市场变化。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend may experience a corrective rebound.\n[Key Drivers]\nCurrent support level is around $68,000, and the resistance level is near $75,000.\n[Outlook]\nIf the price breaks through the support level, it may continue to decline; otherwise, if it breaks through the resistance level, it is expected to continue rising.\n[Reminder]\nInvestors should be cautious and closely monitor market changes.",
-  "aiSummaryUpdated": 1775860388.089466
+  "aiSummaryCN": "【技术观点】\n比特币短期走势呈现震荡整理。\n【关键位置】\n当前支撑位为70,000美元，阻力位为75,000美元。\n【走势推演】\n若跌破支撑位，可能会继续下跌；若突破阻力位，可能会继续上涨。\n【一句提醒】\n投资者应密切关注市场走势，谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend is consolidating.\n[Key Drivers]\nCurrent support level is $70,000, resistance level is $75,000.\n[Outlook]\nIf it breaks through the support level, it may continue to decline; if it breaks through the resistance level, it may continue to rise.\n[Reminder]\nInvestors should closely monitor market trends and operate cautiously.",
+  "aiSummaryUpdated": 1775881276.933741
 }
