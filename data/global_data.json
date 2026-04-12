@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70793.0,
-  "priceChange24h": -3.42,
+  "btcPrice": 70736.0,
+  "priceChange24h": -3.18,
   "fomoIndex": 16,
-  "aiCommentCN": "行情没动，心跳挺快，刷屏也刷不出希望。",
-  "aiCommentEN": "Still hoping for a rebound, but it's just not coming.",
-  "lastUpdated": 1776035040.032415,
+  "aiCommentCN": "行情跌的时候，大家都想抄底，结果抄完继续跌。",
+  "aiCommentEN": "Market drops, we want to buy, but it just keeps falling.",
+  "lastUpdated": 1776038352.142085,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
