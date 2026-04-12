@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71905.0,
-  "priceChange24h": -1.47,
+  "btcPrice": 71524.0,
+  "priceChange24h": -1.69,
   "fomoIndex": 16,
-  "aiCommentCN": "行情小跌，心跳加速",
-  "aiCommentEN": "Market dips, heart skips beats",
-  "lastUpdated": 1775962152.052469,
+  "aiCommentCN": "价格跌了，梦想还在.",
+  "aiCommentEN": "Market drops, hopes remain.",
+  "lastUpdated": 1775971193.455348,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 12,
   "historyLastMonth": 15,
-  "aiSummaryCN": "【机构视角】\n机构投资者认为比特币当前的价格波动反映了市场对风险偏好的调整。\n【关键观察】\n比特币的24h涨跌为+0.6%，恐慌贪婪指数为15，表明市场仍然处于恐慌状态。\nBTC价格为73,431美元，机构投资者正在寻找买入机会。\n【未来展望】\n从机构投资视角来看，比特币的长期趋势仍然看好。\n【一句提醒】\n投资比特币存在较高风险，机构投资者应谨慎决策。",
-  "aiSummaryEN": "[Today's View]\nInstitutional investors believe Bitcoin's current price volatility reflects the market's adjustment to risk appetite.\n[Key Drivers]\nBitcoin's 24h change is +0.6%, with a Fear and Greed Index of 15, indicating the market remains in a state of fear.\nBTC's price is $73,431, and institutional investors are looking for buying opportunities.\n[Outlook]\nFrom an institutional investment perspective, Bitcoin's long-term trend remains positive.\n[Reminder]\nInvesting in Bitcoin carries high risk, and institutional investors should make cautious decisions.",
-  "aiSummaryUpdated": 1775946570.803693
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：BTC价格处于调整阶段\n【当前阶段】\n2-3个阶段特征：价格波动加剧、投资者情绪低落\n【未来可能走势】\n周期视角下的展望：可能会继续下跌，然后寻找底部\n【一句提醒】\n风险或操作提醒：投资者需谨慎，做好风险控制",
+  "aiSummaryEN": "[Today's View]\nCurrent stage: BTC price is in the adjustment phase\n[Key Drivers]\n2-3 key features: price volatility increases, investor sentiment is low\n[Outlook]\nCycle perspective outlook: may continue to decline, then find the bottom\n[Reminder]\nRisk or operation reminder: investors need to be cautious and control risks",
+  "aiSummaryUpdated": 1775971194.213488
 }
