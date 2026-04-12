@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71318.0,
-  "priceChange24h": -2.86,
+  "btcPrice": 70684.0,
+  "priceChange24h": -3.81,
   "fomoIndex": 16,
-  "aiCommentCN": "跌的时候想抄底，没抄着又开始涨。",
-  "aiCommentEN": "Fear of missing out is real, especially when it bounces back.",
-  "lastUpdated": 1776029449.043237,
+  "aiCommentCN": "跌的时候想抄底，抄完继续跌",
+  "aiCommentEN": "Prices drop, we panic buy, and it drops more",
+  "lastUpdated": 1776032953.609887,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 12,
   "historyLastMonth": 15,
-  "aiSummaryCN": "【交易观点】\n比特币短期内可能继续下跌。\n【关键位置】\n71,000 美元以下为关键支撑位。\n【短线策略】\n可以考虑在 70,500 美元附近做多，目标位 72,000 美元。\n【风险提醒】\n请注意市场波动风险，恐慌贪婪指数较低，建议谨慎交易。",
-  "aiSummaryEN": "[Today's View]\nBitcoin may continue to decline in the short term.\n[Key Drivers]\n$71,000 is a key support level.\n[Outlook]\nConsider buying around $70,500, targeting $72,000.\n[Reminder]\nBe aware of market volatility risks, the Fear and Greed Index is low, trade with caution.",
-  "aiSummaryUpdated": 1776015047.710648
+  "aiSummaryCN": "【市场解读】\n当前比特币走势呈现下跌趋势。\n【关键事件】\n近期全球热点事件，如经济不确定性和监管政策，影响了比特币价格。\n【市场影响】\n这些事件导致投资者情绪低落，市场出现恐慌性抛售。\n【一句提醒】\n投资者应谨慎操作，关注市场信号。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin trend is showing a downward trend.\n[Key Drivers]\nRecent global hotspots, such as economic uncertainty and regulatory policies, have affected the price of bitcoin.\n[Outlook]\nThese events have led to a decline in investor sentiment, with the market experiencing panic selling.\n[Reminder]\nInvestors should be cautious and monitor market signals.",
+  "aiSummaryUpdated": 1776032954.344819
 }
