@@ -1,10 +1,10 @@
 {
-  "btcPrice": 71580.0,
-  "priceChange24h": -1.48,
+  "btcPrice": 71540.0,
+  "priceChange24h": -1.87,
   "fomoIndex": 16,
-  "aiCommentCN": "静静等待趋势，心却很忙碌",
-  "aiCommentEN": "Waiting calmly, but the heart is racing",
-  "lastUpdated": 1775985042.416015,
+  "aiCommentCN": "跌的时候想抄底，想着想着就睡着了",
+  "aiCommentEN": "Fear of missing out turns to fear of losing sleep",
+  "lastUpdated": 1775988340.976773,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
@@ -13,7 +13,7 @@
   "historyYesterday": 15,
   "historyLastWeek": 12,
   "historyLastMonth": 15,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：BTC价格处于调整阶段\n【当前阶段】\n2-3个阶段特征：价格波动加剧、投资者情绪低落\n【未来可能走势】\n周期视角下的展望：可能会继续下跌，然后寻找底部\n【一句提醒】\n风险或操作提醒：投资者需谨慎，做好风险控制",
-  "aiSummaryEN": "[Today's View]\nCurrent stage: BTC price is in the adjustment phase\n[Key Drivers]\n2-3 key features: price volatility increases, investor sentiment is low\n[Outlook]\nCycle perspective outlook: may continue to decline, then find the bottom\n[Reminder]\nRisk or operation reminder: investors need to be cautious and control risks",
-  "aiSummaryUpdated": 1775971194.213488
+  "aiSummaryCN": "【多空格局】\n比特币当前呈现出激烈的多空博弈。\n【多头理由】\n多头认为当前价格有较强的支撑，可能会迎来反弹。\n【空头理由】\n空头则认为市场恐慌情绪较高，可能会进一步下跌。\n【市场展望】\n短期内可能会出现波动，需要密切关注市场动态，BTC价格：71,540 美元，24h涨跌：-1.9%，恐慌贪婪指数：16",
+  "aiSummaryEN": "[Today's View]\nBitcoin is currently in a fierce tug-of-war between bulls and bears.\n[Key Drivers]\nBulls believe the current price has strong support and may rebound.\n[Outlook]\nBears think the market is highly panicked and may fall further.\n[Reminder]\nShort-term fluctuations are possible, and market dynamics need to be closely monitored, BTC price: $71,540, 24h change: -1.9%, Fear and Greed Index: 16",
+  "aiSummaryUpdated": 1775988342.015842
 }
