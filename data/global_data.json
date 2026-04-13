@@ -1,10 +1,10 @@
 {
-  "btcPrice": 70775.0,
-  "priceChange24h": -1.31,
+  "btcPrice": 70827.0,
+  "priceChange24h": -1.15,
   "fomoIndex": 12,
-  "aiCommentCN": "大家都说稳住，但手机一直在看行情。",
-  "aiCommentEN": "Market stays calm, but our hearts are racing.",
-  "lastUpdated": 1776068823.849823,
+  "aiCommentCN": "价格一直在震荡，心情一直在波动。",
+  "aiCommentEN": "Prices fluctuate, emotions do too.",
+  "lastUpdated": 1776075236.837397,
   "forexRates": {
     "CNY": 6.8284,
     "EUR": 0.8539,
@@ -13,7 +13,7 @@
   "historyYesterday": 16,
   "historyLastWeek": 13,
   "historyLastMonth": 16,
-  "aiSummaryCN": "【机构视角】\n比特币从机构投资者的角度来看，目前仍然是价值投资的良机。\n【关键观察】\nBTC价格：70,991 美元，24h涨跌：-1.1%，恐慌贪婪指数：12 表明市场仍然处于恐慌状态。\n机构投资者可以考虑逐步介入。\n【未来展望】\n从机构视角来看，比特币的长期趋势仍然看涨。\n【一句提醒】\n投资比特币仍然存在较高风险，机构投资者需要谨慎评估市场情况。",
-  "aiSummaryEN": "[Today's View]\nFrom an institutional investor's perspective, Bitcoin is still a valuable investment opportunity.\n[Key Drivers]\nBTC price: $70,991, 24h change: -1.1%, Fear and Greed Index: 12, indicating the market is still in a state of panic.\nInstitutional investors can consider gradual entry.\n[Outlook]\nFrom an institutional perspective, Bitcoin's long-term trend is still bullish.\n[Reminder]\nInvesting in Bitcoin still carries high risks, and institutional investors need to carefully assess the market situation.",
-  "aiSummaryUpdated": 1776060675.489607
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：比特币可能处于熊市周期的中期阶段。\n【当前阶段】\n当前阶段特征：投资者情绪低迷，市场交易量减少，价格波动性增强。\n【未来可能走势】\n周期视角下的展望：如果价格继续下跌，可能会触发更大的跌势，但也可能会出现反弹。\n【一句提醒】\n风险或操作提醒：投资者应保持谨慎，密切关注市场动态。",
+  "aiSummaryEN": "[Today's View]\nCurrent market stage: Bitcoin may be in the middle of a bear market cycle.\n[Key Drivers]\nKey characteristics: Investor sentiment is low, trading volume has decreased, and price volatility has increased.\n[Outlook]\nCycle-based outlook: If the price continues to fall, it may trigger a larger decline, but a rebound is also possible.\n[Reminder]\nRisk or operation reminder: Investors should remain cautious and closely monitor market dynamics.",
+  "aiSummaryUpdated": 1776075237.916944
 }
