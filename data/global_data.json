@@ -1,19 +1,19 @@
 {
-  "btcPrice": 72125.0,
-  "priceChange24h": 1.9,
+  "btcPrice": 72045.0,
+  "priceChange24h": 1.6,
   "fomoIndex": 12,
-  "aiCommentCN": "市场在沉默，散户在等待.",
-  "aiCommentEN": "Market is quiet, investors are waiting.",
-  "lastUpdated": 1776092363.604258,
+  "aiCommentCN": "行情缓慢时，耐心是最好的助力",
+  "aiCommentEN": "Patience is key when markets move slowly",
+  "lastUpdated": 1776097172.200493,
   "forexRates": {
-    "CNY": 6.8284,
-    "EUR": 0.8539,
-    "GBP": 0.74379
+    "CNY": 6.8322,
+    "EUR": 0.85587,
+    "GBP": 0.7451
   },
   "historyYesterday": 16,
   "historyLastWeek": 13,
   "historyLastMonth": 16,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段：比特币可能处于熊市周期的中期阶段。\n【当前阶段】\n当前阶段特征：投资者情绪低迷，市场交易量减少，价格波动性增强。\n【未来可能走势】\n周期视角下的展望：如果价格继续下跌，可能会触发更大的跌势，但也可能会出现反弹。\n【一句提醒】\n风险或操作提醒：投资者应保持谨慎，密切关注市场动态。",
-  "aiSummaryEN": "[Today's View]\nCurrent market stage: Bitcoin may be in the middle of a bear market cycle.\n[Key Drivers]\nKey characteristics: Investor sentiment is low, trading volume has decreased, and price volatility has increased.\n[Outlook]\nCycle-based outlook: If the price continues to fall, it may trigger a larger decline, but a rebound is also possible.\n[Reminder]\nRisk or operation reminder: Investors should remain cautious and closely monitor market dynamics.",
-  "aiSummaryUpdated": 1776075237.916944
+  "aiSummaryCN": "【技术观点】\n比特币短期走势将呈现震荡整理。\n【关键位置】\n支撑位：69,000 美元，阻力位：75,000 美元。\n【走势推演】\n若跌破支撑位，可能下探至 65,000 美元。\n【一句提醒】\n关注恐慌贪婪指数，避免过度乐观。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend will be consolidating.\n[Key Drivers]\nSupport level: $69,000, Resistance level: $75,000.\n[Outlook]\nIf it breaks through the support level, it may drop to $65,000.\n[Reminder]\nMonitor the Fear and Greed Index to avoid excessive optimism.",
+  "aiSummaryUpdated": 1776097172.945587
 }
