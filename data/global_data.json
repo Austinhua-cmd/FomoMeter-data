@@ -1,18 +1,18 @@
 {
-  "btcPrice": 74140.0,
-  "priceChange24h": -0.71,
-  "fomoIndex": 21,
-  "aiCommentCN": "行情睡着了，心还醒着呢",
-  "aiCommentEN": "Market is sleeping, but hearts are still awake",
-  "lastUpdated": 1776208202.207867,
+  "btcPrice": 74344.0,
+  "priceChange24h": -0.21,
+  "fomoIndex": 23,
+  "aiCommentCN": "不敢买，怕跌给你看",
+  "aiCommentEN": "Fear of buying, fear of missing out too.",
+  "lastUpdated": 1776211525.566812,
   "forexRates": {
     "CNY": 6.8158,
     "EUR": 0.84796,
     "GBP": 0.73699
   },
-  "historyYesterday": 12,
-  "historyLastWeek": 11,
-  "historyLastMonth": 15,
+  "historyYesterday": 21,
+  "historyLastWeek": 17,
+  "historyLastMonth": 23,
   "aiSummaryCN": "【多空格局】\n比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为，当前的价格仍然具有较强的投资价值，市场信心逐渐恢复。\n【空头理由】\n空头则认为，近期的涨势可能是反弹，恐慌贪婪指数仍然偏低。\n【市场展望】\n短期内，价格可能会继续波动，72,000 美元至 76,000 美元区间将成为关键支撑位。",
   "aiSummaryEN": "[Today's View]\nThe Bitcoin market is experiencing intense bullish and bearish struggles.\n[Key Drivers]\nBulls believe the current price still has strong investment value, with market confidence gradually recovering.\n[Outlook]\nBears think the recent rise may be a rebound, with the fear and greed index still being low.\n[Reminder]\nIn the short term, the price may continue to fluctuate, with the $72,000 to $76,000 range becoming a key support level.",
   "aiSummaryUpdated": 1776204631.429008
