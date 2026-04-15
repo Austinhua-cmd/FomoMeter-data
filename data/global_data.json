@@ -1,19 +1,19 @@
 {
-  "btcPrice": 74157.0,
-  "priceChange24h": -1.44,
+  "btcPrice": 73825.0,
+  "priceChange24h": -2.17,
   "fomoIndex": 23,
-  "aiCommentCN": "跌的时候想抄底，稳的时候想加仓。",
-  "aiCommentEN": "Fear of missing out when it's low, fear of losing when it's high.",
-  "lastUpdated": 1776264773.433718,
+  "aiCommentCN": "行情没动，心跳挺快，静候价格暴走。",
+  "aiCommentEN": "Market stays calm, but my heart beats fast.",
+  "lastUpdated": 1776268940.861607,
   "forexRates": {
-    "CNY": 6.8158,
-    "EUR": 0.84796,
-    "GBP": 0.73699
+    "CNY": 6.8211,
+    "EUR": 0.8489,
+    "GBP": 0.73799
   },
   "historyYesterday": 21,
   "historyLastWeek": 17,
   "historyLastMonth": 23,
-  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪较为谨慎。\n【情绪信号】\n社交媒体讨论热度下降、散户活跃度减少、衍生品多空比偏空。\n【短期展望】\n未来几天可能维持震荡走势。\n【一句提醒】\n投资者需保持警惕，严格控制仓位。",
-  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market sentiment is cautious.\n[Key Drivers]\nDecreased social media discussion, reduced retail activity, and a bearish derivatives ratio.\n[Outlook]\nThe market may maintain a volatile trend in the next few days.\n[Reminder]\nInvestors should remain vigilant and strictly control their positions.",
-  "aiSummaryUpdated": 1776249714.854584
+  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为熊市末期。\n【当前阶段】\n当前阶段特征包括：市场低迷，投资者情绪较差，价格波动较大。\n价格下跌带来投资机会。\n市场开始呈现出底部信号。\n【未来可能走势】\n周期视角下的展望是：随着市场底部的形成，价格可能会逐渐回升。\n【一句提醒】\n风险或操作提醒：在低迷的市场中，投资者需要保持耐心和谨慎，寻找价值投资机会。",
+  "aiSummaryEN": "[Today's View]\nWe are currently in the late stage of a bear market.\n[Key Drivers]\nCharacteristics of the current stage include: a sluggish market, low investor sentiment, and high price volatility.\nPrice declines bring investment opportunities.\nThe market is starting to show signs of a bottom.\n[Outlook]\nFrom a cyclical perspective, the outlook is: as the market forms a bottom, prices may gradually rebound.\n[Reminder]\nReminder: in a sluggish market, investors need to be patient and cautious, looking for value investment opportunities.",
+  "aiSummaryUpdated": 1776268950.045681
 }
