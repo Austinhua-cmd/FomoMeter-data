@@ -1,10 +1,10 @@
 {
-  "btcPrice": 74791.0,
-  "priceChange24h": 0.75,
+  "btcPrice": 74956.0,
+  "priceChange24h": 0.96,
   "fomoIndex": 23,
-  "aiCommentCN": "行情如初恋，总想着上车。",
-  "aiCommentEN": "Market trends are like first loves, we always want to jump in.",
-  "lastUpdated": 1776287573.564348,
+  "aiCommentCN": "价格涨的时候，散户担心会跌，价格跌的时候，散户担心没买够。",
+  "aiCommentEN": "Rising prices bring fear of falls, falling prices bring fear of missing out.",
+  "lastUpdated": 1776290905.821295,
   "forexRates": {
     "CNY": 6.8211,
     "EUR": 0.8489,
@@ -13,7 +13,7 @@
   "historyYesterday": 21,
   "historyLastWeek": 17,
   "historyLastMonth": 23,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为熊市末期。\n【当前阶段】\n当前阶段特征包括：市场低迷，投资者情绪较差，价格波动较大。\n价格下跌带来投资机会。\n市场开始呈现出底部信号。\n【未来可能走势】\n周期视角下的展望是：随着市场底部的形成，价格可能会逐渐回升。\n【一句提醒】\n风险或操作提醒：在低迷的市场中，投资者需要保持耐心和谨慎，寻找价值投资机会。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in the late stage of a bear market.\n[Key Drivers]\nCharacteristics of the current stage include: a sluggish market, low investor sentiment, and high price volatility.\nPrice declines bring investment opportunities.\nThe market is starting to show signs of a bottom.\n[Outlook]\nFrom a cyclical perspective, the outlook is: as the market forms a bottom, prices may gradually rebound.\n[Reminder]\nReminder: in a sluggish market, investors need to be patient and cautious, looking for value investment opportunities.",
-  "aiSummaryUpdated": 1776268950.045681
+  "aiSummaryCN": "【多空格局】\n当前比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为，BTC价格已处于历史底部区域，投资者可以逢低布局。\n【空头理由】\n空头则认为，全球经济不确定性加剧，投资者风险偏好降低。\n【市场展望】\n短期内，BTC价格可能继续震荡，投资者需谨慎操作。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market is experiencing a fierce tug-of-war between bulls and bears.\n[Key Drivers]\nBulls believe that the BTC price has reached a historical bottom and investors can layout at a low level.\n[Outlook]\nBears, on the other hand, believe that global economic uncertainty is increasing, and investors' risk appetite is decreasing.\n[Reminder]\nIn the short term, the BTC price may continue to fluctuate, and investors need to be cautious.",
+  "aiSummaryUpdated": 1776290906.887842
 }
