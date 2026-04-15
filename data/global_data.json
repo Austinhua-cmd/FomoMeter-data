@@ -1,10 +1,10 @@
 {
-  "btcPrice": 74041.0,
-  "priceChange24h": -1.01,
+  "btcPrice": 73872.0,
+  "priceChange24h": -0.73,
   "fomoIndex": 23,
-  "aiCommentCN": "静静等待，不如静静看。",
-  "aiCommentEN": "Waiting is not seeing, just watching.",
-  "lastUpdated": 1776244492.168285,
+  "aiCommentCN": "市场静默，散户心跳加速",
+  "aiCommentEN": "Market stays quiet, hearts beat faster",
+  "lastUpdated": 1776249713.956683,
   "forexRates": {
     "CNY": 6.8158,
     "EUR": 0.84796,
@@ -13,7 +13,7 @@
   "historyYesterday": 21,
   "historyLastWeek": 17,
   "historyLastMonth": 23,
-  "aiSummaryCN": "【今日观点】\n当前市场情绪谨慎，投资者观望。\n【驱动因素】\n美联储政策、ETF资金、美股走势对市场产生影响。\n【市场展望】\n未来24-72小时内，BTC价格可能会继续波动。\n【一句提醒】\n投资者应谨慎交易，关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nThe current market sentiment is cautious, with investors waiting and seeing.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the performance of the US stock market are driving the market.\n[Outlook]\nIn the next 24-72 hours, the price of BTC may continue to fluctuate.\n[Reminder]\nInvestors should trade with caution and pay attention to market signals.",
-  "aiSummaryUpdated": 1776232688.971551
+  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪较为谨慎。\n【情绪信号】\n社交媒体讨论热度下降、散户活跃度减少、衍生品多空比偏空。\n【短期展望】\n未来几天可能维持震荡走势。\n【一句提醒】\n投资者需保持警惕，严格控制仓位。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market sentiment is cautious.\n[Key Drivers]\nDecreased social media discussion, reduced retail activity, and a bearish derivatives ratio.\n[Outlook]\nThe market may maintain a volatile trend in the next few days.\n[Reminder]\nInvestors should remain vigilant and strictly control their positions.",
+  "aiSummaryUpdated": 1776249714.854584
 }
