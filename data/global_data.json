@@ -1,14 +1,14 @@
 {
-  "btcPrice": 74572.0,
-  "priceChange24h": 0.88,
+  "btcPrice": 74289.0,
+  "priceChange24h": 0.22,
   "fomoIndex": 23,
-  "aiCommentCN": "价格缓升，心情急升.",
-  "aiCommentEN": "Market rises, so do emotions.",
-  "lastUpdated": 1776347158.96028,
+  "aiCommentCN": "行情慢如龟，心跳如兔。",
+  "aiCommentEN": "Market moves slow, heart beats fast.",
+  "lastUpdated": 1776352971.154986,
   "forexRates": {
-    "CNY": 6.8211,
-    "EUR": 0.8489,
-    "GBP": 0.73799
+    "CNY": 6.8213,
+    "EUR": 0.84875,
+    "GBP": 0.73836
   },
   "historyYesterday": 23,
   "historyLastWeek": 14,
