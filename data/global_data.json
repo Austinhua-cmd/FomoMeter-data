@@ -1,18 +1,18 @@
 {
-  "btcPrice": 74864.0,
-  "priceChange24h": 0.98,
+  "btcPrice": 74770.0,
+  "priceChange24h": 0.57,
   "fomoIndex": 23,
-  "aiCommentCN": "行情稳的时候，心跳最快。",
-  "aiCommentEN": "Market's calm, but hearts are racing.",
-  "lastUpdated": 1776294516.913893,
+  "aiCommentCN": "大家都说稳健，但心一直在发抖",
+  "aiCommentEN": "Market says calm, but hearts are racing",
+  "lastUpdated": 1776297914.279822,
   "forexRates": {
     "CNY": 6.8211,
     "EUR": 0.8489,
     "GBP": 0.73799
   },
-  "historyYesterday": 21,
-  "historyLastWeek": 17,
-  "historyLastMonth": 23,
+  "historyYesterday": 23,
+  "historyLastWeek": 14,
+  "historyLastMonth": 28,
   "aiSummaryCN": "【多空格局】\n当前比特币市场呈现出激烈的多空博弈。\n【多头理由】\n多头认为，BTC价格已处于历史底部区域，投资者可以逢低布局。\n【空头理由】\n空头则认为，全球经济不确定性加剧，投资者风险偏好降低。\n【市场展望】\n短期内，BTC价格可能继续震荡，投资者需谨慎操作。",
   "aiSummaryEN": "[Today's View]\nThe current Bitcoin market is experiencing a fierce tug-of-war between bulls and bears.\n[Key Drivers]\nBulls believe that the BTC price has reached a historical bottom and investors can layout at a low level.\n[Outlook]\nBears, on the other hand, believe that global economic uncertainty is increasing, and investors' risk appetite is decreasing.\n[Reminder]\nIn the short term, the BTC price may continue to fluctuate, and investors need to be cautious.",
   "aiSummaryUpdated": 1776290906.887842
