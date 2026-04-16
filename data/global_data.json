@@ -1,10 +1,10 @@
 {
-  "btcPrice": 74289.0,
-  "priceChange24h": 0.22,
+  "btcPrice": 74353.0,
+  "priceChange24h": 0.63,
   "fomoIndex": 23,
-  "aiCommentCN": "行情慢如龟，心跳如兔。",
-  "aiCommentEN": "Market moves slow, heart beats fast.",
-  "lastUpdated": 1776352971.154986,
+  "aiCommentCN": "行情慢如蜗牛，心跳如野兔",
+  "aiCommentEN": "Market moves slow, heart beats fast",
+  "lastUpdated": 1776358425.213482,
   "forexRates": {
     "CNY": 6.8213,
     "EUR": 0.84875,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 14,
   "historyLastMonth": 28,
-  "aiSummaryCN": "【AI综合判断】\n比特币市场处于震荡趋势，一句综合判断是：价格将在短期内维持稳定。\n【三大驱动因素】\n1. 宏观经济环境\n2. 资金流入出情况\n3. 市场情绪波动\n【未来展望】\n短期展望：价格可能会继续震荡，寻找突破点。\n【一句提醒】\n投资者应注意风险，保持谨慎的投资策略。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market is in a fluctuation trend, a comprehensive judgment is: the price will remain stable in the short term.\n[Key Drivers]\n1. Macro economic environment\n2. Capital inflow and outflow\n3. Market sentiment fluctuation\n[Outlook]\nShort-term outlook: the price may continue to fluctuate, looking for a breakthrough point.\n[Reminder]\nInvestors should be aware of the risks and maintain a cautious investment strategy.",
-  "aiSummaryUpdated": 1776336248.223428
+  "aiSummaryCN": "【技术观点】\n比特币短期走势可能会维持震荡。\n【关键位置】\n支撑位：70,000 美元，阻力位：80,000 美元。\n【走势推演】\n如果价格突破阻力位，可能会上涨至85,000 美元。\n【一句提醒】\n注意风险，避免过度杠杆。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend may remain volatile.\n[Key Drivers]\nSupport level: $70,000, Resistance level: $80,000.\n[Outlook]\nIf the price breaks through the resistance level, it may rise to $85,000.\n[Reminder]\nBe aware of the risk and avoid over-leveraging.",
+  "aiSummaryUpdated": 1776358426.033037
 }
