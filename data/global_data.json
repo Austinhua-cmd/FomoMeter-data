@@ -1,10 +1,10 @@
 {
-  "btcPrice": 74952.0,
-  "priceChange24h": 0.44,
+  "btcPrice": 74923.0,
+  "priceChange24h": -0.12,
   "fomoIndex": 23,
-  "aiCommentCN": "行情小涨，心跳大涨。",
-  "aiCommentEN": "Small price bump, big heartbeat.",
-  "lastUpdated": 1776375539.055266,
+  "aiCommentCN": "市场的沉默，是散户的心跳加速",
+  "aiCommentEN": "Market silence means heartbeat acceleration",
+  "lastUpdated": 1776378956.069363,
   "forexRates": {
     "CNY": 6.8213,
     "EUR": 0.84875,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 14,
   "historyLastMonth": 28,
-  "aiSummaryCN": "【技术观点】\n比特币短期走势可能会维持震荡。\n【关键位置】\n支撑位：70,000 美元，阻力位：80,000 美元。\n【走势推演】\n如果价格突破阻力位，可能会上涨至85,000 美元。\n【一句提醒】\n注意风险，避免过度杠杆。",
-  "aiSummaryEN": "[Today's View]\nBitcoin's short-term trend may remain volatile.\n[Key Drivers]\nSupport level: $70,000, Resistance level: $80,000.\n[Outlook]\nIf the price breaks through the resistance level, it may rise to $85,000.\n[Reminder]\nBe aware of the risk and avoid over-leveraging.",
-  "aiSummaryUpdated": 1776358426.033037
+  "aiSummaryCN": "【AI综合判断】\n比特币当前处于震荡调整阶段。\n【三大驱动因素】\n1. 宏观经济政策变化\n2. 资金流入出变化\n3. 市场情绪波动\n【未来展望】\n短期内价格可能继续震荡。\n【一句提醒】\n投资者需谨慎操作，控制风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin is currently in a fluctuation adjustment phase.\n[Key Drivers]\n1. Changes in macroeconomic policies\n2. Changes in fund inflows and outflows\n3. Market sentiment fluctuations\n[Outlook]\nPrices may continue to fluctuate in the short term.\n[Reminder]\nInvestors need to operate cautiously and control risks.",
+  "aiSummaryUpdated": 1776378956.900405
 }
