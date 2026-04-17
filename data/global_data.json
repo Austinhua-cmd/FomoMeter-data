@@ -1,10 +1,10 @@
 {
-  "btcPrice": 74747.0,
-  "priceChange24h": 0.06,
+  "btcPrice": 74614.0,
+  "priceChange24h": -0.43,
   "fomoIndex": 21,
-  "aiCommentCN": "行情不动，散户心跳动得快",
-  "aiCommentEN": "Market stays calm, hearts still racing",
-  "lastUpdated": 1776391770.407192,
+  "aiCommentCN": "市场静默时，心跳声最响亮",
+  "aiCommentEN": "Market silence is loudest heartbeat of all.",
+  "lastUpdated": 1776402873.564847,
   "forexRates": {
     "CNY": 6.8213,
     "EUR": 0.84875,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 16,
   "historyLastMonth": 26,
-  "aiSummaryCN": "【AI综合判断】\n比特币当前处于震荡调整阶段。\n【三大驱动因素】\n1. 宏观经济政策变化\n2. 资金流入出变化\n3. 市场情绪波动\n【未来展望】\n短期内价格可能继续震荡。\n【一句提醒】\n投资者需谨慎操作，控制风险。",
-  "aiSummaryEN": "[Today's View]\nBitcoin is currently in a fluctuation adjustment phase.\n[Key Drivers]\n1. Changes in macroeconomic policies\n2. Changes in fund inflows and outflows\n3. Market sentiment fluctuations\n[Outlook]\nPrices may continue to fluctuate in the short term.\n[Reminder]\nInvestors need to operate cautiously and control risks.",
-  "aiSummaryUpdated": 1776378956.900405
+  "aiSummaryCN": "【市场解读】\n当前比特币市场走势呈现震荡状态。\n【关键事件】\n近期全球经济不确定性加剧、监管政策调整、市场情绪波动。\n【市场影响】\n这些事件导致投资者情绪波动，影响比特币价格。\n【一句提醒】\n投资者应保持警惕，风险管理至关重要。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market trend is in a state of fluctuation.\n[Key Drivers]\nRecent global economic uncertainty, regulatory policy adjustments, and market sentiment fluctuations.\n[Outlook]\nThese events have led to investor sentiment fluctuations, affecting the Bitcoin price.\n[Reminder]\nInvestors should remain vigilant, with risk management being crucial.",
+  "aiSummaryUpdated": 1776402874.495588
 }
