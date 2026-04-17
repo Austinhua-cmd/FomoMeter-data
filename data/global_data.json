@@ -1,10 +1,10 @@
 {
-  "btcPrice": 77733.0,
-  "priceChange24h": 4.74,
+  "btcPrice": 77977.0,
+  "priceChange24h": 5.17,
   "fomoIndex": 21,
-  "aiCommentCN": "行情缓慢，情绪急躁。",
-  "aiCommentEN": "Market slow, emotions rush.",
-  "lastUpdated": 1776440116.952253,
+  "aiCommentCN": "宁静的市场里，隐藏着狂躁的灵魂",
+  "aiCommentEN": "Calm markets hide frantic souls",
+  "lastUpdated": 1776444732.133322,
   "forexRates": {
     "CNY": 6.8223,
     "EUR": 0.84767,
@@ -13,7 +13,7 @@
   "historyYesterday": 23,
   "historyLastWeek": 16,
   "historyLastMonth": 26,
-  "aiSummaryCN": "【市场解读】\n比特币价格小幅上涨，当前价格为75,645美元，24小时涨幅为+1.7%。\n【关键事件】\n近期关键事件包括全球经济形势、监管政策调整和市场情绪变化。\n【市场影响】\n这些事件对比特币市场产生了积极影响，投资者信心增强。\n【一句提醒】\n投资者应谨慎行事，关注市场风险和波动。",
-  "aiSummaryEN": "[Today's View]\nBitcoin price slightly rises to $75,645 with a 24-hour increase of +1.7%.\n[Key Drivers]\nRecent key events include global economic trends, regulatory policy adjustments, and market sentiment shifts.\n[Outlook]\nThese events have had a positive impact on the Bitcoin market, boosting investor confidence.\n[Reminder]\nInvestors should be cautious, monitoring market risks and fluctuations.",
-  "aiSummaryUpdated": 1776421207.546254
+  "aiSummaryCN": "【市场解读】\n比特币价格近期呈现上涨趋势，主要受多个积极因素驱动。\n【关键事件】\n近期关键事件包括全球经济复苏、监管环境优化以及机构投资者入场。\n【市场影响】\n这些事件对比特币市场产生了积极影响，投资者信心增强，市场氛围向好。\n【一句提醒】\n投资者应保持警惕，密切关注市场动向，避免过度乐观带来的风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's price has been on the rise, driven by several positive factors.\n[Key Drivers]\nKey events include global economic recovery, improved regulatory environment, and institutional investor participation.\n[Outlook]\nThese events have had a positive impact on the Bitcoin market, boosting investor confidence and market sentiment.\n[Reminder]\nInvestors should remain cautious, closely monitoring market trends to avoid risks associated with excessive optimism.",
+  "aiSummaryUpdated": 1776444733.217667
 }
