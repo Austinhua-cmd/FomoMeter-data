@@ -1,10 +1,10 @@
 {
-  "btcPrice": 76255.0,
-  "priceChange24h": 1.34,
+  "btcPrice": 76058.0,
+  "priceChange24h": 0.7,
   "fomoIndex": 26,
-  "aiCommentCN": "行情睡着了，散户醒着.",
-  "aiCommentEN": "Market sleeps, investors are awake.",
-  "lastUpdated": 1776508594.012244,
+  "aiCommentCN": "行情小涨，心情大涨",
+  "aiCommentEN": "Small price bump, big mood booster",
+  "lastUpdated": 1776511895.200719,
   "forexRates": {
     "CNY": 6.8223,
     "EUR": 0.84767,
