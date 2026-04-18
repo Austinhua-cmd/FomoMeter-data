@@ -1,10 +1,10 @@
 {
-  "btcPrice": 76217.0,
-  "priceChange24h": -1.97,
+  "btcPrice": 76060.0,
+  "priceChange24h": -2.62,
   "fomoIndex": 26,
-  "aiCommentCN": "跌的时候想抄底，抄底了一发现还是跌",
-  "aiCommentEN": "Market falls, you buy, it falls more anyway",
-  "lastUpdated": 1776526453.32574,
+  "aiCommentCN": "跌的时候想抄底，稳的时候想逃顶。",
+  "aiCommentEN": "Fear of missing out, fear of losing in.",
+  "lastUpdated": 1776530105.245136,
   "forexRates": {
     "CNY": 6.8223,
     "EUR": 0.84767,
@@ -13,7 +13,7 @@
   "historyYesterday": 21,
   "historyLastWeek": 15,
   "historyLastMonth": 23,
-  "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持上涨势头。\n【关键位置】\n当前价位76,255美元，需关注78,000美元一线。\n【短线策略】\n考虑做多，目标价位78,500美元。\n【风险提醒】\n注意78,000美元阻力位，若跌破76,000美元需及时止损。",
-  "aiSummaryEN": "[Today's View]\nBitcoin is likely to maintain its upward trend in the short term.\n[Key Drivers]\nCurrent price is $76,255, with $78,000 as a key resistance level.\n[Outlook]\nConsider going long, targeting $78,500.\n[Reminder]\nBe aware of the $78,000 resistance and be prepared to stop losses if the price falls below $76,000.",
-  "aiSummaryUpdated": 1776508595.065045
+  "aiSummaryCN": "【交易观点】\n比特币短期内可能会继续下跌。\n【关键位置】\n76,000 美元是关键支撑位，破位后将继续下跌。\n【短线策略】\n做空为主，注意76,000 美元支撑位。\n【风险提醒】\n风险较高，建议控制仓位",
+  "aiSummaryEN": "[Today's View]\nBitcoin may continue to fall in the short term.\n[Key Drivers]\n$76,000 is the key support level, a break below will lead to further decline.\n[Outlook]\nShort selling is the main strategy, pay attention to the $76,000 support level.\n[Reminder]\nHigh risk, it is recommended to control the position",
+  "aiSummaryUpdated": 1776530106.213571
 }
