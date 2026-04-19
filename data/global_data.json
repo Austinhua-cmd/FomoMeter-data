@@ -1,18 +1,18 @@
 {
-  "btcPrice": 75728.0,
-  "priceChange24h": -1.82,
-  "fomoIndex": 26,
-  "aiCommentCN": "价格掉了，梦想还在.",
-  "aiCommentEN": "Market dips, hopes remain.",
-  "lastUpdated": 1776556745.939513,
+  "btcPrice": 75517.0,
+  "priceChange24h": -2.17,
+  "fomoIndex": 27,
+  "aiCommentCN": "跌的时候想抄底，抄完还继续跌",
+  "aiCommentEN": "Falling prices make us want to buy, but it just keeps falling",
+  "lastUpdated": 1776569593.807863,
   "forexRates": {
     "CNY": 6.8223,
     "EUR": 0.84767,
     "GBP": 0.7389
   },
-  "historyYesterday": 21,
-  "historyLastWeek": 15,
-  "historyLastMonth": 23,
+  "historyYesterday": 26,
+  "historyLastWeek": 16,
+  "historyLastMonth": 11,
   "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪较为谨慎，投资者观望为主。\n【情绪信号】\n社交媒体讨论热度降低、散户活跃度下降、衍生品多空比偏空。\n【短期展望】\n未来几天可能继续震荡，关注75,000美元支撑位。\n【一句提醒】\n投资者应保持耐心，等待市场明朗化后再做决策。",
   "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is cautious, with investors waiting on the sidelines.\n[Key Drivers]\nSocial media discussion heat decreased, retail investor activity declined, and derivatives long-short ratio is biased towards short.\n[Outlook]\nIt may continue to fluctuate in the next few days, paying attention to the $75,000 support level.\n[Reminder]\nInvestors should be patient and wait for the market to clarify before making decisions.",
   "aiSummaryUpdated": 1776551397.802986
