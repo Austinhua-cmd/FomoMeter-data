@@ -1,10 +1,10 @@
 {
-  "btcPrice": 74769.0,
-  "priceChange24h": -1.28,
+  "btcPrice": 74001.0,
+  "priceChange24h": -2.36,
   "fomoIndex": 27,
-  "aiCommentCN": "市场安静时，心跳最快。",
-  "aiCommentEN": "Calm markets make for racing hearts.",
-  "lastUpdated": 1776634307.439845,
+  "aiCommentCN": "行情在跌，心情在抖.",
+  "aiCommentEN": "Market drops, nerves shake.",
+  "lastUpdated": 1776637862.655207,
   "forexRates": {
     "CNY": 6.8223,
     "EUR": 0.84767,
@@ -13,7 +13,7 @@
   "historyYesterday": 26,
   "historyLastWeek": 16,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【周期判断】\n当前所处周期阶段为熊市末期，市场开始呈现底部信号。\n【当前阶段】\n当前阶段特征包括价格波动加剧、投资者情绪低落以及交易量下降。\n【未来可能走势】\n周期视角下的展望是，市场可能会在短期内呈现反弹走势，但长期仍需要关注经济基本面和政策变化。\n【一句提醒】\n投资者需要保持警惕，避免追高杀低，合理配置资产。",
-  "aiSummaryEN": "[Today's View]\nWe are currently in the late stage of a bear market, with the market starting to show bottoming signals.\n[Key Drivers]\nKey characteristics of the current stage include increased price volatility, low investor sentiment, and decreased trading volume.\n[Outlook]\nFrom a cyclical perspective, the market may experience a rebound in the short term, but long-term prospects still depend on economic fundamentals and policy changes.\n[Reminder]\nInvestors need to remain vigilant, avoid chasing highs and lows, and reasonably allocate their assets.",
-  "aiSummaryUpdated": 1776619958.528748
+  "aiSummaryCN": "【市场情绪】\n当前比特币市场情绪较为谨慎，投资者观望情绪浓厚。\n【情绪信号】\n社交媒体讨论热度降低，散户活跃度下降，衍生品多空比偏空。\n【短期展望】\n未来几天比特币价格可能继续震荡，下方支撑位位72,000美元。\n【一句提醒】\n投资者应保持清醒的头脑，避免追高杀低。",
+  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is cautious, with investors adopting a wait-and-see attitude.\n[Key Drivers]\nSocial media discussion heat has decreased, retail investor activity has declined, and the derivatives long-short ratio is biased towards shorts.\n[Outlook]\nIn the next few days, the bitcoin price may continue to fluctuate, with a support level at $72,000.\n[Reminder]\nInvestors should keep a clear head and avoid chasing highs or selling lows.",
+  "aiSummaryUpdated": 1776637863.653886
 }
