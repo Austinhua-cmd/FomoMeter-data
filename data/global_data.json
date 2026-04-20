@@ -1,10 +1,10 @@
 {
-  "btcPrice": 75070.0,
-  "priceChange24h": -0.0,
+  "btcPrice": 75024.0,
+  "priceChange24h": -0.28,
   "fomoIndex": 29,
-  "aiCommentCN": "行情静默，心跳很快",
-  "aiCommentEN": "Market is calm, but hearts are racing",
-  "lastUpdated": 1776677114.171651,
+  "aiCommentCN": "涨的时候心飞，跌的时候心碎，平的时候心静.",
+  "aiCommentEN": "Market ups make hearts fly, downs make hearts sink.",
+  "lastUpdated": 1776682973.183523,
   "forexRates": {
     "CNY": 6.8223,
     "EUR": 0.84767,
@@ -13,7 +13,7 @@
   "historyYesterday": 27,
   "historyLastWeek": 12,
   "historyLastMonth": 12,
-  "aiSummaryCN": "【今日观点】\n比特币市场情绪依然谨慎，投资者在观望。\n【驱动因素】\n美联储政策、ETF资金和美元指数等宏观因素持续影响市场。\n【市场展望】\n未来24-72小时内，BTC价格可能会继续震荡。\n【一句提醒】\n投资者应密切关注市场动向，谨慎交易。",
-  "aiSummaryEN": "[Today's View]\nThe bitcoin market sentiment remains cautious, with investors watching.\n[Key Drivers]\nFactors such as the Federal Reserve's policy, ETF funds, and the US dollar index continue to impact the market.\n[Outlook]\nIn the next 24-72 hours, the BTC price may continue to fluctuate.\n[Reminder]\nInvestors should closely monitor market trends and trade with caution.",
-  "aiSummaryUpdated": 1776662698.945537
+  "aiSummaryCN": "【机构视角】\n比特币当前价格75,024美元，机构投资者认为其仍有上涨潜力。\n【关键观察】\n1. 24h涨跌-0.3%表明市场波动性降低。\n2. 恐慌贪婪指数29处于恐慌区间，可能意味着买入机会。\n3. 机构资金流入加密市场，推动比特币价格上涨。\n【未来展望】\n从机构投资视角来看，比特币未来仍有增长空间。\n【一句提醒】\n投资比特币存在风险，投资者需谨慎判断。",
+  "aiSummaryEN": "[Today's View]\nBitcoin's current price of $75,024 suggests potential for further growth from an institutional perspective.\n[Key Drivers]\n1. The 24h change of -0.3% indicates decreasing market volatility.\n2. The Fear and Greed Index of 29 is in the fear zone, potentially signaling a buying opportunity.\n3. Institutional funds flowing into the crypto market are driving up Bitcoin's price.\n[Outlook]\nFrom an institutional investment viewpoint, Bitcoin is expected to continue growing.\n[Reminder]\nInvesting in Bitcoin carries risk, and investors should exercise caution.",
+  "aiSummaryUpdated": 1776682974.508753
 }
