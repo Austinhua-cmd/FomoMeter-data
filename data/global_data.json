@@ -1,10 +1,10 @@
 {
-  "btcPrice": 75772.0,
-  "priceChange24h": 0.14,
+  "btcPrice": 75960.0,
+  "priceChange24h": 0.76,
   "fomoIndex": 33,
-  "aiCommentCN": "静静等待的，其实是在默默等待机会。",
-  "aiCommentEN": "Waiting calmly is waiting for opportunity.",
-  "lastUpdated": 1776786629.61213,
+  "aiCommentCN": "市场温柔时，心跳得快。",
+  "aiCommentEN": "Calm markets make anxious hearts.",
+  "lastUpdated": 1776790553.328797,
   "forexRates": {
     "CNY": 6.8158,
     "EUR": 0.84983,
@@ -13,7 +13,7 @@
   "historyYesterday": 29,
   "historyLastWeek": 21,
   "historyLastMonth": 10,
-  "aiSummaryCN": "【机构视角】\n机构投资者认为比特币的当前趋势反映了市场对风险资产的重新评估。\n【关键观察】\nBTC价格达到76,716美元，24小时内涨幅为2.0%，恐慌贪婪指数为33，表明市场仍处于恐慌状态。\n机构资金的流入对比特币价格有着重要影响，当前的趋势可能会持续。\n【未来展望】\n从机构投资视角来看，比特币的未来展望取决于全球经济形势和监管环境的变化。\n【一句提醒】\n投资比特币存在较高的风险，机构投资者应谨慎评估市场情况。",
-  "aiSummaryEN": "[Today's View]\nInstitutional investors believe Bitcoin's current trend reflects a reevaluation of risk assets in the market.\n[Key Drivers]\nBTC price reached $76,716, with a 2.0% increase in 24 hours, and a Fear & Greed Index of 33, indicating the market remains in a state of fear.\nInstitutional capital inflows have a significant impact on Bitcoin's price, and the current trend may continue.\n[Outlook]\nFrom an institutional investment perspective, Bitcoin's future outlook depends on changes in the global economic situation and regulatory environment.\n[Reminder]\nInvesting in Bitcoin carries high risks, and institutional investors should carefully assess market conditions.",
-  "aiSummaryUpdated": 1776769806.802093
+  "aiSummaryCN": "【市场解读】\n当前比特币市场走势呈现稳定上升趋势。\n【关键事件】\n近期全球热点事件，如经济数据发布和监管政策调整，对比特币价格产生了影响。\n【市场影响】\n这些事件导致投资者信心增强，市场走势向好。\n【一句提醒】\n投资者应保持警惕，关注市场变化，避免过度投机。",
+  "aiSummaryEN": "[Today's View]\nThe current Bitcoin market trend is showing a stable upward trend.\n[Key Drivers]\nRecent global hotspots, such as economic data releases and regulatory policy adjustments, have had an impact on Bitcoin prices.\n[Outlook]\nThese events have led to increased investor confidence and a positive market trend.\n[Reminder]\nInvestors should remain vigilant, monitor market changes, and avoid excessive speculation.",
+  "aiSummaryUpdated": 1776790554.159672
 }
