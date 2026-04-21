@@ -1,18 +1,18 @@
 {
-  "btcPrice": 75788.0,
-  "priceChange24h": 2.47,
-  "fomoIndex": 29,
-  "aiCommentCN": "行情轻微，心跳加速。",
-  "aiCommentEN": "Market calm, heart beats fast.",
-  "lastUpdated": 1776726479.475713,
+  "btcPrice": 75894.0,
+  "priceChange24h": 2.64,
+  "fomoIndex": 33,
+  "aiCommentCN": "行情默默涨，心里更慌张。",
+  "aiCommentEN": "Market rises quietly, hearts beat faster still.",
+  "lastUpdated": 1776729863.304039,
   "forexRates": {
     "CNY": 6.8177,
     "EUR": 0.85034,
     "GBP": 0.74018
   },
-  "historyYesterday": 27,
-  "historyLastWeek": 12,
-  "historyLastMonth": 12,
+  "historyYesterday": 29,
+  "historyLastWeek": 21,
+  "historyLastMonth": 10,
   "aiSummaryCN": "【交易观点】\n比特币短期有望维持上涨势头。\n【关键位置】\n76,000 美元为关键支撑位，78,000 美元为阻力位。\n【短线策略】\n可以考虑在 76,000 美元附近买入，目标位 78,000 美元。\n【风险提醒】\n注意恐慌贪婪指数偏低，市场可能出现反弹性下跌。",
   "aiSummaryEN": "[Today's View]\nBitcoin is expected to maintain its upward momentum in the short term.\n[Key Drivers]\n$76,000 is the key support level, and $78,000 is the resistance level.\n[Outlook]\nConsider buying near $76,000, with a target of $78,000.\n[Reminder]\nNote that the Fear and Greed Index is low, and the market may experience a rebound decline.",
   "aiSummaryUpdated": 1776722810.197277
