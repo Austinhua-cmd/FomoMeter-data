@@ -1,10 +1,10 @@
 {
-  "btcPrice": 76353.0,
-  "priceChange24h": 1.72,
+  "btcPrice": 76716.0,
+  "priceChange24h": 2.05,
   "fomoIndex": 33,
-  "aiCommentCN": "行情像在打太极，散户们已练出盯盘内功。",
-  "aiCommentEN": "The market moves like tai chi, while retail traders have mastered the art of obsessive screen-watching.",
-  "lastUpdated": 1776765460.443627,
+  "aiCommentCN": "行情轻微，心跳较快。",
+  "aiCommentEN": "Market is calm, but my heart beats fast.",
+  "lastUpdated": 1776769805.364579,
   "forexRates": {
     "CNY": 6.8177,
     "EUR": 0.85034,
@@ -13,7 +13,7 @@
   "historyYesterday": 29,
   "historyLastWeek": 21,
   "historyLastMonth": 10,
-  "aiSummaryCN": "【今日观点】\n当前比特币市场情绪较为乐观。\n【驱动因素】\n美联储政策、ETF资金、美元指数是影响市场的关键因素。\n【市场展望】\n未来24-72小时内，BTC价格可能会继续上涨。\n【一句提醒】\n投资者应谨慎交易，关注市场变化。",
-  "aiSummaryEN": "[Today's View]\nThe current bitcoin market sentiment is relatively optimistic.\n[Key Drivers]\nThe Federal Reserve's policy, ETF funds, and the US dollar index are key factors driving the market.\n[Outlook]\nIn the next 24-72 hours, the BTC price may continue to rise.\n[Reminder]\nInvestors should trade cautiously and monitor market changes.",
-  "aiSummaryUpdated": 1776751196.404854
+  "aiSummaryCN": "【机构视角】\n机构投资者认为比特币的当前趋势反映了市场对风险资产的重新评估。\n【关键观察】\nBTC价格达到76,716美元，24小时内涨幅为2.0%，恐慌贪婪指数为33，表明市场仍处于恐慌状态。\n机构资金的流入对比特币价格有着重要影响，当前的趋势可能会持续。\n【未来展望】\n从机构投资视角来看，比特币的未来展望取决于全球经济形势和监管环境的变化。\n【一句提醒】\n投资比特币存在较高的风险，机构投资者应谨慎评估市场情况。",
+  "aiSummaryEN": "[Today's View]\nInstitutional investors believe Bitcoin's current trend reflects a reevaluation of risk assets in the market.\n[Key Drivers]\nBTC price reached $76,716, with a 2.0% increase in 24 hours, and a Fear & Greed Index of 33, indicating the market remains in a state of fear.\nInstitutional capital inflows have a significant impact on Bitcoin's price, and the current trend may continue.\n[Outlook]\nFrom an institutional investment perspective, Bitcoin's future outlook depends on changes in the global economic situation and regulatory environment.\n[Reminder]\nInvesting in Bitcoin carries high risks, and institutional investors should carefully assess market conditions.",
+  "aiSummaryUpdated": 1776769806.802093
 }
