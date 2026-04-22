@@ -1,10 +1,10 @@
 {
-  "btcPrice": 78052.0,
-  "priceChange24h": 2.06,
+  "btcPrice": 78127.0,
+  "priceChange24h": 1.86,
   "fomoIndex": 32,
-  "aiCommentCN": "静静等待趋势，心却很忙碌。",
-  "aiCommentEN": "Waiting calmly, but my heart is racing.",
-  "lastUpdated": 1776849365.061891,
+  "aiCommentCN": "趋势没来，先练忍耐力吧",
+  "aiCommentEN": "Waiting for trend, practicing patience first",
+  "lastUpdated": 1776854798.721306,
   "forexRates": {
     "CNY": 6.8158,
     "EUR": 0.84983,
@@ -13,7 +13,7 @@
   "historyYesterday": 33,
   "historyLastWeek": 23,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【机构视角】\n机构资金仍看好比特币长期走势。\n【关键观察】\n比特币价格上涨3.0%，恐慌贪婪指数为32，表明市场情绪偏谨慎。\n机构投资者增持比特币，市场呈现积极态势。\n【未来展望】\n比特币有望继续上涨，机构投资者将持续关注市场走势。\n【一句提醒】\n投资比特币存在风险，需谨慎投资。",
-  "aiSummaryEN": "[Today's View]\nInstitutional investors remain bullish on Bitcoin's long-term trend.\n[Key Drivers]\nBitcoin's price rose by 3.0%, with a Fear and Greed Index of 32, indicating cautious market sentiment.\nInstitutional investors increased their holdings of Bitcoin, and the market showed a positive trend.\n[Outlook]\nBitcoin is expected to continue rising, with institutional investors continuing to monitor market trends.\n[Reminder]\nInvesting in Bitcoin carries risks, and caution is advised.",
-  "aiSummaryUpdated": 1776837446.630359
+  "aiSummaryCN": "【机构视角】\n机构资金持续关注比特币市场走势。\n【关键观察】\nBTC价格达到78,127美元，24h涨跌+1.9%，恐慌贪婪指数为32，表明市场情绪偏谨慎。\n机构投资者正在密切关注市场波动。\n【未来展望】\n从机构视角来看，比特币市场仍有上涨潜力，但需注意风险。\n【一句提醒】\n投资比特币存在较高风险，需谨慎决策。",
+  "aiSummaryEN": "[Today's View]\nInstitutional funds continue to monitor the bitcoin market trend.\n[Key Drivers]\nBTC price reaches $78,127, with a 24h change of +1.9%, and the fear and greed index is 32, indicating a cautious market sentiment.\nInstitutional investors are closely watching market fluctuations.\n[Outlook]\nFrom an institutional perspective, the bitcoin market still has upside potential, but risks need to be noted.\n[Reminder]\nInvesting in bitcoin carries high risks, and decisions should be made cautiously.",
+  "aiSummaryUpdated": 1776854799.770326
 }
