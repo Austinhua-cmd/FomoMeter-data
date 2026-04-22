@@ -1,10 +1,10 @@
 {
-  "btcPrice": 78922.0,
-  "priceChange24h": 4.23,
+  "btcPrice": 79002.0,
+  "priceChange24h": 3.89,
   "fomoIndex": 32,
-  "aiCommentCN": "市场风暴来临，心一定要平静。",
-  "aiCommentEN": "Turbulent markets demand calm minds always.",
-  "lastUpdated": 1776870525.287838,
+  "aiCommentCN": "行情涨了，心里还慌.",
+  "aiCommentEN": "Market up, still nervous though.",
+  "lastUpdated": 1776875802.349975,
   "forexRates": {
     "CNY": 6.8244,
     "EUR": 0.8523,
@@ -13,7 +13,7 @@
   "historyYesterday": 33,
   "historyLastWeek": 23,
   "historyLastMonth": 8,
-  "aiSummaryCN": "【机构视角】\n机构资金持续关注比特币市场走势。\n【关键观察】\nBTC价格达到78,127美元，24h涨跌+1.9%，恐慌贪婪指数为32，表明市场情绪偏谨慎。\n机构投资者正在密切关注市场波动。\n【未来展望】\n从机构视角来看，比特币市场仍有上涨潜力，但需注意风险。\n【一句提醒】\n投资比特币存在较高风险，需谨慎决策。",
-  "aiSummaryEN": "[Today's View]\nInstitutional funds continue to monitor the bitcoin market trend.\n[Key Drivers]\nBTC price reaches $78,127, with a 24h change of +1.9%, and the fear and greed index is 32, indicating a cautious market sentiment.\nInstitutional investors are closely watching market fluctuations.\n[Outlook]\nFrom an institutional perspective, the bitcoin market still has upside potential, but risks need to be noted.\n[Reminder]\nInvesting in bitcoin carries high risks, and decisions should be made cautiously.",
-  "aiSummaryUpdated": 1776854799.770326
+  "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持上涨趋势。\n【关键位置】\n78,500 美元是一条关键支撑线，破位则可能下跌。\n【短线策略】\n可以考虑在 78,500 美元附近做多。\n【风险提醒】\n需注意市场波动风险，做好止损准备。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may maintain its upward trend in the short term.\n[Key Drivers]\n$78,500 is a key support line, and a break could lead to a decline.\n[Outlook]\nConsider buying near $78,500.\n[Reminder]\nBe aware of market volatility and prepare for stop-loss.",
+  "aiSummaryUpdated": 1776875803.532215
 }
