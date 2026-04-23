@@ -1,18 +1,18 @@
 {
-  "btcPrice": 78584.0,
-  "priceChange24h": 3.71,
-  "fomoIndex": 32,
-  "aiCommentCN": "价格跳跃，投资者心跳加速。",
-  "aiCommentEN": "Market jumps, hearts jump faster too.",
-  "lastUpdated": 1776899556.320719,
+  "btcPrice": 78351.0,
+  "priceChange24h": 2.47,
+  "fomoIndex": 46,
+  "aiCommentCN": "行情的波动，是心灵的考验。",
+  "aiCommentEN": "Market waves test the soul.",
+  "lastUpdated": 1776902889.317439,
   "forexRates": {
     "CNY": 6.8244,
     "EUR": 0.8523,
     "GBP": 0.74067
   },
-  "historyYesterday": 33,
+  "historyYesterday": 32,
   "historyLastWeek": 23,
-  "historyLastMonth": 8,
+  "historyLastMonth": 11,
   "aiSummaryCN": "【市场解读】\n比特币价格小幅上涨，当前走势呈现出稳定性。\n【关键事件】\n近期全球热点事件如经济数据发布、监管政策调整等对市场产生了影响。\n【市场影响】\n这些事件使得投资者对市场产生了较为乐观的预期，从而推动了比特币价格的上涨。\n【一句提醒】\n投资者需要保持警惕，密切关注市场动态，避免风险。",
   "aiSummaryEN": "[Today's View]\nBitcoin price shows a slight increase, with a stable trend.\n[Key Drivers]\nRecent global hotspots such as economic data releases and regulatory policy adjustments have affected the market.\n[Outlook]\nThese events have led to a relatively optimistic expectation among investors, driving up the price of Bitcoin.\n[Reminder]\nInvestors need to remain vigilant, closely monitoring market dynamics to avoid risks.",
   "aiSummaryUpdated": 1776895872.35215
