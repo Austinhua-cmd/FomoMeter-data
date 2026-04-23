@@ -1,10 +1,10 @@
 {
-  "btcPrice": 77621.0,
-  "priceChange24h": 0.04,
+  "btcPrice": 78065.0,
+  "priceChange24h": 0.13,
   "fomoIndex": 46,
-  "aiCommentCN": "行情静默时，心跳最快。",
-  "aiCommentEN": "Market silence makes hearts beat faster.",
-  "lastUpdated": 1776916364.551329,
+  "aiCommentCN": "市场安静时，心跳最响。",
+  "aiCommentEN": "Calm markets hide the loudest heartbeats.",
+  "lastUpdated": 1776924178.005493,
   "forexRates": {
     "CNY": 6.8244,
     "EUR": 0.8523,
@@ -13,7 +13,7 @@
   "historyYesterday": 32,
   "historyLastWeek": 23,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【市场解读】\n比特币价格小幅上涨，当前走势呈现出稳定性。\n【关键事件】\n近期全球热点事件如经济数据发布、监管政策调整等对市场产生了影响。\n【市场影响】\n这些事件使得投资者对市场产生了较为乐观的预期，从而推动了比特币价格的上涨。\n【一句提醒】\n投资者需要保持警惕，密切关注市场动态，避免风险。",
-  "aiSummaryEN": "[Today's View]\nBitcoin price shows a slight increase, with a stable trend.\n[Key Drivers]\nRecent global hotspots such as economic data releases and regulatory policy adjustments have affected the market.\n[Outlook]\nThese events have led to a relatively optimistic expectation among investors, driving up the price of Bitcoin.\n[Reminder]\nInvestors need to remain vigilant, closely monitoring market dynamics to avoid risks.",
-  "aiSummaryUpdated": 1776895872.35215
+  "aiSummaryCN": "【AI综合判断】\n比特币市场处于震荡调整阶段。\n【三大驱动因素】\n1. 宏观经济数据影响\n2. 资金流向加密市场\n3. 市场情绪波动\n【未来展望】\n短期内价格可能继续波动。\n【一句提醒】\n投资者需谨慎风险，关注市场信号。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market is in a fluctuation adjustment phase.\n[Key Drivers]\n1. Macro-economic data influence\n2. Capital flow into crypto market\n3. Market sentiment volatility\n[Outlook]\nPrice may continue to fluctuate in the short term.\n[Reminder]\nInvestors should be cautious of risks and monitor market signals.",
+  "aiSummaryUpdated": 1776924178.711297
 }
