@@ -1,10 +1,10 @@
 {
-  "btcPrice": 78478.0,
-  "priceChange24h": -0.7,
+  "btcPrice": 78117.0,
+  "priceChange24h": -0.81,
   "fomoIndex": 46,
-  "aiCommentCN": "行情静静地，心跳得快.",
-  "aiCommentEN": "Market stays calm, hearts beat fast.",
-  "lastUpdated": 1776957929.62743,
+  "aiCommentCN": "行情没动，想法很多",
+  "aiCommentEN": "Market stays calm, minds are racing",
+  "lastUpdated": 1776963501.248124,
   "forexRates": {
     "CNY": 6.835,
     "EUR": 0.85514,
@@ -13,7 +13,7 @@
   "historyYesterday": 32,
   "historyLastWeek": 23,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【多空格局】\n比特币市场当前呈现出多空博弈的局面。\n【多头理由】\n比特币价格维持在77,656美元左右，24h涨跌仅-0.4%，表明市场仍有上涨的潜力。\n【空头理由】\n恐慌贪婪指数为46，表明投资者仍然存在一定的恐慌情绪，可能会对价格产生下行压力。\n【市场展望】\n短期内，比特币价格可能会继续波动，投资者需要密切关注市场动态。",
-  "aiSummaryEN": "[Today's View]\nThe bitcoin market is currently in a state of multi-empty game.\n[Key Drivers]\nBitcoin prices remain around $77,656, with a 24h rise and fall of only -0.4%, indicating that the market still has the potential to rise.\n[Outlook]\nThe fear and greed index is 46, indicating that investors still have a certain degree of panic, which may put downward pressure on prices.\n[Reminder]\nIn the short term, the bitcoin price may continue to fluctuate, and investors need to closely monitor market dynamics.",
-  "aiSummaryUpdated": 1776938628.365622
+  "aiSummaryCN": "【资金观察】\n比特币市场资金流动趋于谨慎。\n【资金动向】\n1. ETF资金流入减少，2. 稳定币发行量增加，3. 巨鲸钱包活跃度降低。\n【市场展望】\n短期内比特币价格可能维持震荡状态。\n【一句提醒】\n投资者需谨慎，密切关注市场信号。",
+  "aiSummaryEN": "[Today's View]\nBitcoin market sentiment is cautious.\n[Key Drivers]\n1. Decreased ETF fund inflows, 2. Increased stablecoin issuance, 3. Lowered whale wallet activity.\n[Outlook]\nBitcoin price may remain volatile in the short term.\n[Reminder]\nInvestors should be cautious and closely monitor market signals.",
+  "aiSummaryUpdated": 1776963502.117155
 }
