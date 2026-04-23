@@ -1,10 +1,10 @@
 {
-  "btcPrice": 78009.0,
-  "priceChange24h": -1.13,
+  "btcPrice": 77699.0,
+  "priceChange24h": -1.48,
   "fomoIndex": 46,
-  "aiCommentCN": "行情慢如龟，心跳如兔.",
-  "aiCommentEN": "Market moves slow, heart beats fast.",
-  "lastUpdated": 1776967733.419533,
+  "aiCommentCN": "跌的时候想抄底，稳的时候想逃顶。",
+  "aiCommentEN": "Fear of missing out is real, so is fear of holding on.",
+  "lastUpdated": 1776973724.216372,
   "forexRates": {
     "CNY": 6.835,
     "EUR": 0.85514,
