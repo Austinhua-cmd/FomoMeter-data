@@ -1,10 +1,10 @@
 {
-  "btcPrice": 78120.0,
-  "priceChange24h": -0.02,
+  "btcPrice": 77656.0,
+  "priceChange24h": -0.41,
   "fomoIndex": 46,
-  "aiCommentCN": "行情静默，心跳如鼓。",
-  "aiCommentEN": "Market silence, heartbeat racing.",
-  "lastUpdated": 1776932237.882821,
+  "aiCommentCN": "行情没动，散户心动",
+  "aiCommentEN": "Market stays calm, hearts still racing",
+  "lastUpdated": 1776938627.061011,
   "forexRates": {
     "CNY": 6.8244,
     "EUR": 0.8523,
@@ -13,7 +13,7 @@
   "historyYesterday": 32,
   "historyLastWeek": 23,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【AI综合判断】\n比特币市场处于震荡调整阶段。\n【三大驱动因素】\n1. 宏观经济数据影响\n2. 资金流向加密市场\n3. 市场情绪波动\n【未来展望】\n短期内价格可能继续波动。\n【一句提醒】\n投资者需谨慎风险，关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market is in a fluctuation adjustment phase.\n[Key Drivers]\n1. Macro-economic data influence\n2. Capital flow into crypto market\n3. Market sentiment volatility\n[Outlook]\nPrice may continue to fluctuate in the short term.\n[Reminder]\nInvestors should be cautious of risks and monitor market signals.",
-  "aiSummaryUpdated": 1776924178.711297
+  "aiSummaryCN": "【多空格局】\n比特币市场当前呈现出多空博弈的局面。\n【多头理由】\n比特币价格维持在77,656美元左右，24h涨跌仅-0.4%，表明市场仍有上涨的潜力。\n【空头理由】\n恐慌贪婪指数为46，表明投资者仍然存在一定的恐慌情绪，可能会对价格产生下行压力。\n【市场展望】\n短期内，比特币价格可能会继续波动，投资者需要密切关注市场动态。",
+  "aiSummaryEN": "[Today's View]\nThe bitcoin market is currently in a state of multi-empty game.\n[Key Drivers]\nBitcoin prices remain around $77,656, with a 24h rise and fall of only -0.4%, indicating that the market still has the potential to rise.\n[Outlook]\nThe fear and greed index is 46, indicating that investors still have a certain degree of panic, which may put downward pressure on prices.\n[Reminder]\nIn the short term, the bitcoin price may continue to fluctuate, and investors need to closely monitor market dynamics.",
+  "aiSummaryUpdated": 1776938628.365622
 }
