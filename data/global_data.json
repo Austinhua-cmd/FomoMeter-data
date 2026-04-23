@@ -1,10 +1,10 @@
 {
-  "btcPrice": 78030.0,
-  "priceChange24h": -0.91,
+  "btcPrice": 78251.0,
+  "priceChange24h": -0.37,
   "fomoIndex": 46,
-  "aiCommentCN": "跌的时候想抄底，涨的时候怕晚了",
-  "aiCommentEN": "Fear missing out on dips, fear being late to rallies",
-  "lastUpdated": 1776980487.515562,
+  "aiCommentCN": "行情没动，心里有剧情",
+  "aiCommentEN": "Market is calm, but hearts are racing",
+  "lastUpdated": 1776984006.983759,
   "forexRates": {
     "CNY": 6.835,
     "EUR": 0.85514,
@@ -13,7 +13,7 @@
   "historyYesterday": 32,
   "historyLastWeek": 23,
   "historyLastMonth": 11,
-  "aiSummaryCN": "【资金观察】\n比特币市场资金流动趋于谨慎。\n【资金动向】\n1. ETF资金流入减少，2. 稳定币发行量增加，3. 巨鲸钱包活跃度降低。\n【市场展望】\n短期内比特币价格可能维持震荡状态。\n【一句提醒】\n投资者需谨慎，密切关注市场信号。",
-  "aiSummaryEN": "[Today's View]\nBitcoin market sentiment is cautious.\n[Key Drivers]\n1. Decreased ETF fund inflows, 2. Increased stablecoin issuance, 3. Lowered whale wallet activity.\n[Outlook]\nBitcoin price may remain volatile in the short term.\n[Reminder]\nInvestors should be cautious and closely monitor market signals.",
-  "aiSummaryUpdated": 1776963502.117155
+  "aiSummaryCN": "【AI综合判断】\n比特币当前处于震荡整理阶段。\n【三大驱动因素】\n1. 宏观经济数据影响\n2. 资金流动性变化\n3. 市场情绪波动\n【未来展望】\n短期内价格可能继续波动。\n【一句提醒】\n投资者需谨慎风险，密切关注市场变化。",
+  "aiSummaryEN": "[Today's View]\nBitcoin is currently in a consolidation phase.\n[Key Drivers]\n1. Macro-economic data influence\n2. Changes in fund liquidity\n3. Market sentiment fluctuations\n[Outlook]\nPrices may continue to fluctuate in the short term.\n[Reminder]\nInvestors need to be cautious of risks and closely monitor market changes.",
+  "aiSummaryUpdated": 1776984007.668611
 }
