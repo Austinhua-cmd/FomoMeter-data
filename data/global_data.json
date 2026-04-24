@@ -1,18 +1,18 @@
 {
-  "btcPrice": 78217.0,
-  "priceChange24h": -0.07,
-  "fomoIndex": 46,
-  "aiCommentCN": "价格不动，心跳加速，市场情绪很忙碌",
-  "aiCommentEN": "Market stays still, heart beats fast, emotions are busy",
-  "lastUpdated": 1776987656.696272,
+  "btcPrice": 78367.0,
+  "priceChange24h": 0.15,
+  "fomoIndex": 39,
+  "aiCommentCN": "市场静悄悄，散户心跳快.",
+  "aiCommentEN": "Market is quiet, hearts are racing.",
+  "lastUpdated": 1776996753.60654,
   "forexRates": {
     "CNY": 6.835,
     "EUR": 0.85514,
     "GBP": 0.74034
   },
-  "historyYesterday": 32,
-  "historyLastWeek": 23,
-  "historyLastMonth": 11,
+  "historyYesterday": 46,
+  "historyLastWeek": 21,
+  "historyLastMonth": 14,
   "aiSummaryCN": "【AI综合判断】\n比特币当前处于震荡整理阶段。\n【三大驱动因素】\n1. 宏观经济数据影响\n2. 资金流动性变化\n3. 市场情绪波动\n【未来展望】\n短期内价格可能继续波动。\n【一句提醒】\n投资者需谨慎风险，密切关注市场变化。",
   "aiSummaryEN": "[Today's View]\nBitcoin is currently in a consolidation phase.\n[Key Drivers]\n1. Macro-economic data influence\n2. Changes in fund liquidity\n3. Market sentiment fluctuations\n[Outlook]\nPrices may continue to fluctuate in the short term.\n[Reminder]\nInvestors need to be cautious of risks and closely monitor market changes.",
   "aiSummaryUpdated": 1776984007.668611
