@@ -1,10 +1,10 @@
 {
-  "btcPrice": 77502.0,
-  "priceChange24h": -0.11,
+  "btcPrice": 77720.0,
+  "priceChange24h": 0.43,
   "fomoIndex": 39,
-  "aiCommentCN": "跌的时候想抄底，抄完继续纠结",
-  "aiCommentEN": "Falling prices make us want to buy, but then we hesitate",
-  "lastUpdated": 1777022118.139742,
+  "aiCommentCN": "行情缓慢，心情不慢",
+  "aiCommentEN": "Market slows, emotions accelerate",
+  "lastUpdated": 1777027798.47069,
   "forexRates": {
     "CNY": 6.835,
     "EUR": 0.85514,
@@ -13,7 +13,7 @@
   "historyYesterday": 46,
   "historyLastWeek": 21,
   "historyLastMonth": 14,
-  "aiSummaryCN": "【交易观点】\n比特币短期内可能会出现小幅波动。\n【关键位置】\n77,000 美元以下为关键支撑位，80,000 美元以上为关键阻力位。\n【短线策略】\n低位买入，高位卖出为主。\n【风险提醒】\n市场波动较大，交易需谨慎。",
-  "aiSummaryEN": "[Today's View]\nBitcoin may experience minor fluctuations in the short term.\n[Key Drivers]\n$77,000 is the key support level, and $80,000 is the key resistance level.\n[Outlook]\nBuying at low points and selling at high points is the main strategy.\n[Reminder]\nThe market is highly volatile, so trade with caution.",
-  "aiSummaryUpdated": 1777008011.710999
+  "aiSummaryCN": "【交易观点】\n比特币短期内可能会维持震荡走势。\n【关键位置】\n当前价格77,720美元附近存在一定支撑。\n【短线策略】\n可以考虑在77,500美元附近买入，目标位78,500美元。\n【风险提醒】\n需注意恐慌贪婪指数较低，可能会有较大波动风险。",
+  "aiSummaryEN": "[Today's View]\nBitcoin may maintain a fluctuating trend in the short term.\n[Key Drivers]\nCurrent price around $77,720 has some support.\n[Outlook]\nConsider buying around $77,500, targeting $78,500.\n[Reminder]\nNote that the fear and greed index is relatively low, and there may be a risk of large fluctuations.",
+  "aiSummaryUpdated": 1777027799.420552
 }
